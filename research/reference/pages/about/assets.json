@@ -1,0 +1,2189 @@
+{
+  "imgs": [
+    {
+      "src": "https://framerusercontent.com/images/urHsc2gl0mz8FFsPFV1HMTq2DnE.svg?width=26&height=26",
+      "srcset": null,
+      "alt": "",
+      "naturalWidth": 26,
+      "naturalHeight": 26,
+      "rect": {
+        "x": 144,
+        "y": 30,
+        "width": 24,
+        "height": 24,
+        "top": 30,
+        "right": 168,
+        "bottom": 54,
+        "left": 144
+      },
+      "style": {
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "filter": "none",
+        "opacity": "1",
+        "borderRadius": "0px",
+        "transform": "none"
+      }
+    },
+    {
+      "src": "https://framerusercontent.com/images/urHsc2gl0mz8FFsPFV1HMTq2DnE.svg?width=26&height=26",
+      "srcset": null,
+      "alt": "",
+      "naturalWidth": 26,
+      "naturalHeight": 26,
+      "rect": {
+        "x": 397.125,
+        "y": -53.99774169921875,
+        "width": 24,
+        "height": 24,
+        "top": -53.99774169921875,
+        "right": 421.125,
+        "bottom": -29.99774169921875,
+        "left": 397.125
+      },
+      "style": {
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "filter": "none",
+        "opacity": "1",
+        "borderRadius": "0px",
+        "transform": "none"
+      }
+    },
+    {
+      "src": "https://framerusercontent.com/images/cgXwgj75ijDSBCwJjLkPHR8f8.png?width=512&height=152",
+      "srcset": null,
+      "alt": "",
+      "naturalWidth": 512,
+      "naturalHeight": 152,
+      "rect": {
+        "x": 144,
+        "y": 496.453125,
+        "width": 162,
+        "height": 48.09375,
+        "top": 496.453125,
+        "right": 306,
+        "bottom": 544.546875,
+        "left": 144
+      },
+      "style": {
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "filter": "none",
+        "opacity": "1",
+        "borderRadius": "0px",
+        "transform": "none"
+      }
+    },
+    {
+      "src": "https://framerusercontent.com/images/xr7AByWMQArTJoUQ72juGc1wbI.jpg?scale-down-to=512&width=2244&height=2244",
+      "srcset": "https://framerusercontent.com/images/xr7AByWMQArTJoUQ72juGc1wbI.jpg?scale-down-to=512&width=2244&height=2244 512w,https://framerusercontent.com/images/xr7AByWMQArTJoUQ72juGc1wbI.jpg?scale-down-to=1024&width=2244&height=2244 1024w,https://framerusercontent.com/images/xr7AByWMQArTJoUQ72juGc1wbI.jpg?scale-down-to=2048&width=2244&height=2244 2048w,https://framerusercontent.com/images/xr7AByWMQArTJoUQ72juGc1wbI.jpg?width=2244&height=2244 2244w",
+      "alt": "",
+      "naturalWidth": 461,
+      "naturalHeight": 461,
+      "rect": {
+        "x": 835.203125,
+        "y": 148,
+        "width": 460.796875,
+        "height": 437,
+        "top": 148,
+        "right": 1296,
+        "bottom": 585,
+        "left": 835.203125
+      },
+      "style": {
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "filter": "none",
+        "opacity": "1",
+        "borderRadius": "16px",
+        "transform": "none"
+      }
+    },
+    {
+      "src": "https://framerusercontent.com/images/tM9dFJoYpuPFsgm0rEyiucfcUWc.png?scale-down-to=512&width=1227&height=917",
+      "srcset": "https://framerusercontent.com/images/tM9dFJoYpuPFsgm0rEyiucfcUWc.png?scale-down-to=512&width=1227&height=917 512w,https://framerusercontent.com/images/tM9dFJoYpuPFsgm0rEyiucfcUWc.png?scale-down-to=1024&width=1227&height=917 1024w,https://framerusercontent.com/images/tM9dFJoYpuPFsgm0rEyiucfcUWc.png?width=1227&height=917 1227w",
+      "alt": "",
+      "naturalWidth": 181,
+      "naturalHeight": 135,
+      "rect": {
+        "x": 771.203125,
+        "y": 456.015625,
+        "width": 181,
+        "height": 144.984375,
+        "top": 456.015625,
+        "right": 952.203125,
+        "bottom": 601,
+        "left": 771.203125
+      },
+      "style": {
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "filter": "none",
+        "opacity": "1",
+        "borderRadius": "0px",
+        "transform": "none"
+      }
+    },
+    {
+      "src": "https://framerusercontent.com/images/UzJzJqXzd7hGr0L8GmNzJ0s41wM.png?width=1254&height=1254",
+      "srcset": "https://framerusercontent.com/images/UzJzJqXzd7hGr0L8GmNzJ0s41wM.png?scale-down-to=512&width=1254&height=1254 512w,https://framerusercontent.com/images/UzJzJqXzd7hGr0L8GmNzJ0s41wM.png?scale-down-to=1024&width=1254&height=1254 1024w,https://framerusercontent.com/images/UzJzJqXzd7hGr0L8GmNzJ0s41wM.png?width=1254&height=1254 1254w",
+      "alt": "",
+      "naturalWidth": 1440,
+      "naturalHeight": 1440,
+      "rect": {
+        "x": 760,
+        "y": 1204.4765625,
+        "width": 536,
+        "height": 594,
+        "top": 1204.4765625,
+        "right": 1296,
+        "bottom": 1798.4765625,
+        "left": 760
+      },
+      "style": {
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "filter": "none",
+        "opacity": "1",
+        "borderRadius": "16px",
+        "transform": "none"
+      }
+    },
+    {
+      "src": "https://framerusercontent.com/images/ci1UaZ0kvUmKEdgx7EOGFleYTo.svg?scale-down-to=512&width=800&height=800",
+      "srcset": "https://framerusercontent.com/images/ci1UaZ0kvUmKEdgx7EOGFleYTo.svg?scale-down-to=512&width=800&height=800 512w,https://framerusercontent.com/images/ci1UaZ0kvUmKEdgx7EOGFleYTo.svg?width=800&height=800 800w",
+      "alt": "",
+      "naturalWidth": 50,
+      "naturalHeight": 50,
+      "rect": {
+        "x": 798.2567138671875,
+        "y": 2706.095458984375,
+        "width": 31.3887939453125,
+        "height": 31.306884765625,
+        "top": 2706.095458984375,
+        "right": 829.6455078125,
+        "bottom": 2737.40234375,
+        "left": 798.2567138671875
+      },
+      "style": {
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "filter": "none",
+        "opacity": "1",
+        "borderRadius": "0px",
+        "transform": "none"
+      }
+    },
+    {
+      "src": "https://framerusercontent.com/images/ALQstMfPrtqwn4YcWXNvneT92fg.svg?scale-down-to=512&width=800&height=800",
+      "srcset": "https://framerusercontent.com/images/ALQstMfPrtqwn4YcWXNvneT92fg.svg?scale-down-to=512&width=800&height=800 512w,https://framerusercontent.com/images/ALQstMfPrtqwn4YcWXNvneT92fg.svg?width=800&height=800 800w",
+      "alt": "",
+      "naturalWidth": 50,
+      "naturalHeight": 50,
+      "rect": {
+        "x": 1058.299072265625,
+        "y": 2631.037841796875,
+        "width": 30.46337890625,
+        "height": 30.142822265625,
+        "top": 2631.037841796875,
+        "right": 1088.762451171875,
+        "bottom": 2661.1806640625,
+        "left": 1058.299072265625
+      },
+      "style": {
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "filter": "none",
+        "opacity": "1",
+        "borderRadius": "0px",
+        "transform": "none"
+      }
+    },
+    {
+      "src": "https://framerusercontent.com/images/Xc4LE3LkV6WFbkGO1O4vvBb1v0.png?scale-down-to=512&width=960&height=960",
+      "srcset": "https://framerusercontent.com/images/Xc4LE3LkV6WFbkGO1O4vvBb1v0.png?scale-down-to=512&width=960&height=960 512w,https://framerusercontent.com/images/Xc4LE3LkV6WFbkGO1O4vvBb1v0.png?width=960&height=960 960w",
+      "alt": "",
+      "naturalWidth": 32,
+      "naturalHeight": 32,
+      "rect": {
+        "x": 1042.24658203125,
+        "y": 2754.212646484375,
+        "width": 30.6572265625,
+        "height": 32.202880859375,
+        "top": 2754.212646484375,
+        "right": 1072.90380859375,
+        "bottom": 2786.41552734375,
+        "left": 1042.24658203125
+      },
+      "style": {
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "filter": "none",
+        "opacity": "1",
+        "borderRadius": "0px",
+        "transform": "none"
+      }
+    },
+    {
+      "src": "https://framerusercontent.com/images/BDVysRFEd3LQfO5Kta9TDvjYlM.svg?width=42&height=42",
+      "srcset": null,
+      "alt": "",
+      "naturalWidth": 42,
+      "naturalHeight": 42,
+      "rect": {
+        "x": 1025.836669921875,
+        "y": 2880.124267578125,
+        "width": 30.85205078125,
+        "height": 34.34765625,
+        "top": 2880.124267578125,
+        "right": 1056.688720703125,
+        "bottom": 2914.471923828125,
+        "left": 1025.836669921875
+      },
+      "style": {
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "filter": "none",
+        "opacity": "1",
+        "borderRadius": "0px",
+        "transform": "none"
+      }
+    },
+    {
+      "src": "https://framerusercontent.com/images/5xFWoMTW4cSYWo5t83cv8Yp6Ao.svg?scale-down-to=512&width=1080&height=1080",
+      "srcset": "https://framerusercontent.com/images/5xFWoMTW4cSYWo5t83cv8Yp6Ao.svg?scale-down-to=512&width=1080&height=1080 512w,https://framerusercontent.com/images/5xFWoMTW4cSYWo5t83cv8Yp6Ao.svg?scale-down-to=1024&width=1080&height=1080 1024w,https://framerusercontent.com/images/5xFWoMTW4cSYWo5t83cv8Yp6Ao.svg?width=1080&height=1080 1080w",
+      "alt": "",
+      "naturalWidth": 67,
+      "naturalHeight": 67,
+      "rect": {
+        "x": 1009.0571899414062,
+        "y": 3008.864501953125,
+        "width": 31.04791259765625,
+        "height": 36.58203125,
+        "top": 3008.864501953125,
+        "right": 1040.1051025390625,
+        "bottom": 3045.446533203125,
+        "left": 1009.0571899414062
+      },
+      "style": {
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "filter": "none",
+        "opacity": "1",
+        "borderRadius": "0px",
+        "transform": "none"
+      }
+    },
+    {
+      "src": "https://framerusercontent.com/images/hiVKDTvJcZfQcvsdGemPrqIROGc.png?scale-down-to=1024&width=1244&height=1265",
+      "srcset": "https://framerusercontent.com/images/hiVKDTvJcZfQcvsdGemPrqIROGc.png?scale-down-to=1024&width=1244&height=1265 1007w,https://framerusercontent.com/images/hiVKDTvJcZfQcvsdGemPrqIROGc.png?width=1244&height=1265 1244w",
+      "alt": "",
+      "naturalWidth": 536,
+      "naturalHeight": 545,
+      "rect": {
+        "x": 144,
+        "y": 3441.4912109375,
+        "width": 536,
+        "height": 520,
+        "top": 3441.4912109375,
+        "right": 680,
+        "bottom": 3961.4912109375,
+        "left": 144
+      },
+      "style": {
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "filter": "none",
+        "opacity": "1",
+        "borderRadius": "16px",
+        "transform": "none"
+      }
+    },
+    {
+      "src": "https://framerusercontent.com/images/cgXwgj75ijDSBCwJjLkPHR8f8.png?width=512&height=152",
+      "srcset": null,
+      "alt": "",
+      "naturalWidth": 512,
+      "naturalHeight": 152,
+      "rect": {
+        "x": 760,
+        "y": 3732.248291015625,
+        "width": 160,
+        "height": 47.5,
+        "top": 3732.248291015625,
+        "right": 920,
+        "bottom": 3779.748291015625,
+        "left": 760
+      },
+      "style": {
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "filter": "none",
+        "opacity": "1",
+        "borderRadius": "0px",
+        "transform": "none"
+      }
+    },
+    {
+      "src": "https://framerusercontent.com/images/urHsc2gl0mz8FFsPFV1HMTq2DnE.svg?width=26&height=26",
+      "srcset": null,
+      "alt": "",
+      "naturalWidth": 26,
+      "naturalHeight": 26,
+      "rect": {
+        "x": 176,
+        "y": 4709,
+        "width": 24,
+        "height": 24,
+        "top": 4709,
+        "right": 200,
+        "bottom": 4733,
+        "left": 176
+      },
+      "style": {
+        "objectFit": "cover",
+        "objectPosition": "50% 50%",
+        "filter": "none",
+        "opacity": "1",
+        "borderRadius": "0px",
+        "transform": "none"
+      }
+    }
+  ],
+  "svgs": [
+    {
+      "index": 0,
+      "viewBox": "0 0 24 24",
+      "width": 20,
+      "height": 20,
+      "visible": true,
+      "outerHTML": "<svg class=\"framer-i7PQ2 framer-1bc4v55\" role=\"presentation\" viewBox=\"0 0 24 24\" style=\"--14lvtz6: 1.8; --1gwzuy8: var(--token-becea183-8eb9-4504-a8a1-482108af648a, rgb(255, 255, 255)); opacity: 1;\"><use href=\"#986378173\"></use></svg>",
+      "parentText": "Let's talk"
+    },
+    {
+      "index": 1,
+      "viewBox": "0 0 24 24",
+      "width": 20,
+      "height": 20,
+      "visible": true,
+      "outerHTML": "<svg class=\"framer-i7PQ2 framer-1bc4v55\" role=\"presentation\" viewBox=\"0 0 24 24\" style=\"--14lvtz6: 1.8; --1gwzuy8: var(--token-becea183-8eb9-4504-a8a1-482108af648a, rgb(255, 255, 255)); opacity: 1;\"><use href=\"#986378173\"></use></svg>",
+      "parentText": "Let's talk"
+    },
+    {
+      "index": 2,
+      "viewBox": "0 0 24 24",
+      "width": 24,
+      "height": 24,
+      "visible": true,
+      "outerHTML": "<svg class=\"framer-cZIul framer-r39g8v\" role=\"presentation\" viewBox=\"0 0 24 24\" style=\"--14lvtz6: 1.8; --1gwzuy8: var(--token-9eeddc74-3981-48ed-b1f6-db9260f54e0b, rgb(18, 18, 24)); --framer-icon-mask-mode: intersect; --framer-icon-mask: linear-gradient(0deg, rgba(0,0,0,0) 0%, rgba(0,0,0,1) 50%) add; opacity: 1;\"><use href=\"#3282963836\"></use></svg>",
+      "parentText": ""
+    },
+    {
+      "index": 3,
+      "viewBox": "0 0 24 24",
+      "width": 24,
+      "height": 24,
+      "visible": true,
+      "outerHTML": "<svg class=\"framer-7WM5H framer-r39g8v\" role=\"presentation\" viewBox=\"0 0 24 24\" style=\"--14lvtz6: 1.8; --1gwzuy8: var(--token-9eeddc74-3981-48ed-b1f6-db9260f54e0b, rgb(18, 18, 24)); --framer-icon-mask-mode: intersect; --framer-icon-mask: linear-gradient(0deg, rgba(0,0,0,0) 0%, rgba(0,0,0,1) 50%) add; opacity: 1;\"><use href=\"#4195133704\"></use></svg>",
+      "parentText": ""
+    },
+    {
+      "index": 4,
+      "viewBox": "0 0 24 24",
+      "width": 24,
+      "height": 24,
+      "visible": true,
+      "outerHTML": "<svg class=\"framer-lo60n framer-r39g8v\" role=\"presentation\" viewBox=\"0 0 24 24\" style=\"--14lvtz6: 1.8; --1gwzuy8: var(--token-9eeddc74-3981-48ed-b1f6-db9260f54e0b, rgb(18, 18, 24)); --framer-icon-mask-mode: intersect; --framer-icon-mask: linear-gradient(0deg, rgba(0,0,0,0) 0%, rgba(0,0,0,1) 50%) add; opacity: 1;\"><use href=\"#2283911640\"></use></svg>",
+      "parentText": ""
+    },
+    {
+      "index": 5,
+      "viewBox": "0 0 256 256",
+      "width": 16,
+      "height": 16,
+      "visible": true,
+      "outerHTML": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" focusable=\"false\" color=\"var(--token-9eeddc74-3981-48ed-b1f6-db9260f54e0b, rgb(18, 18, 24))\" style=\"user-select: none; width: 100%; height: 100%; display: inline-block; fill: var(--token-9eeddc74-3981-48ed-b1f6-db9260f54e0b, rgb(18, 18, 24)); color: var(--token-9eeddc74-3981-48ed-b1f6-db9260f54e0b, rgb(18, 18, 24)); flex-shrink: 0;\"><g color=\"var(--token-9eeddc74-3981-48ed-b1f6-db9260f54e0b, rgb(18, 18, 24))\" weight=\"duotone\"><path d=\"M200,48v63.1c0,39.7-31.75,72.6-71.45,72.9A72,72,0,0,1,56,112V48Z\" opacity=\"0.2\"></path><path d=\"M232,64H208V48a8,8,0,0,0-8-8H56a8,8,0,0,0-8,8V64H24A16,16,0,0,0,8,80V96a40,40,0,0,0,40,40h3.65A80.13,80.13,0,0,0,120,191.61V216H96a8,8,0,0,0,0,16h64a8,8,0,0,0,0-16H136V191.58c31.94-3.23,58.44-25.64,68.08-55.58H208a40,40,0,0,0,40-40V80A16,16,0,0,0,232,64ZM48,120A24,24,0,0,1,24,96V80H48v32q0,4,.39,8Zm144-8.9c0,35.52-29,64.64-64,64.9a64,64,0,0,1-64-64V56H192ZM232,96a24,24,0,0,1-24,24h-.5a81.81,81.81,0,0,0,.5-8.9V80h24Z\"></path></g></svg>",
+      "parentText": ""
+    },
+    {
+      "index": 6,
+      "viewBox": "0 0 256 256",
+      "width": 20,
+      "height": 20,
+      "visible": true,
+      "outerHTML": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" focusable=\"false\" color=\"var(--token-9eeddc74-3981-48ed-b1f6-db9260f54e0b, rgb(18, 18, 24))\" style=\"user-select: none; width: 100%; height: 100%; display: inline-block; fill: var(--token-9eeddc74-3981-48ed-b1f6-db9260f54e0b, rgb(18, 18, 24)); color: var(--token-9eeddc74-3981-48ed-b1f6-db9260f54e0b, rgb(18, 18, 24)); flex-shrink: 0;\"><g color=\"var(--token-9eeddc74-3981-48ed-b1f6-db9260f54e0b, rgb(18, 18, 24))\" weight=\"duotone\"><path d=\"M168,144a40,40,0,1,1-40-40A40,40,0,0,1,168,144ZM64,56A32,32,0,1,0,96,88,32,32,0,0,0,64,56Zm128,0a32,32,0,1,0,32,32A32,32,0,0,0,192,56Z\" opacity=\"0.2\"></path><path d=\"M244.8,150.4a8,8,0,0,1-11.2-1.6A51.6,51.6,0,0,0,192,128a8,8,0,0,1,0-16,24,24,0,1,0-23.24-30,8,8,0,1,1-15.5-4A40,40,0,1,1,219,117.51a67.94,67.94,0,0,1,27.43,21.68A8,8,0,0,1,244.8,150.4ZM190.92,212a8,8,0,1,1-13.85,8,57,57,0,0,0-98.15,0,8,8,0,1,1-13.84-8,72.06,72.06,0,0,1,33.74-29.92,48,48,0,1,1,58.36,0A72.06,72.06,0,0,1,190.92,212ZM128,176a32,32,0,1,0-32-32A32,32,0,0,0,128,176ZM72,120a8,8,0,0,0-8-8A24,24,0,1,1,87.24,82a8,8,0,1,0,15.5-4A40,40,0,1,0,37,117.51,67.94,67.94,0,0,0,9.6,139.19a8,8,0,1,0,12.8,9.61A51.6,51.6,0,0,1,64,128,8,8,0,0,0,72,120Z\"></path></g></svg>",
+      "parentText": ""
+    },
+    {
+      "index": 7,
+      "viewBox": "0 0 256 256",
+      "width": 20,
+      "height": 20,
+      "visible": true,
+      "outerHTML": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" focusable=\"false\" color=\"var(--token-9eeddc74-3981-48ed-b1f6-db9260f54e0b, rgb(18, 18, 24))\" style=\"user-select: none; width: 100%; height: 100%; display: inline-block; fill: var(--token-9eeddc74-3981-48ed-b1f6-db9260f54e0b, rgb(18, 18, 24)); color: var(--token-9eeddc74-3981-48ed-b1f6-db9260f54e0b, rgb(18, 18, 24)); flex-shrink: 0;\"><g color=\"var(--token-9eeddc74-3981-48ed-b1f6-db9260f54e0b, rgb(18, 18, 24))\" weight=\"duotone\"><path d=\"M208,104a79.86,79.86,0,0,1-30.59,62.92A24.29,24.29,0,0,0,168,186v6a8,8,0,0,1-8,8H96a8,8,0,0,1-8-8v-6a24.11,24.11,0,0,0-9.3-19A79.87,79.87,0,0,1,48,104.45C47.76,61.09,82.72,25,126.07,24A80,80,0,0,1,208,104Z\" opacity=\"0.2\"></path><path d=\"M176,232a8,8,0,0,1-8,8H88a8,8,0,0,1,0-16h80A8,8,0,0,1,176,232Zm40-128a87.55,87.55,0,0,1-33.64,69.21A16.24,16.24,0,0,0,176,186v6a16,16,0,0,1-16,16H96a16,16,0,0,1-16-16v-6a16,16,0,0,0-6.23-12.66A87.59,87.59,0,0,1,40,104.49C39.74,56.83,78.26,17.14,125.88,16A88,88,0,0,1,216,104Zm-16,0a72,72,0,0,0-73.74-72c-39,.92-70.47,33.39-70.26,72.39a71.65,71.65,0,0,0,27.64,56.3A32,32,0,0,1,96,186v6h64v-6a32.15,32.15,0,0,1,12.47-25.35A71.65,71.65,0,0,0,200,104Zm-16.11-9.34a57.6,57.6,0,0,0-46.56-46.55,8,8,0,0,0-2.66,15.78c16.57,2.79,30.63,16.85,33.44,33.45A8,8,0,0,0,176,104a9,9,0,0,0,1.35-.11A8,8,0,0,0,183.89,94.66Z\"></path></g></svg>",
+      "parentText": ""
+    },
+    {
+      "index": 8,
+      "viewBox": "0 0 256 256",
+      "width": 20,
+      "height": 20,
+      "visible": true,
+      "outerHTML": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" focusable=\"false\" color=\"var(--token-9eeddc74-3981-48ed-b1f6-db9260f54e0b, rgb(18, 18, 24))\" style=\"user-select: none; width: 100%; height: 100%; display: inline-block; fill: var(--token-9eeddc74-3981-48ed-b1f6-db9260f54e0b, rgb(18, 18, 24)); color: var(--token-9eeddc74-3981-48ed-b1f6-db9260f54e0b, rgb(18, 18, 24)); flex-shrink: 0;\"><g color=\"var(--token-9eeddc74-3981-48ed-b1f6-db9260f54e0b, rgb(18, 18, 24))\" weight=\"duotone\"><path d=\"M192,112a80,80,0,1,1-80-80A80,80,0,0,1,192,112Z\" opacity=\"0.2\"></path><path d=\"M229.66,218.34,179.6,168.28a88.21,88.21,0,1,0-11.32,11.31l50.06,50.07a8,8,0,0,0,11.32-11.32ZM40,112a72,72,0,1,1,72,72A72.08,72.08,0,0,1,40,112Z\"></path></g></svg>",
+      "parentText": ""
+    },
+    {
+      "index": 9,
+      "viewBox": "0 0 24 24",
+      "width": 24,
+      "height": 24,
+      "visible": true,
+      "outerHTML": "<svg class=\"framer-JnyjB framer-r39g8v\" role=\"presentation\" viewBox=\"0 0 24 24\" style=\"--14lvtz6: 1.8; --1gwzuy8: var(--token-9eeddc74-3981-48ed-b1f6-db9260f54e0b, rgb(18, 18, 24)); --framer-icon-mask-mode: intersect; --framer-icon-mask: linear-gradient(0deg, rgba(0,0,0,0) 0%, rgba(0,0,0,1) 50%) add; opacity: 1;\"><use href=\"#2395461326\"></use></svg>",
+      "parentText": ""
+    },
+    {
+      "index": 10,
+      "viewBox": "0 0 24 24",
+      "width": 24,
+      "height": 24,
+      "visible": true,
+      "outerHTML": "<svg class=\"framer-Xgnzm framer-r39g8v\" role=\"presentation\" viewBox=\"0 0 24 24\" style=\"--14lvtz6: 1.8; --1gwzuy8: var(--token-becea183-8eb9-4504-a8a1-482108af648a, rgb(255, 255, 255)); --framer-icon-mask-mode: intersect; --framer-icon-mask: linear-gradient(0deg, rgba(0,0,0,0) 0%, rgba(0,0,0,1) 50%) add; opacity: 1;\"><use href=\"#402686724\"></use></svg>",
+      "parentText": ""
+    },
+    {
+      "index": 11,
+      "viewBox": "0 0 24 24",
+      "width": 24,
+      "height": 24,
+      "visible": true,
+      "outerHTML": "<svg class=\"framer-sxnEN framer-r39g8v\" role=\"presentation\" viewBox=\"0 0 24 24\" style=\"--14lvtz6: 1.8; --1gwzuy8: var(--token-9eeddc74-3981-48ed-b1f6-db9260f54e0b, rgb(18, 18, 24)); --framer-icon-mask-mode: intersect; --framer-icon-mask: linear-gradient(0deg, rgba(0,0,0,0) 0%, rgba(0,0,0,1) 50%) add; opacity: 1;\"><use href=\"#2280291771\"></use></svg>",
+      "parentText": ""
+    },
+    {
+      "index": 12,
+      "viewBox": "0 0 24 24",
+      "width": 24,
+      "height": 24,
+      "visible": true,
+      "outerHTML": "<svg class=\"framer-M7Eod framer-r39g8v\" role=\"presentation\" viewBox=\"0 0 24 24\" style=\"--14lvtz6: 1.8; --1gwzuy8: var(--token-9eeddc74-3981-48ed-b1f6-db9260f54e0b, rgb(18, 18, 24)); --framer-icon-mask-mode: intersect; --framer-icon-mask: linear-gradient(0deg, rgba(0,0,0,0) 0%, rgba(0,0,0,1) 50%) add; opacity: 1;\"><use href=\"#506496309\"></use></svg>",
+      "parentText": ""
+    },
+    {
+      "index": 13,
+      "viewBox": "0 0 256 256",
+      "width": 16,
+      "height": 16,
+      "visible": true,
+      "outerHTML": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" focusable=\"false\" color=\"var(--token-9eeddc74-3981-48ed-b1f6-db9260f54e0b, rgb(18, 18, 24))\" style=\"user-select: none; width: 100%; height: 100%; display: inline-block; fill: var(--token-9eeddc74-3981-48ed-b1f6-db9260f54e0b, rgb(18, 18, 24)); color: var(--token-9eeddc74-3981-48ed-b1f6-db9260f54e0b, rgb(18, 18, 24)); flex-shrink: 0;\"><g color=\"var(--token-9eeddc74-3981-48ed-b1f6-db9260f54e0b, rgb(18, 18, 24))\" weight=\"duotone\"><path d=\"M200,48v63.1c0,39.7-31.75,72.6-71.45,72.9A72,72,0,0,1,56,112V48Z\" opacity=\"0.2\"></path><path d=\"M232,64H208V48a8,8,0,0,0-8-8H56a8,8,0,0,0-8,8V64H24A16,16,0,0,0,8,80V96a40,40,0,0,0,40,40h3.65A80.13,80.13,0,0,0,120,191.61V216H96a8,8,0,0,0,0,16h64a8,8,0,0,0,0-16H136V191.58c31.94-3.23,58.44-25.64,68.08-55.58H208a40,40,0,0,0,40-40V80A16,16,0,0,0,232,64ZM48,120A24,24,0,0,1,24,96V80H48v32q0,4,.39,8Zm144-8.9c0,35.52-29,64.64-64,64.9a64,64,0,0,1-64-64V56H192ZM232,96a24,24,0,0,1-24,24h-.5a81.81,81.81,0,0,0,.5-8.9V80h24Z\"></path></g></svg>",
+      "parentText": ""
+    },
+    {
+      "index": 14,
+      "viewBox": "0 0 24 24",
+      "width": 24,
+      "height": 24,
+      "visible": true,
+      "outerHTML": "<svg class=\"framer-EL40k framer-r39g8v\" role=\"presentation\" viewBox=\"0 0 24 24\" style=\"--14lvtz6: 1.8; --1gwzuy8: var(--token-9eeddc74-3981-48ed-b1f6-db9260f54e0b, rgb(18, 18, 24)); opacity: 1; --framer-icon-mask-mode: undefined; --framer-icon-mask: undefined;\"><use href=\"#3580777260\"></use></svg>",
+      "parentText": ""
+    },
+    {
+      "index": 15,
+      "viewBox": "0 0 24 24",
+      "width": 24,
+      "height": 24,
+      "visible": true,
+      "outerHTML": "<svg class=\"framer-ZTxcy framer-r39g8v\" role=\"presentation\" viewBox=\"0 0 24 24\" style=\"--14lvtz6: 1.8; --1gwzuy8: var(--token-9eeddc74-3981-48ed-b1f6-db9260f54e0b, rgb(18, 18, 24)); opacity: 1; --framer-icon-mask-mode: undefined; --framer-icon-mask: undefined;\"><use href=\"#415952207\"></use></svg>",
+      "parentText": ""
+    },
+    {
+      "index": 16,
+      "viewBox": "0 0 24 24",
+      "width": 24,
+      "height": 24,
+      "visible": true,
+      "outerHTML": "<svg class=\"framer-U9DJ5 framer-r39g8v\" role=\"presentation\" viewBox=\"0 0 24 24\" style=\"--14lvtz6: 1.8; --1gwzuy8: var(--token-9eeddc74-3981-48ed-b1f6-db9260f54e0b, rgb(18, 18, 24)); opacity: 1; --framer-icon-mask-mode: undefined; --framer-icon-mask: undefined;\"><use href=\"#552524800\"></use></svg>",
+      "parentText": ""
+    },
+    {
+      "index": 17,
+      "viewBox": "0 0 24 24",
+      "width": 24.4971923828125,
+      "height": 27.19091796875,
+      "visible": true,
+      "outerHTML": "<svg data-framer-appear-id=\"10auo2k\" class=\"framer-i7PQ2 framer-10auo2k\" role=\"presentation\" viewBox=\"0 0 24 24\" style=\"--14lvtz6: 1.5; --1gwzuy8: var(--token-9eeddc74-3981-48ed-b1f6-db9260f54e0b, rgb(18, 18, 24)); will-change: transform; opacity: 1; transform: none;\"><use href=\"#986378173\"></use></svg>",
+      "parentText": ""
+    },
+    {
+      "index": 18,
+      "viewBox": "0 0 24 24",
+      "width": 24.09820556640625,
+      "height": 27.25830078125,
+      "visible": true,
+      "outerHTML": "<svg data-framer-appear-id=\"lvlf68\" class=\"framer-i7PQ2 framer-lvlf68\" role=\"presentation\" viewBox=\"0 0 24 24\" style=\"--14lvtz6: 1.5; --1gwzuy8: var(--token-9eeddc74-3981-48ed-b1f6-db9260f54e0b, rgb(18, 18, 24)); will-change: transform; opacity: 1; transform: none;\"><use href=\"#986378173\"></use></svg>",
+      "parentText": ""
+    },
+    {
+      "index": 19,
+      "viewBox": "0 0 24 24",
+      "width": 32,
+      "height": 32,
+      "visible": true,
+      "outerHTML": "<svg class=\"framer-i7PQ2 framer-r39g8v\" role=\"presentation\" viewBox=\"0 0 24 24\" style=\"--14lvtz6: 1.8; --1gwzuy8: var(--token-becea183-8eb9-4504-a8a1-482108af648a, rgb(255, 255, 255)); --framer-icon-mask-mode: intersect; --framer-icon-mask: linear-gradient(0deg, rgba(0,0,0,0) 0%, rgba(0,0,0,1) 50%) add; opacity: 1;\"><use href=\"#986378173\"></use></svg>",
+      "parentText": ""
+    },
+    {
+      "index": 20,
+      "viewBox": "0 0 24 24",
+      "width": 24,
+      "height": 24,
+      "visible": true,
+      "outerHTML": "<svg class=\"framer-1A3GW framer-r39g8v\" role=\"presentation\" viewBox=\"0 0 24 24\" style=\"--14lvtz6: 1.8; --1gwzuy8: var(--token-becea183-8eb9-4504-a8a1-482108af648a, rgb(255, 255, 255)); --framer-icon-mask-mode: intersect; --framer-icon-mask: linear-gradient(0deg, rgba(0,0,0,0) 0%, rgba(0,0,0,1) 50%) add; opacity: 1;\"><use href=\"#773302448\"></use></svg>",
+      "parentText": ""
+    },
+    {
+      "index": 21,
+      "viewBox": "0 0 24 24",
+      "width": 24,
+      "height": 24,
+      "visible": true,
+      "outerHTML": "<svg class=\"framer-dcEMX framer-r39g8v\" role=\"presentation\" viewBox=\"0 0 24 24\" style=\"--14lvtz6: 1.8; --1gwzuy8: var(--token-becea183-8eb9-4504-a8a1-482108af648a, rgb(255, 255, 255)); --framer-icon-mask-mode: intersect; --framer-icon-mask: linear-gradient(0deg, rgba(0,0,0,0) 0%, rgba(0,0,0,1) 50%) add; opacity: 1;\"><use href=\"#2154162864\"></use></svg>",
+      "parentText": ""
+    },
+    {
+      "index": 22,
+      "viewBox": "0 0 24 24",
+      "width": 24,
+      "height": 24,
+      "visible": true,
+      "outerHTML": "<svg class=\"framer-8qjtj framer-r39g8v\" role=\"presentation\" viewBox=\"0 0 24 24\" style=\"--14lvtz6: 1.8; --1gwzuy8: var(--token-becea183-8eb9-4504-a8a1-482108af648a, rgb(255, 255, 255)); --framer-icon-mask-mode: intersect; --framer-icon-mask: linear-gradient(0deg, rgba(0,0,0,0) 0%, rgba(0,0,0,1) 50%) add; opacity: 1;\"><use href=\"#142667641\"></use></svg>",
+      "parentText": ""
+    },
+    {
+      "index": 23,
+      "viewBox": "0 0 256 256",
+      "width": 20,
+      "height": 20,
+      "visible": true,
+      "outerHTML": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" focusable=\"false\" color=\"var(--token-ecff2c2d-3686-45f9-9c26-3f557cb57eb7, rgb(201, 205, 210))\" style=\"user-select: none; width: 100%; height: 100%; display: inline-block; fill: var(--token-ecff2c2d-3686-45f9-9c26-3f557cb57eb7, rgb(201, 205, 210)); color: var(--token-ecff2c2d-3686-45f9-9c26-3f557cb57eb7, rgb(201, 205, 210)); flex-shrink: 0;\"><g color=\"var(--token-ecff2c2d-3686-45f9-9c26-3f557cb57eb7, rgb(201, 205, 210))\" weight=\"fill\"><path d=\"M200,112H149l56.27,50A8,8,0,0,1,200,176H136v64a8,8,0,0,1-13.66,5.66l-72-72A8,8,0,0,1,48,168V104a8,8,0,0,1,8-8h51L50.69,46A8,8,0,0,1,56,32H200a8,8,0,0,1,8,8v64A8,8,0,0,1,200,112Z\"></path></g></svg>",
+      "parentText": ""
+    },
+    {
+      "index": 24,
+      "viewBox": "0 0 24 24",
+      "width": 0,
+      "height": 0,
+      "visible": false,
+      "outerHTML": "<svg id=\"986378173\" display=\"block\" role=\"presentation\" viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M 0 10 L 10 0 M 10 0 L 1 0 M 10 0 L 10 9\" fill=\"transparent\" height=\"10px\" id=\"SX6P1o_JA\" stroke-dasharray=\"\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"var(--14lvtz6, 1.5)\" stroke=\"var(--1gwzuy8, rgb(0,0,0))\" transform=\"translate(7 7)\" width=\"10px\"></path></svg>",
+      "parentText": ""
+    },
+    {
+      "index": 25,
+      "viewBox": "0 0 24 24",
+      "width": 0,
+      "height": 0,
+      "visible": false,
+      "outerHTML": "<svg id=\"3282963836\" display=\"block\" role=\"presentation\" viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M 9.884 0.069 C 9.898 0.029 9.905 0.009 9.915 0.004 C 9.924 -0.001 9.935 -0.001 9.943 0.004 C 9.954 0.009 9.961 0.029 9.974 0.069 L 12.387 7.009 C 12.391 7.021 12.393 7.026 12.396 7.03 C 12.4 7.034 12.404 7.037 12.408 7.039 C 12.413 7.041 12.419 7.041 12.431 7.041 L 19.777 7.191 C 19.819 7.192 19.841 7.192 19.849 7.2 C 19.856 7.207 19.86 7.218 19.858 7.228 C 19.856 7.239 19.839 7.252 19.805 7.277 L 13.95 11.716 C 13.941 11.724 13.936 11.727 13.933 11.732 C 13.93 11.736 13.929 11.741 13.928 11.746 C 13.928 11.751 13.93 11.757 13.933 11.768 L 16.061 18.801 C 16.073 18.842 16.079 18.862 16.074 18.872 C 16.07 18.882 16.061 18.888 16.051 18.889 C 16.04 18.891 16.022 18.879 15.988 18.854 L 9.957 14.658 C 9.947 14.651 9.942 14.647 9.936 14.646 C 9.932 14.645 9.927 14.645 9.922 14.646 C 9.917 14.647 9.912 14.651 9.902 14.658 L 3.871 18.854 C 3.836 18.879 3.819 18.891 3.807 18.889 C 3.797 18.888 3.788 18.882 3.784 18.872 C 3.779 18.862 3.785 18.842 3.797 18.801 L 5.925 11.768 C 5.929 11.757 5.93 11.751 5.93 11.746 C 5.93 11.741 5.928 11.736 5.925 11.732 C 5.923 11.727 5.918 11.724 5.908 11.716 L 0.053 7.277 C 0.019 7.252 0.003 7.239 0 7.228 C -0.001 7.218 0.002 7.207 0.009 7.2 C 0.018 7.192 0.039 7.192 0.081 7.191 L 7.427 7.041 C 7.439 7.041 7.445 7.041 7.45 7.039 C 7.455 7.037 7.459 7.034 7.462 7.03 C 7.466 7.026 7.468 7.021 7.471 7.009 Z\" fill=\"transparent\" height=\"18.889253748807295px\" id=\"KTfxpTVEN\" stroke-dasharray=\"\" stroke-linecap=\"butt\" stroke-linejoin=\"round\" stroke-width=\"var(--14lvtz6, 1.5)\" stroke=\"var(--1gwzuy8, rgb(0,0,0))\" transform=\"translate(2.07 2.56)\" width=\"19.858377706866275px\"></path></svg>",
+      "parentText": ""
+    },
+    {
+      "index": 26,
+      "viewBox": "0 0 24 24",
+      "width": 0,
+      "height": 0,
+      "visible": false,
+      "outerHTML": "<svg id=\"4195133704\" display=\"block\" role=\"presentation\" viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M 10 16 L 10 14 C 10 11.239 7.761 9 5 9 C 2.239 9 0 11.239 0 14 L 0 16 L 18 16 L 18 15 C 18 12.055 15.761 10 12.999 10 C 11.586 10 10.31 10.626 9.4 11.631 M 8 3 C 8 4.657 6.657 6 5 6 C 3.343 6 2 4.657 2 3 C 2 1.343 3.343 0 5 0 C 6.657 0 8 1.343 8 3 Z M 15 5 C 15 6.105 14.105 7 13 7 C 11.895 7 11 6.105 11 5 C 11 3.895 11.895 3 13 3 C 14.105 3 15 3.895 15 5 Z\" fill=\"transparent\" height=\"16px\" id=\"OClTDneBD\" stroke-dasharray=\"\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"var(--14lvtz6, 1.5)\" stroke=\"var(--1gwzuy8, rgb(0,0,0))\" transform=\"translate(3 4)\" width=\"17.9995px\"></path></svg>",
+      "parentText": ""
+    },
+    {
+      "index": 27,
+      "viewBox": "0 0 24 24",
+      "width": 0,
+      "height": 0,
+      "visible": false,
+      "outerHTML": "<svg id=\"2283911640\" display=\"block\" role=\"presentation\" viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M 16.415 0.375 L 6.719 10.071 M 6.719 10.071 C 6.749 10.102 6.777 10.134 6.804 10.168 C 6.863 10.245 6.907 10.333 6.996 10.51 L 9.218 14.955 C 9.755 16.029 10.024 16.566 10.362 16.71 C 10.655 16.835 10.991 16.813 11.265 16.649 C 11.581 16.461 11.775 15.893 12.163 14.757 L 16.362 2.459 C 16.701 1.469 16.87 0.974 16.754 0.646 C 16.653 0.361 16.429 0.137 16.144 0.036 C 15.817 -0.079 15.321 0.09 14.331 0.428 L 2.034 4.627 C 0.897 5.015 0.329 5.209 0.141 5.525 C -0.022 5.799 -0.045 6.135 0.08 6.428 C 0.224 6.767 0.761 7.035 1.835 7.572 L 6.28 9.795 C 6.457 9.883 6.545 9.927 6.622 9.986 C 6.656 10.013 6.688 10.041 6.719 10.071 Z\" fill=\"transparent\" height=\"16.790127170189734px\" id=\"GmrkT7V6j\" stroke-dasharray=\"\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"var(--14lvtz6, 1.5)\" stroke=\"var(--1gwzuy8, rgb(0,0,0))\" transform=\"translate(3.58 3.63)\" width=\"16.790099180301553px\"></path></svg>",
+      "parentText": ""
+    },
+    {
+      "index": 28,
+      "viewBox": "0 0 24 24",
+      "width": 0,
+      "height": 0,
+      "visible": false,
+      "outerHTML": "<svg id=\"2395461326\" display=\"block\" role=\"presentation\" viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M 2 12 L 2 16 M 3 0 L 3 4 M 4 14 L 0 14 M 5 2 L 1 2 M 10 0 L 11.753 4.444 C 11.941 4.921 12.035 5.159 12.179 5.36 C 12.306 5.538 12.462 5.694 12.64 5.821 C 12.841 5.965 13.079 6.059 13.556 6.247 L 18 8 L 13.556 9.753 C 13.079 9.941 12.841 10.035 12.64 10.179 C 12.462 10.306 12.306 10.462 12.179 10.64 C 12.035 10.841 11.941 11.079 11.753 11.556 L 10 16 L 8.247 11.556 C 8.059 11.079 7.965 10.841 7.821 10.64 C 7.694 10.462 7.538 10.306 7.36 10.179 C 7.159 10.035 6.921 9.941 6.444 9.753 L 2 8 L 6.444 6.247 C 6.921 6.059 7.159 5.965 7.36 5.821 C 7.538 5.694 7.694 5.538 7.821 5.36 C 7.965 5.159 8.059 4.921 8.247 4.444 Z\" fill=\"transparent\" height=\"16px\" id=\"OkWfJivE8\" stroke-dasharray=\"\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"var(--14lvtz6, 1.5)\" stroke=\"var(--1gwzuy8, rgb(0,0,0))\" transform=\"translate(3 4)\" width=\"18px\"></path></svg>",
+      "parentText": ""
+    },
+    {
+      "index": 29,
+      "viewBox": "0 0 24 24",
+      "width": 0,
+      "height": 0,
+      "visible": false,
+      "outerHTML": "<svg id=\"402686724\" display=\"block\" role=\"presentation\" viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M 12.5 2.497 L 15.328 5.325 M 0 17.996 L 0.047 17.664 C 0.215 16.489 0.299 15.901 0.49 15.353 C 0.66 14.866 0.891 14.403 1.179 13.975 C 1.503 13.493 1.923 13.073 2.763 12.234 L 14.411 0.586 C 15.192 -0.195 16.458 -0.195 17.239 0.586 C 18.02 1.367 18.02 2.633 17.239 3.414 L 5.377 15.276 C 4.616 16.038 4.235 16.418 3.801 16.721 C 3.416 16.99 3.001 17.213 2.564 17.385 C 2.072 17.578 1.544 17.685 0.488 17.898 Z\" fill=\"transparent\" height=\"17.99649987500054px\" id=\"YIBC_dCH4\" stroke-dasharray=\"\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"var(--14lvtz6, 1.5)\" stroke=\"var(--1gwzuy8, rgb(0,0,0))\" transform=\"translate(3 3)\" width=\"17.824949999999998px\"></path></svg>",
+      "parentText": ""
+    },
+    {
+      "index": 30,
+      "viewBox": "0 0 24 24",
+      "width": 0,
+      "height": 0,
+      "visible": false,
+      "outerHTML": "<svg id=\"2280291771\" display=\"block\" role=\"presentation\" viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M 18 13.5 L 9 18 L 0 13.5 M 18 9 L 9 13.5 L 0 9 M 9 9 L 18 4.5 L 9 0 L 0 4.5 Z\" fill=\"transparent\" height=\"18px\" id=\"V6sCCFsZC\" stroke-dasharray=\"\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"var(--14lvtz6, 1.5)\" stroke=\"var(--1gwzuy8, rgb(0,0,0))\" transform=\"translate(3 3)\" width=\"18px\"></path></svg>",
+      "parentText": ""
+    },
+    {
+      "index": 31,
+      "viewBox": "0 0 24 24",
+      "width": 0,
+      "height": 0,
+      "visible": false,
+      "outerHTML": "<svg id=\"506496309\" display=\"block\" role=\"presentation\" viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M 16 9 C 16 12.866 12.866 16 9 16 M 16 9 C 16 5.134 12.866 2 9 2 M 16 9 L 18 9 M 9 16 C 5.134 16 2 12.866 2 9 M 9 16 L 9 18 M 2 9 C 2 5.134 5.134 2 9 2 M 2 9 L 0 9 M 9 2 L 9 0 M 12 9 C 12 10.657 10.657 12 9 12 C 7.343 12 6 10.657 6 9 C 6 7.343 7.343 6 9 6 C 10.657 6 12 7.343 12 9 Z\" fill=\"transparent\" height=\"18px\" id=\"Mu5B5AG_m\" stroke-dasharray=\"\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"var(--14lvtz6, 1.5)\" stroke=\"var(--1gwzuy8, rgb(0,0,0))\" transform=\"translate(3 3)\" width=\"18px\"></path></svg>",
+      "parentText": ""
+    },
+    {
+      "index": 32,
+      "viewBox": "0 0 24 24",
+      "width": 0,
+      "height": 0,
+      "visible": false,
+      "outerHTML": "<svg id=\"3580777260\" display=\"block\" role=\"presentation\" viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M 6.657 13.971 L 4 13.971 L 4 10.971 M 3.102 11.869 L 14.411 0.561 C 15.196 -0.197 16.443 -0.186 17.215 0.586 C 17.986 1.357 17.997 2.605 17.239 3.389 L 5.764 14.865 C 5.228 15.401 4.96 15.67 4.664 15.9 C 4.4 16.105 4.12 16.287 3.826 16.445 C 3.495 16.623 3.141 16.76 2.434 17.033 L 0 17.972 L 0.783 15.622 C 1.05 14.82 1.184 14.419 1.37 14.045 C 1.535 13.712 1.73 13.395 1.954 13.099 C 2.206 12.766 2.504 12.467 3.102 11.869 Z\" fill=\"transparent\" height=\"17.972424041497945px\" id=\"ruY3lZFFL\" stroke-dasharray=\"\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"var(--14lvtz6, 1.5)\" stroke=\"var(--1gwzuy8, rgb(0,0,0))\" transform=\"translate(3 3)\" width=\"17.800424041497944px\"></path></svg>",
+      "parentText": ""
+    },
+    {
+      "index": 33,
+      "viewBox": "0 0 24 24",
+      "width": 0,
+      "height": 0,
+      "visible": false,
+      "outerHTML": "<svg id=\"415952207\" display=\"block\" role=\"presentation\" viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M 4 4 L 0 8 L 4 12 M 14 4 L 18 8 L 14 12 M 11 0 L 7 16\" fill=\"transparent\" height=\"16px\" id=\"o9VY14pha\" stroke-dasharray=\"\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"var(--14lvtz6, 1.5)\" stroke=\"var(--1gwzuy8, rgb(0,0,0))\" transform=\"translate(3 4)\" width=\"18px\"></path></svg>",
+      "parentText": ""
+    },
+    {
+      "index": 34,
+      "viewBox": "0 0 24 24",
+      "width": 0,
+      "height": 0,
+      "visible": false,
+      "outerHTML": "<svg id=\"552524800\" display=\"block\" role=\"presentation\" viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M 12.724 7.491 C 13.485 7.999 13.865 8.253 13.998 8.572 C 14.114 8.852 14.114 9.166 13.998 9.446 C 13.865 9.766 13.485 10.019 12.724 10.527 L 2.836 17.119 C 1.915 17.733 1.454 18.04 1.072 18.017 C 0.739 17.997 0.432 17.832 0.231 17.567 C 0 17.262 0 16.708 0 15.601 L 0 2.417 C 0 1.31 0 0.757 0.231 0.451 C 0.432 0.186 0.739 0.021 1.072 0.001 C 1.454 -0.022 1.915 0.285 2.836 0.9 Z\" fill=\"transparent\" height=\"18.01808310608187px\" id=\"kmz0mdTad\" stroke-dasharray=\"\" stroke-linecap=\"butt\" stroke-linejoin=\"round\" stroke-width=\"var(--14lvtz6, 1.5)\" stroke=\"var(--1gwzuy8, rgb(0,0,0))\" transform=\"translate(5 3)\" width=\"14.084825000000002px\"></path></svg>",
+      "parentText": ""
+    },
+    {
+      "index": 35,
+      "viewBox": "0 0 24 24",
+      "width": 0,
+      "height": 0,
+      "visible": false,
+      "outerHTML": "<svg id=\"773302448\" display=\"block\" role=\"presentation\" viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M 0 3 L 5.45 6.633 C 6.733 7.489 7.374 7.916 8.068 8.082 C 8.681 8.229 9.319 8.229 9.932 8.082 C 10.626 7.916 11.267 7.489 12.55 6.633 L 18 3 M 3.2 14 L 14.8 14 C 15.92 14 16.48 14 16.908 13.782 C 17.284 13.59 17.59 13.284 17.782 12.908 C 18 12.48 18 11.92 18 10.8 L 18 3.2 C 18 2.08 18 1.52 17.782 1.092 C 17.59 0.716 17.284 0.41 16.908 0.218 C 16.48 0 15.92 0 14.8 0 L 3.2 0 C 2.08 0 1.52 0 1.092 0.218 C 0.716 0.41 0.41 0.716 0.218 1.092 C 0 1.52 0 2.08 0 3.2 L 0 10.8 C 0 11.92 0 12.48 0.218 12.908 C 0.41 13.284 0.716 13.59 1.092 13.782 C 1.52 14 2.08 14 3.2 14 Z\" fill=\"transparent\" height=\"14px\" id=\"bWgmGW_xB\" stroke-dasharray=\"\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"var(--14lvtz6, 1.5)\" stroke=\"var(--1gwzuy8, rgb(0,0,0))\" transform=\"translate(3 5)\" width=\"18px\"></path></svg>",
+      "parentText": ""
+    },
+    {
+      "index": 36,
+      "viewBox": "0 0 24 24",
+      "width": 0,
+      "height": 0,
+      "visible": false,
+      "outerHTML": "<svg id=\"2154162864\" display=\"block\" role=\"presentation\" viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M 7 18 C 10.5 14.4 14 11.176 14 7.2 C 14 3.224 10.866 0 7 0 C 3.134 0 0 3.224 0 7.2 C 0 11.176 3.5 14.4 7 18 Z M 7 10 C 8.657 10 10 8.657 10 7 C 10 5.343 8.657 4 7 4 C 5.343 4 4 5.343 4 7 C 4 8.657 5.343 10 7 10 Z\" fill=\"transparent\" height=\"18px\" id=\"E9lVmos0U\" stroke-dasharray=\"\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"var(--14lvtz6, 1.5)\" stroke=\"var(--1gwzuy8, rgb(0,0,0))\" transform=\"translate(5 3)\" width=\"14px\"></path></svg>",
+      "parentText": ""
+    },
+    {
+      "index": 37,
+      "viewBox": "0 0 24 24",
+      "width": 0,
+      "height": 0,
+      "visible": false,
+      "outerHTML": "<svg id=\"142667641\" display=\"block\" role=\"presentation\" viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M 12.5 11.5 L 9 9 L 9 4 M 18 9 C 18 13.971 13.971 18 9 18 C 4.029 18 0 13.971 0 9 C 0 4.029 4.029 0 9 0 C 13.971 0 18 4.029 18 9 Z\" fill=\"transparent\" height=\"18px\" id=\"HHLTSq92O\" stroke-dasharray=\"\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"var(--14lvtz6, 1.5)\" stroke=\"var(--1gwzuy8, rgb(0,0,0))\" transform=\"translate(3 3)\" width=\"18px\"></path></svg>",
+      "parentText": ""
+    }
+  ],
+  "bgUrls": [
+    {
+      "tag": "DIV",
+      "cls": "",
+      "prop": "backgroundImage",
+      "val": "repeating-linear-gradient(145deg, rgb(237, 238, 241), rgb(237, 238, 241) 1px, rgba(0, 0, 0, 0) 1px, rgba(0, 0, 0, 0) 4px)",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 5275,
+        "top": 0,
+        "right": 1440,
+        "bottom": 5275,
+        "left": 0
+      }
+    },
+    {
+      "tag": "A",
+      "cls": "framer-rhm3Q framer-PFb4d framer-mCh1O framer-19xn60x framer-v-19xn60x framer-1d",
+      "prop": "backgroundImage",
+      "val": "linear-gradient(rgb(36, 36, 42) 0%, rgb(18, 18, 24) 100%)",
+      "rect": {
+        "x": 1182.78125,
+        "y": 24,
+        "width": 113.21875,
+        "height": 36,
+        "top": 24,
+        "right": 1296,
+        "bottom": 60,
+        "left": 1182.78125
+      }
+    },
+    {
+      "tag": "A",
+      "cls": "framer-rhm3Q framer-PFb4d framer-mCh1O framer-19xn60x framer-v-19xn60x framer-1d",
+      "prop": "backgroundImage",
+      "val": "linear-gradient(rgb(36, 36, 42) 0%, rgb(18, 18, 24) 100%)",
+      "rect": {
+        "x": 937.640625,
+        "y": -59.99774169921875,
+        "width": 113.21875,
+        "height": 36,
+        "top": -59.99774169921875,
+        "right": 1050.859375,
+        "bottom": -23.99774169921875,
+        "left": 937.640625
+      }
+    },
+    {
+      "tag": "DIV",
+      "cls": "framer-fme8e framer-97wljp framer-v-97wljp",
+      "prop": "backgroundImage",
+      "val": "linear-gradient(rgb(247, 247, 248) 59%, rgb(224, 226, 230) 100%)",
+      "rect": {
+        "x": 168,
+        "y": 673,
+        "width": 44,
+        "height": 44,
+        "top": 673,
+        "right": 212,
+        "bottom": 717,
+        "left": 168
+      }
+    },
+    {
+      "tag": "svg",
+      "cls": "",
+      "prop": "maskImage",
+      "val": "linear-gradient(0deg, rgba(0, 0, 0, 0) 0%, rgb(0, 0, 0) 50%)",
+      "rect": {
+        "x": 178,
+        "y": 683,
+        "width": 24,
+        "height": 24,
+        "top": 683,
+        "right": 202,
+        "bottom": 707,
+        "left": 178
+      }
+    },
+    {
+      "tag": "svg",
+      "cls": "",
+      "prop": "webkitMaskImage",
+      "val": "linear-gradient(0deg, rgba(0, 0, 0, 0) 0%, rgb(0, 0, 0) 50%)",
+      "rect": {
+        "x": 178,
+        "y": 683,
+        "width": 24,
+        "height": 24,
+        "top": 683,
+        "right": 202,
+        "bottom": 707,
+        "left": 178
+      }
+    },
+    {
+      "tag": "DIV",
+      "cls": "framer-fme8e framer-97wljp framer-v-97wljp",
+      "prop": "backgroundImage",
+      "val": "linear-gradient(rgb(247, 247, 248) 59%, rgb(224, 226, 230) 100%)",
+      "rect": {
+        "x": 554.65625,
+        "y": 673,
+        "width": 44,
+        "height": 44,
+        "top": 673,
+        "right": 598.65625,
+        "bottom": 717,
+        "left": 554.65625
+      }
+    },
+    {
+      "tag": "svg",
+      "cls": "",
+      "prop": "maskImage",
+      "val": "linear-gradient(0deg, rgba(0, 0, 0, 0) 0%, rgb(0, 0, 0) 50%)",
+      "rect": {
+        "x": 564.65625,
+        "y": 683,
+        "width": 24,
+        "height": 24,
+        "top": 683,
+        "right": 588.65625,
+        "bottom": 707,
+        "left": 564.65625
+      }
+    },
+    {
+      "tag": "svg",
+      "cls": "",
+      "prop": "webkitMaskImage",
+      "val": "linear-gradient(0deg, rgba(0, 0, 0, 0) 0%, rgb(0, 0, 0) 50%)",
+      "rect": {
+        "x": 564.65625,
+        "y": 683,
+        "width": 24,
+        "height": 24,
+        "top": 683,
+        "right": 588.65625,
+        "bottom": 707,
+        "left": 564.65625
+      }
+    },
+    {
+      "tag": "DIV",
+      "cls": "framer-fme8e framer-97wljp framer-v-97wljp",
+      "prop": "backgroundImage",
+      "val": "linear-gradient(rgb(247, 247, 248) 59%, rgb(224, 226, 230) 100%)",
+      "rect": {
+        "x": 941.328125,
+        "y": 673,
+        "width": 44,
+        "height": 44,
+        "top": 673,
+        "right": 985.328125,
+        "bottom": 717,
+        "left": 941.328125
+      }
+    },
+    {
+      "tag": "svg",
+      "cls": "",
+      "prop": "maskImage",
+      "val": "linear-gradient(0deg, rgba(0, 0, 0, 0) 0%, rgb(0, 0, 0) 50%)",
+      "rect": {
+        "x": 951.328125,
+        "y": 683,
+        "width": 24,
+        "height": 24,
+        "top": 683,
+        "right": 975.328125,
+        "bottom": 707,
+        "left": 951.328125
+      }
+    },
+    {
+      "tag": "svg",
+      "cls": "",
+      "prop": "webkitMaskImage",
+      "val": "linear-gradient(0deg, rgba(0, 0, 0, 0) 0%, rgb(0, 0, 0) 50%)",
+      "rect": {
+        "x": 951.328125,
+        "y": 683,
+        "width": 24,
+        "height": 24,
+        "top": 683,
+        "right": 975.328125,
+        "bottom": 707,
+        "left": 951.328125
+      }
+    },
+    {
+      "tag": "DIV",
+      "cls": "framer-vuvUo framer-19l3vnw framer-v-19l3vnw",
+      "prop": "backgroundImage",
+      "val": "linear-gradient(rgb(247, 247, 248) 0%, rgb(247, 247, 248) 100%)",
+      "rect": {
+        "x": 144,
+        "y": 1336.998291015625,
+        "width": 40,
+        "height": 40,
+        "top": 1336.998291015625,
+        "right": 184,
+        "bottom": 1376.998291015625,
+        "left": 144
+      }
+    },
+    {
+      "tag": "DIV",
+      "cls": "framer-vuvUo framer-19l3vnw framer-v-19l3vnw",
+      "prop": "backgroundImage",
+      "val": "linear-gradient(rgb(247, 247, 248) 0%, rgb(247, 247, 248) 100%)",
+      "rect": {
+        "x": 144,
+        "y": 1458.998291015625,
+        "width": 40,
+        "height": 40,
+        "top": 1458.998291015625,
+        "right": 184,
+        "bottom": 1498.998291015625,
+        "left": 144
+      }
+    },
+    {
+      "tag": "DIV",
+      "cls": "framer-vuvUo framer-19l3vnw framer-v-19l3vnw",
+      "prop": "backgroundImage",
+      "val": "linear-gradient(rgb(247, 247, 248) 0%, rgb(247, 247, 248) 100%)",
+      "rect": {
+        "x": 144,
+        "y": 1580.998291015625,
+        "width": 40,
+        "height": 40,
+        "top": 1580.998291015625,
+        "right": 184,
+        "bottom": 1620.998291015625,
+        "left": 144
+      }
+    },
+    {
+      "tag": "DIV",
+      "cls": "framer-b24Fo framer-hAmAe framer-BKRqg framer-QI37L framer-14wmw94 framer-v-14wm",
+      "prop": "backgroundImage",
+      "val": "linear-gradient(rgb(247, 247, 248) 0%, rgb(247, 247, 248) 100%)",
+      "rect": {
+        "x": 144,
+        "y": 2042.9283447265625,
+        "width": 282,
+        "height": 290.9998779296875,
+        "top": 2042.9283447265625,
+        "right": 426,
+        "bottom": 2333.92822265625,
+        "left": 144
+      }
+    },
+    {
+      "tag": "DIV",
+      "cls": "framer-fme8e framer-97wljp framer-v-97wljp",
+      "prop": "backgroundImage",
+      "val": "linear-gradient(rgb(247, 247, 248) 59%, rgb(224, 226, 230) 100%)",
+      "rect": {
+        "x": 176,
+        "y": 2074.928466796875,
+        "width": 44,
+        "height": 44,
+        "top": 2074.928466796875,
+        "right": 220,
+        "bottom": 2118.928466796875,
+        "left": 176
+      }
+    },
+    {
+      "tag": "svg",
+      "cls": "",
+      "prop": "maskImage",
+      "val": "linear-gradient(0deg, rgba(0, 0, 0, 0) 0%, rgb(0, 0, 0) 50%)",
+      "rect": {
+        "x": 186,
+        "y": 2084.928466796875,
+        "width": 24,
+        "height": 24,
+        "top": 2084.928466796875,
+        "right": 210,
+        "bottom": 2108.928466796875,
+        "left": 186
+      }
+    },
+    {
+      "tag": "svg",
+      "cls": "",
+      "prop": "webkitMaskImage",
+      "val": "linear-gradient(0deg, rgba(0, 0, 0, 0) 0%, rgb(0, 0, 0) 50%)",
+      "rect": {
+        "x": 186,
+        "y": 2084.928466796875,
+        "width": 24,
+        "height": 24,
+        "top": 2084.928466796875,
+        "right": 210,
+        "bottom": 2108.928466796875,
+        "left": 186
+      }
+    },
+    {
+      "tag": "DIV",
+      "cls": "framer-b24Fo framer-hAmAe framer-BKRqg framer-QI37L framer-14wmw94 framer-v-7k26",
+      "prop": "backgroundImage",
+      "val": "linear-gradient(rgb(36, 36, 42) 0%, rgb(18, 18, 24) 100%)",
+      "rect": {
+        "x": 434,
+        "y": 2074.856689453125,
+        "width": 282,
+        "height": 291,
+        "top": 2074.856689453125,
+        "right": 716,
+        "bottom": 2365.856689453125,
+        "left": 434
+      }
+    },
+    {
+      "tag": "DIV",
+      "cls": "framer-fme8e framer-97wljp framer-v-mfgfkg",
+      "prop": "backgroundImage",
+      "val": "linear-gradient(rgb(36, 36, 42) 0%, rgb(36, 36, 42) 100%)",
+      "rect": {
+        "x": 466,
+        "y": 2106.856689453125,
+        "width": 44,
+        "height": 44,
+        "top": 2106.856689453125,
+        "right": 510,
+        "bottom": 2150.856689453125,
+        "left": 466
+      }
+    },
+    {
+      "tag": "svg",
+      "cls": "",
+      "prop": "maskImage",
+      "val": "linear-gradient(0deg, rgba(0, 0, 0, 0) 0%, rgb(0, 0, 0) 50%)",
+      "rect": {
+        "x": 476,
+        "y": 2116.856689453125,
+        "width": 24,
+        "height": 24,
+        "top": 2116.856689453125,
+        "right": 500,
+        "bottom": 2140.856689453125,
+        "left": 476
+      }
+    },
+    {
+      "tag": "svg",
+      "cls": "",
+      "prop": "webkitMaskImage",
+      "val": "linear-gradient(0deg, rgba(0, 0, 0, 0) 0%, rgb(0, 0, 0) 50%)",
+      "rect": {
+        "x": 476,
+        "y": 2116.856689453125,
+        "width": 24,
+        "height": 24,
+        "top": 2116.856689453125,
+        "right": 500,
+        "bottom": 2140.856689453125,
+        "left": 476
+      }
+    },
+    {
+      "tag": "DIV",
+      "cls": "framer-b24Fo framer-hAmAe framer-BKRqg framer-QI37L framer-14wmw94 framer-v-14wm",
+      "prop": "backgroundImage",
+      "val": "linear-gradient(rgb(247, 247, 248) 0%, rgb(247, 247, 248) 100%)",
+      "rect": {
+        "x": 724,
+        "y": 2106.78515625,
+        "width": 282,
+        "height": 291,
+        "top": 2106.78515625,
+        "right": 1006,
+        "bottom": 2397.78515625,
+        "left": 724
+      }
+    },
+    {
+      "tag": "DIV",
+      "cls": "framer-fme8e framer-97wljp framer-v-97wljp",
+      "prop": "backgroundImage",
+      "val": "linear-gradient(rgb(247, 247, 248) 59%, rgb(224, 226, 230) 100%)",
+      "rect": {
+        "x": 756,
+        "y": 2138.78515625,
+        "width": 44,
+        "height": 44,
+        "top": 2138.78515625,
+        "right": 800,
+        "bottom": 2182.78515625,
+        "left": 756
+      }
+    },
+    {
+      "tag": "svg",
+      "cls": "",
+      "prop": "maskImage",
+      "val": "linear-gradient(0deg, rgba(0, 0, 0, 0) 0%, rgb(0, 0, 0) 50%)",
+      "rect": {
+        "x": 766,
+        "y": 2148.78515625,
+        "width": 24,
+        "height": 24,
+        "top": 2148.78515625,
+        "right": 790,
+        "bottom": 2172.78515625,
+        "left": 766
+      }
+    },
+    {
+      "tag": "svg",
+      "cls": "",
+      "prop": "webkitMaskImage",
+      "val": "linear-gradient(0deg, rgba(0, 0, 0, 0) 0%, rgb(0, 0, 0) 50%)",
+      "rect": {
+        "x": 766,
+        "y": 2148.78515625,
+        "width": 24,
+        "height": 24,
+        "top": 2148.78515625,
+        "right": 790,
+        "bottom": 2172.78515625,
+        "left": 766
+      }
+    },
+    {
+      "tag": "DIV",
+      "cls": "framer-b24Fo framer-hAmAe framer-BKRqg framer-QI37L framer-14wmw94 framer-v-14wm",
+      "prop": "backgroundImage",
+      "val": "linear-gradient(rgb(247, 247, 248) 0%, rgb(247, 247, 248) 100%)",
+      "rect": {
+        "x": 1014,
+        "y": 2138.71337890625,
+        "width": 282,
+        "height": 291,
+        "top": 2138.71337890625,
+        "right": 1296,
+        "bottom": 2429.71337890625,
+        "left": 1014
+      }
+    },
+    {
+      "tag": "DIV",
+      "cls": "framer-fme8e framer-97wljp framer-v-97wljp",
+      "prop": "backgroundImage",
+      "val": "linear-gradient(rgb(247, 247, 248) 59%, rgb(224, 226, 230) 100%)",
+      "rect": {
+        "x": 1046,
+        "y": 2170.71337890625,
+        "width": 44,
+        "height": 44,
+        "top": 2170.71337890625,
+        "right": 1090,
+        "bottom": 2214.71337890625,
+        "left": 1046
+      }
+    },
+    {
+      "tag": "svg",
+      "cls": "",
+      "prop": "maskImage",
+      "val": "linear-gradient(0deg, rgba(0, 0, 0, 0) 0%, rgb(0, 0, 0) 50%)",
+      "rect": {
+        "x": 1056,
+        "y": 2180.71337890625,
+        "width": 24,
+        "height": 24,
+        "top": 2180.71337890625,
+        "right": 1080,
+        "bottom": 2204.71337890625,
+        "left": 1056
+      }
+    },
+    {
+      "tag": "svg",
+      "cls": "",
+      "prop": "webkitMaskImage",
+      "val": "linear-gradient(0deg, rgba(0, 0, 0, 0) 0%, rgb(0, 0, 0) 50%)",
+      "rect": {
+        "x": 1056,
+        "y": 2180.71337890625,
+        "width": 24,
+        "height": 24,
+        "top": 2180.71337890625,
+        "right": 1080,
+        "bottom": 2204.71337890625,
+        "left": 1056
+      }
+    },
+    {
+      "tag": "DIV",
+      "cls": "framer-fme8e framer-97wljp framer-v-4m2nzd",
+      "prop": "backgroundImage",
+      "val": "linear-gradient(rgb(237, 238, 241) 0%, rgb(237, 238, 241) 100%)",
+      "rect": {
+        "x": 144,
+        "y": 2917.99755859375,
+        "width": 56,
+        "height": 56,
+        "top": 2917.99755859375,
+        "right": 200,
+        "bottom": 2973.99755859375,
+        "left": 144
+      }
+    },
+    {
+      "tag": "DIV",
+      "cls": "framer-fme8e framer-97wljp framer-v-4m2nzd",
+      "prop": "backgroundImage",
+      "val": "linear-gradient(rgb(237, 238, 241) 0%, rgb(237, 238, 241) 100%)",
+      "rect": {
+        "x": 144,
+        "y": 2989.99755859375,
+        "width": 56,
+        "height": 56,
+        "top": 2989.99755859375,
+        "right": 200,
+        "bottom": 3045.99755859375,
+        "left": 144
+      }
+    },
+    {
+      "tag": "DIV",
+      "cls": "framer-fme8e framer-97wljp framer-v-4m2nzd",
+      "prop": "backgroundImage",
+      "val": "linear-gradient(rgb(237, 238, 241) 0%, rgb(237, 238, 241) 100%)",
+      "rect": {
+        "x": 144,
+        "y": 3061.99755859375,
+        "width": 56,
+        "height": 56,
+        "top": 3061.99755859375,
+        "right": 200,
+        "bottom": 3117.99755859375,
+        "left": 144
+      }
+    },
+    {
+      "tag": "A",
+      "cls": "framer-rhm3Q framer-PFb4d framer-mCh1O framer-19xn60x framer-v-1az3131 framer-1d",
+      "prop": "backgroundImage",
+      "val": "linear-gradient(rgb(36, 36, 42) 0%, rgb(18, 18, 24) 100%)",
+      "rect": {
+        "x": 200,
+        "y": 4305.998046875,
+        "width": 131,
+        "height": 48,
+        "top": 4305.998046875,
+        "right": 331,
+        "bottom": 4353.998046875,
+        "left": 200
+      }
+    },
+    {
+      "tag": "A",
+      "cls": "framer-rhm3Q framer-PFb4d framer-mCh1O framer-19xn60x framer-v-2pvvel framer-1dz",
+      "prop": "backgroundImage",
+      "val": "linear-gradient(rgb(237, 238, 241) 0%, rgb(237, 238, 241) 100%)",
+      "rect": {
+        "x": 339,
+        "y": 4305.998046875,
+        "width": 140.84375,
+        "height": 48,
+        "top": 4305.998046875,
+        "right": 479.84375,
+        "bottom": 4353.998046875,
+        "left": 339
+      }
+    },
+    {
+      "tag": "DIV",
+      "cls": "framer-1kbmnzw",
+      "prop": "backgroundImage",
+      "val": "linear-gradient(rgb(36, 36, 42) 0%, rgb(18, 18, 24) 100%)",
+      "rect": {
+        "x": 768,
+        "y": 4161.99462890625,
+        "width": 520,
+        "height": 484,
+        "top": 4161.99462890625,
+        "right": 1288,
+        "bottom": 4645.99462890625,
+        "left": 768
+      }
+    },
+    {
+      "tag": "DIV",
+      "cls": "framer-fme8e framer-97wljp framer-v-1sgdpb4",
+      "prop": "backgroundImage",
+      "val": "linear-gradient(rgb(36, 36, 42) 0%, rgb(36, 36, 42) 100%)",
+      "rect": {
+        "x": 816,
+        "y": 4209.99462890625,
+        "width": 64,
+        "height": 64,
+        "top": 4209.99462890625,
+        "right": 880,
+        "bottom": 4273.99462890625,
+        "left": 816
+      }
+    },
+    {
+      "tag": "svg",
+      "cls": "",
+      "prop": "maskImage",
+      "val": "linear-gradient(0deg, rgba(0, 0, 0, 0) 0%, rgb(0, 0, 0) 50%)",
+      "rect": {
+        "x": 832,
+        "y": 4225.99462890625,
+        "width": 32,
+        "height": 32,
+        "top": 4225.99462890625,
+        "right": 864,
+        "bottom": 4257.99462890625,
+        "left": 832
+      }
+    },
+    {
+      "tag": "svg",
+      "cls": "",
+      "prop": "webkitMaskImage",
+      "val": "linear-gradient(0deg, rgba(0, 0, 0, 0) 0%, rgb(0, 0, 0) 50%)",
+      "rect": {
+        "x": 832,
+        "y": 4225.99462890625,
+        "width": 32,
+        "height": 32,
+        "top": 4225.99462890625,
+        "right": 864,
+        "bottom": 4257.99462890625,
+        "left": 832
+      }
+    },
+    {
+      "tag": "DIV",
+      "cls": "framer-fme8e framer-97wljp framer-v-3i4r25",
+      "prop": "backgroundImage",
+      "val": "linear-gradient(rgb(36, 36, 42) 0%, rgb(36, 36, 42) 100%)",
+      "rect": {
+        "x": 816,
+        "y": 4387.99462890625,
+        "width": 48,
+        "height": 48,
+        "top": 4387.99462890625,
+        "right": 864,
+        "bottom": 4435.99462890625,
+        "left": 816
+      }
+    },
+    {
+      "tag": "svg",
+      "cls": "",
+      "prop": "maskImage",
+      "val": "linear-gradient(0deg, rgba(0, 0, 0, 0) 0%, rgb(0, 0, 0) 50%)",
+      "rect": {
+        "x": 828,
+        "y": 4399.99462890625,
+        "width": 24,
+        "height": 24,
+        "top": 4399.99462890625,
+        "right": 852,
+        "bottom": 4423.99462890625,
+        "left": 828
+      }
+    },
+    {
+      "tag": "svg",
+      "cls": "",
+      "prop": "webkitMaskImage",
+      "val": "linear-gradient(0deg, rgba(0, 0, 0, 0) 0%, rgb(0, 0, 0) 50%)",
+      "rect": {
+        "x": 828,
+        "y": 4399.99462890625,
+        "width": 24,
+        "height": 24,
+        "top": 4399.99462890625,
+        "right": 852,
+        "bottom": 4423.99462890625,
+        "left": 828
+      }
+    },
+    {
+      "tag": "DIV",
+      "cls": "framer-fme8e framer-97wljp framer-v-3i4r25",
+      "prop": "backgroundImage",
+      "val": "linear-gradient(rgb(36, 36, 42) 0%, rgb(36, 36, 42) 100%)",
+      "rect": {
+        "x": 816,
+        "y": 4468.99462890625,
+        "width": 48,
+        "height": 48,
+        "top": 4468.99462890625,
+        "right": 864,
+        "bottom": 4516.99462890625,
+        "left": 816
+      }
+    },
+    {
+      "tag": "svg",
+      "cls": "",
+      "prop": "maskImage",
+      "val": "linear-gradient(0deg, rgba(0, 0, 0, 0) 0%, rgb(0, 0, 0) 50%)",
+      "rect": {
+        "x": 828,
+        "y": 4480.99462890625,
+        "width": 24,
+        "height": 24,
+        "top": 4480.99462890625,
+        "right": 852,
+        "bottom": 4504.99462890625,
+        "left": 828
+      }
+    },
+    {
+      "tag": "svg",
+      "cls": "",
+      "prop": "webkitMaskImage",
+      "val": "linear-gradient(0deg, rgba(0, 0, 0, 0) 0%, rgb(0, 0, 0) 50%)",
+      "rect": {
+        "x": 828,
+        "y": 4480.99462890625,
+        "width": 24,
+        "height": 24,
+        "top": 4480.99462890625,
+        "right": 852,
+        "bottom": 4504.99462890625,
+        "left": 828
+      }
+    },
+    {
+      "tag": "DIV",
+      "cls": "framer-fme8e framer-97wljp framer-v-3i4r25",
+      "prop": "backgroundImage",
+      "val": "linear-gradient(rgb(36, 36, 42) 0%, rgb(36, 36, 42) 100%)",
+      "rect": {
+        "x": 816,
+        "y": 4549.99462890625,
+        "width": 48,
+        "height": 48,
+        "top": 4549.99462890625,
+        "right": 864,
+        "bottom": 4597.99462890625,
+        "left": 816
+      }
+    },
+    {
+      "tag": "svg",
+      "cls": "",
+      "prop": "maskImage",
+      "val": "linear-gradient(0deg, rgba(0, 0, 0, 0) 0%, rgb(0, 0, 0) 50%)",
+      "rect": {
+        "x": 828,
+        "y": 4561.99462890625,
+        "width": 24,
+        "height": 24,
+        "top": 4561.99462890625,
+        "right": 852,
+        "bottom": 4585.99462890625,
+        "left": 828
+      }
+    },
+    {
+      "tag": "svg",
+      "cls": "",
+      "prop": "webkitMaskImage",
+      "val": "linear-gradient(0deg, rgba(0, 0, 0, 0) 0%, rgb(0, 0, 0) 50%)",
+      "rect": {
+        "x": 828,
+        "y": 4561.99462890625,
+        "width": 24,
+        "height": 24,
+        "top": 4561.99462890625,
+        "right": 852,
+        "bottom": 4585.99462890625,
+        "left": 828
+      }
+    },
+    {
+      "tag": "DIV",
+      "cls": "framer-12fh32w-container",
+      "prop": "maskImage",
+      "val": "linear-gradient(0deg, rgba(0, 0, 0, 0) 10%, rgb(0, 0, 0) 100%)",
+      "rect": {
+        "x": 176,
+        "y": 5016,
+        "width": 1088,
+        "height": 171,
+        "top": 5016,
+        "right": 1264,
+        "bottom": 5187,
+        "left": 176
+      }
+    },
+    {
+      "tag": "DIV",
+      "cls": "framer-12fh32w-container",
+      "prop": "webkitMaskImage",
+      "val": "linear-gradient(0deg, rgba(0, 0, 0, 0) 10%, rgb(0, 0, 0) 100%)",
+      "rect": {
+        "x": 176,
+        "y": 5016,
+        "width": 1088,
+        "height": 171,
+        "top": 5016,
+        "right": 1264,
+        "bottom": 5187,
+        "left": 176
+      }
+    },
+    {
+      "tag": "DIV",
+      "cls": "framer-5py5fr",
+      "prop": "backgroundImage",
+      "val": "linear-gradient(rgb(36, 36, 42) 0%, rgb(18, 18, 24) 100%)",
+      "rect": {
+        "x": 128,
+        "y": 5167,
+        "width": 1184,
+        "height": 68,
+        "top": 5167,
+        "right": 1312,
+        "bottom": 5235,
+        "left": 128
+      }
+    },
+    {
+      "tag": "DIV",
+      "cls": "",
+      "prop": "backgroundImage",
+      "val": "repeating-linear-gradient(145deg, rgb(36, 36, 42), rgb(36, 36, 42) 1px, rgba(0, 0, 0, 0) 1px, rgba(0, 0, 0, 0) 4px)",
+      "rect": {
+        "x": 128,
+        "y": 5169,
+        "width": 1184,
+        "height": 65,
+        "top": 5169,
+        "right": 1312,
+        "bottom": 5234,
+        "left": 128
+      }
+    },
+    {
+      "tag": "A",
+      "cls": "framer-rhm3Q framer-PFb4d framer-mCh1O framer-19xn60x framer-v-19xn60x framer-1d",
+      "prop": "backgroundImage",
+      "val": "linear-gradient(rgb(36, 36, 42) 0%, rgb(18, 18, 24) 100%)",
+      "rect": {
+        "x": 1281,
+        "y": 800,
+        "width": 138,
+        "height": 36,
+        "top": 800,
+        "right": 1419,
+        "bottom": 836,
+        "left": 1281
+      }
+    },
+    {
+      "tag": "DIV",
+      "cls": "framer-hcsc7 framer-e50co",
+      "prop": "maskImage",
+      "val": "url(\"data:image/svg+xml,<svg display=\\\"block\\\" role=\\\"presentation\\\" viewBox=\\\"0 0 12 20\\\" xmlns=\\\"http://www.w3.org/2000/svg\\\"><path d=\\\"M 0 0 L 12 0 L 12 6 L 6 6 Z M 0 6 L 6 6 L 12 12 L 6 12 L 6 18 L 0 12 Z\\\" fill=\\\"var(--1bd4d3i, rgb(0, 0, 0))\\\" height=\\\"18px\\\" id=\\\"td4SVg2I8\\\" transform=\\\"translate(0 1.5)\\\" width=\\\"12px\\\"/></svg>\"), none",
+      "rect": {
+        "x": 1290.5,
+        "y": 851,
+        "width": 12,
+        "height": 20,
+        "top": 851,
+        "right": 1302.5,
+        "bottom": 871,
+        "left": 1290.5
+      }
+    },
+    {
+      "tag": "DIV",
+      "cls": "framer-hcsc7 framer-e50co",
+      "prop": "webkitMaskImage",
+      "val": "url(\"data:image/svg+xml,<svg display=\\\"block\\\" role=\\\"presentation\\\" viewBox=\\\"0 0 12 20\\\" xmlns=\\\"http://www.w3.org/2000/svg\\\"><path d=\\\"M 0 0 L 12 0 L 12 6 L 6 6 Z M 0 6 L 6 6 L 12 12 L 6 12 L 6 18 L 0 12 Z\\\" fill=\\\"var(--1bd4d3i, rgb(0, 0, 0))\\\" height=\\\"18px\\\" id=\\\"td4SVg2I8\\\" transform=\\\"translate(0 1.5)\\\" width=\\\"12px\\\"/></svg>\"), none",
+      "rect": {
+        "x": 1290.5,
+        "y": 851,
+        "width": 12,
+        "height": 20,
+        "top": 851,
+        "right": 1302.5,
+        "bottom": 871,
+        "left": 1290.5
+      }
+    },
+    {
+      "tag": "DIV",
+      "cls": "framer-g7oZR framer-1um7t9d",
+      "prop": "maskImage",
+      "val": "url(\"data:image/svg+xml,<svg display=\\\"block\\\" role=\\\"presentation\\\" viewBox=\\\"0 0 97 10\\\" xmlns=\\\"http://www.w3.org/2000/svg\\\"><path d=\\\"M 91.736 9.781 L 91.736 2.818 L 93.316 2.818 L 93.316 3.98 L 93.374 3.98 C 93.501 3.577 93.714 3.269 94.014 3.053 C 94.328 2.833 94.704 2.72 95.087 2.729 C 95.185 2.729 95.287 2.733 95.392 2.742 C 95.498 2.75 95.587 2.759 95.659 2.767 L 95.659 4.253 C 95.552 4.23 95.444 4.215 95.335 4.209 C 95.188 4.192 95.039 4.184 94.891 4.184 C 94.603 4.184 94.343 4.247 94.",
+      "rect": {
+        "x": 1312.5,
+        "y": 856,
+        "width": 97,
+        "height": 10,
+        "top": 856,
+        "right": 1409.5,
+        "bottom": 866,
+        "left": 1312.5
+      }
+    },
+    {
+      "tag": "DIV",
+      "cls": "framer-g7oZR framer-1um7t9d",
+      "prop": "webkitMaskImage",
+      "val": "url(\"data:image/svg+xml,<svg display=\\\"block\\\" role=\\\"presentation\\\" viewBox=\\\"0 0 97 10\\\" xmlns=\\\"http://www.w3.org/2000/svg\\\"><path d=\\\"M 91.736 9.781 L 91.736 2.818 L 93.316 2.818 L 93.316 3.98 L 93.374 3.98 C 93.501 3.577 93.714 3.269 94.014 3.053 C 94.328 2.833 94.704 2.72 95.087 2.729 C 95.185 2.729 95.287 2.733 95.392 2.742 C 95.498 2.75 95.587 2.759 95.659 2.767 L 95.659 4.253 C 95.552 4.23 95.444 4.215 95.335 4.209 C 95.188 4.192 95.039 4.184 94.891 4.184 C 94.603 4.184 94.343 4.247 94.",
+      "rect": {
+        "x": 1312.5,
+        "y": 856,
+        "width": 97,
+        "height": 10,
+        "top": 856,
+        "right": 1409.5,
+        "bottom": 866,
+        "left": 1312.5
+      }
+    },
+    {
+      "tag": "DIV",
+      "cls": "framer-j4ugry",
+      "prop": "maskImage",
+      "val": "linear-gradient(rgba(0, 0, 0, 0) 65%, rgb(0, 0, 0) 100%)",
+      "rect": {
+        "x": 1280,
+        "y": 842,
+        "width": 140,
+        "height": 38,
+        "top": 842,
+        "right": 1420,
+        "bottom": 880,
+        "left": 1280
+      }
+    },
+    {
+      "tag": "DIV",
+      "cls": "framer-j4ugry",
+      "prop": "webkitMaskImage",
+      "val": "linear-gradient(rgba(0, 0, 0, 0) 65%, rgb(0, 0, 0) 100%)",
+      "rect": {
+        "x": 1280,
+        "y": 842,
+        "width": 140,
+        "height": 38,
+        "top": 842,
+        "right": 1420,
+        "bottom": 880,
+        "left": 1280
+      }
+    }
+  ],
+  "links": [
+    {
+      "href": "https://sevora.framer.website/",
+      "rawHref": "./",
+      "text": "Sevora",
+      "target": null,
+      "rel": null,
+      "rect": {
+        "x": 144,
+        "y": 28,
+        "width": 87.09375,
+        "height": 28,
+        "top": 28,
+        "right": 231.09375,
+        "bottom": 56,
+        "left": 144
+      }
+    },
+    {
+      "href": "https://sevora.framer.website/",
+      "rawHref": "./",
+      "text": "Home",
+      "target": null,
+      "rel": null,
+      "rect": {
+        "x": 504.234375,
+        "y": 24,
+        "width": 66.921875,
+        "height": 36,
+        "top": 24,
+        "right": 571.15625,
+        "bottom": 60,
+        "left": 504.234375
+      }
+    },
+    {
+      "href": "https://sevora.framer.website/about",
+      "rawHref": "./about",
+      "text": "About",
+      "target": null,
+      "rel": null,
+      "rect": {
+        "x": 579.15625,
+        "y": 24,
+        "width": 68.203125,
+        "height": 36,
+        "top": 24,
+        "right": 647.359375,
+        "bottom": 60,
+        "left": 579.15625
+      }
+    },
+    {
+      "href": "https://sevora.framer.website/projects",
+      "rawHref": "./projects",
+      "text": "Projects",
+      "target": null,
+      "rel": null,
+      "rect": {
+        "x": 655.359375,
+        "y": 24,
+        "width": 80.90625,
+        "height": 36,
+        "top": 24,
+        "right": 736.265625,
+        "bottom": 60,
+        "left": 655.359375
+      }
+    },
+    {
+      "href": "https://sevora.framer.website/articles",
+      "rawHref": "./articles",
+      "text": "Articles",
+      "target": null,
+      "rel": null,
+      "rect": {
+        "x": 744.265625,
+        "y": 24,
+        "width": 77.40625,
+        "height": 36,
+        "top": 24,
+        "right": 821.671875,
+        "bottom": 60,
+        "left": 744.265625
+      }
+    },
+    {
+      "href": "https://sevora.framer.website/contact",
+      "rawHref": "./contact",
+      "text": "Contact",
+      "target": null,
+      "rel": null,
+      "rect": {
+        "x": 829.671875,
+        "y": 24,
+        "width": 79.984375,
+        "height": 36,
+        "top": 24,
+        "right": 909.65625,
+        "bottom": 60,
+        "left": 829.671875
+      }
+    },
+    {
+      "href": "https://sevora.framer.website/contact",
+      "rawHref": "./contact",
+      "text": "Let's talk",
+      "target": "_blank",
+      "rel": null,
+      "rect": {
+        "x": 1182.78125,
+        "y": 24,
+        "width": 113.21875,
+        "height": 36,
+        "top": 24,
+        "right": 1296,
+        "bottom": 60,
+        "left": 1182.78125
+      }
+    },
+    {
+      "href": "https://sevora.framer.website/",
+      "rawHref": "./",
+      "text": "Sevora",
+      "target": null,
+      "rel": null,
+      "rect": {
+        "x": 397.125,
+        "y": -55.99774169921875,
+        "width": 87.09375,
+        "height": 28,
+        "top": -55.99774169921875,
+        "right": 484.21875,
+        "bottom": -27.99774169921875,
+        "left": 397.125
+      }
+    },
+    {
+      "href": "https://sevora.framer.website/",
+      "rawHref": "./",
+      "text": "Home",
+      "target": null,
+      "rel": null,
+      "rect": {
+        "x": 508.21875,
+        "y": -59.99774169921875,
+        "width": 66.921875,
+        "height": 36,
+        "top": -59.99774169921875,
+        "right": 575.140625,
+        "bottom": -23.99774169921875,
+        "left": 508.21875
+      }
+    },
+    {
+      "href": "https://sevora.framer.website/about",
+      "rawHref": "./about",
+      "text": "About",
+      "target": null,
+      "rel": null,
+      "rect": {
+        "x": 583.140625,
+        "y": -59.99774169921875,
+        "width": 68.203125,
+        "height": 36,
+        "top": -59.99774169921875,
+        "right": 651.34375,
+        "bottom": -23.99774169921875,
+        "left": 583.140625
+      }
+    },
+    {
+      "href": "https://sevora.framer.website/projects",
+      "rawHref": "./projects",
+      "text": "Projects",
+      "target": null,
+      "rel": null,
+      "rect": {
+        "x": 659.34375,
+        "y": -59.99774169921875,
+        "width": 80.90625,
+        "height": 36,
+        "top": -59.99774169921875,
+        "right": 740.25,
+        "bottom": -23.99774169921875,
+        "left": 659.34375
+      }
+    },
+    {
+      "href": "https://sevora.framer.website/articles",
+      "rawHref": "./articles",
+      "text": "Articles",
+      "target": null,
+      "rel": null,
+      "rect": {
+        "x": 748.25,
+        "y": -59.99774169921875,
+        "width": 77.40625,
+        "height": 36,
+        "top": -59.99774169921875,
+        "right": 825.65625,
+        "bottom": -23.99774169921875,
+        "left": 748.25
+      }
+    },
+    {
+      "href": "https://sevora.framer.website/contact",
+      "rawHref": "./contact",
+      "text": "Contact",
+      "target": null,
+      "rel": null,
+      "rect": {
+        "x": 833.65625,
+        "y": -59.99774169921875,
+        "width": 79.984375,
+        "height": 36,
+        "top": -59.99774169921875,
+        "right": 913.640625,
+        "bottom": -23.99774169921875,
+        "left": 833.65625
+      }
+    },
+    {
+      "href": "https://sevora.framer.website/contact",
+      "rawHref": "./contact",
+      "text": "Let's talk",
+      "target": "_blank",
+      "rel": null,
+      "rect": {
+        "x": 937.640625,
+        "y": -59.99774169921875,
+        "width": 113.21875,
+        "height": 36,
+        "top": -59.99774169921875,
+        "right": 1050.859375,
+        "bottom": -23.99774169921875,
+        "left": 937.640625
+      }
+    },
+    {
+      "href": "https://www.framer.com/?via=dmytri_design",
+      "rawHref": "https://www.framer.com/?via=dmytri_design",
+      "text": "Framer Building fast, responsive websites with fluid interactions.",
+      "target": "_blank",
+      "rel": null,
+      "rect": {
+        "x": 760.9110717773438,
+        "y": 2712.843017578125,
+        "width": 262.7783203125,
+        "height": 333.53271484375,
+        "top": 2712.843017578125,
+        "right": 1023.6893920898438,
+        "bottom": 3046.375732421875,
+        "left": 760.9110717773438
+      }
+    },
+    {
+      "href": "https://sevora.framer.website/contact",
+      "rawHref": "./contact",
+      "text": "Get in touch",
+      "target": "_blank",
+      "rel": null,
+      "rect": {
+        "x": 200,
+        "y": 4305.998046875,
+        "width": 131,
+        "height": 48,
+        "top": 4305.998046875,
+        "right": 331,
+        "bottom": 4353.998046875,
+        "left": 200
+      }
+    },
+    {
+      "href": "https://sevora.framer.website/projects",
+      "rawHref": "./projects",
+      "text": "View projects",
+      "target": null,
+      "rel": null,
+      "rect": {
+        "x": 339,
+        "y": 4305.998046875,
+        "width": 140.84375,
+        "height": 48,
+        "top": 4305.998046875,
+        "right": 479.84375,
+        "bottom": 4353.998046875,
+        "left": 339
+      }
+    },
+    {
+      "href": "mailto:hello@sevora.com",
+      "rawHref": "mailto:hello@sevora.com",
+      "text": "hello@sevora.com",
+      "target": "_blank",
+      "rel": "",
+      "rect": {
+        "x": 880,
+        "y": 4411.99462890625,
+        "width": 116.203125,
+        "height": 18,
+        "top": 4411.99462890625,
+        "right": 996.203125,
+        "bottom": 4429.99462890625,
+        "left": 880
+      }
+    },
+    {
+      "href": "https://sevora.framer.website/",
+      "rawHref": "./",
+      "text": "Sevora",
+      "target": null,
+      "rel": null,
+      "rect": {
+        "x": 176,
+        "y": 4707,
+        "width": 87.09375,
+        "height": 28,
+        "top": 4707,
+        "right": 263.09375,
+        "bottom": 4735,
+        "left": 176
+      }
+    },
+    {
+      "href": "https://sevora.framer.website/",
+      "rawHref": "./",
+      "text": "Home",
+      "target": null,
+      "rel": null,
+      "rect": {
+        "x": 832,
+        "y": 4748,
+        "width": 38.921875,
+        "height": 18,
+        "top": 4748,
+        "right": 870.921875,
+        "bottom": 4766,
+        "left": 832
+      }
+    },
+    {
+      "href": "https://sevora.framer.website/about",
+      "rawHref": "./about",
+      "text": "About",
+      "target": null,
+      "rel": null,
+      "rect": {
+        "x": 832,
+        "y": 4784,
+        "width": 40.203125,
+        "height": 18,
+        "top": 4784,
+        "right": 872.203125,
+        "bottom": 4802,
+        "left": 832
+      }
+    },
+    {
+      "href": "https://sevora.framer.website/projects",
+      "rawHref": "./projects",
+      "text": "Projects",
+      "target": null,
+      "rel": null,
+      "rect": {
+        "x": 832,
+        "y": 4820,
+        "width": 52.90625,
+        "height": 18,
+        "top": 4820,
+        "right": 884.90625,
+        "bottom": 4838,
+        "left": 832
+      }
+    },
+    {
+      "href": "https://sevora.framer.website/articles",
+      "rawHref": "./articles",
+      "text": "Articles",
+      "target": null,
+      "rel": null,
+      "rect": {
+        "x": 832,
+        "y": 4856,
+        "width": 49.40625,
+        "height": 18,
+        "top": 4856,
+        "right": 881.40625,
+        "bottom": 4874,
+        "left": 832
+      }
+    },
+    {
+      "href": "https://sevora.framer.website/contact",
+      "rawHref": "./contact",
+      "text": "Contact",
+      "target": null,
+      "rel": null,
+      "rect": {
+        "x": 832,
+        "y": 4892,
+        "width": 51.984375,
+        "height": 18,
+        "top": 4892,
+        "right": 883.984375,
+        "bottom": 4910,
+        "left": 832
+      }
+    },
+    {
+      "href": "https://x.com/Dmytri_Design",
+      "rawHref": "https://x.com/Dmytri_Design",
+      "text": "X link",
+      "target": null,
+      "rel": "",
+      "rect": {
+        "x": 1096,
+        "y": 4748,
+        "width": 34.8125,
+        "height": 18,
+        "top": 4748,
+        "right": 1130.8125,
+        "bottom": 4766,
+        "left": 1096
+      }
+    },
+    {
+      "href": "https://www.linkedin.com/in/dmytri-design/",
+      "rawHref": "https://www.linkedin.com/in/dmytri-design/",
+      "text": "Linkedin",
+      "target": null,
+      "rel": "",
+      "rect": {
+        "x": 1096,
+        "y": 4784,
+        "width": 54.484375,
+        "height": 18,
+        "top": 4784,
+        "right": 1150.484375,
+        "bottom": 4802,
+        "left": 1096
+      }
+    },
+    {
+      "href": "https://dribbble.com/Stylokit",
+      "rawHref": "https://dribbble.com/Stylokit",
+      "text": "Dribbble",
+      "target": null,
+      "rel": "",
+      "rect": {
+        "x": 1096,
+        "y": 4820,
+        "width": 55.34375,
+        "height": 18,
+        "top": 4820,
+        "right": 1151.34375,
+        "bottom": 4838,
+        "left": 1096
+      }
+    },
+    {
+      "href": "https://stylokit.com/",
+      "rawHref": "https://stylokit.com/",
+      "text": "Stylokit",
+      "target": "_blank",
+      "rel": "",
+      "rect": {
+        "x": 380.234375,
+        "y": 5192,
+        "width": 48.859375,
+        "height": 18,
+        "top": 5192,
+        "right": 429.09375,
+        "bottom": 5210,
+        "left": 380.234375
+      }
+    },
+    {
+      "href": "https://www.framer.com/?via=dmytri_design",
+      "rawHref": "https://www.framer.com/?via=dmytri_design",
+      "text": "Made in Framer",
+      "target": "_blank",
+      "rel": null,
+      "rect": {
+        "x": 1138.234375,
+        "y": 5191,
+        "width": 125.765625,
+        "height": 20,
+        "top": 5191,
+        "right": 1264,
+        "bottom": 5211,
+        "left": 1138.234375
+      }
+    },
+    {
+      "href": "https://framer.link/bFVcS5o",
+      "rawHref": "https://framer.link/bFVcS5o",
+      "text": "Get the template",
+      "target": "_blank",
+      "rel": null,
+      "rect": {
+        "x": 1281,
+        "y": 800,
+        "width": 138,
+        "height": 36,
+        "top": 800,
+        "right": 1419,
+        "bottom": 836,
+        "left": 1281
+      }
+    },
+    {
+      "href": "https://www.framer.com/",
+      "rawHref": "https://www.framer.com",
+      "text": "Create a free website with Framer, the website builder loved by startups, designers and agencies.",
+      "target": null,
+      "rel": "noopener",
+      "rect": {
+        "x": 1280,
+        "y": 842,
+        "width": 140,
+        "height": 38,
+        "top": 842,
+        "right": 1420,
+        "bottom": 880,
+        "left": 1280
+      }
+    }
+  ]
+}

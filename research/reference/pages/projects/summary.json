@@ -1,0 +1,746 @@
+{
+  "categories": {
+    "All projects": [
+      {
+        "href": "https://brandora.framer.website/",
+        "target": "_blank",
+        "text": "Brandora Brandora",
+        "imgSrc": "https://framerusercontent.com/images/ktcimUvwboXOgQi2AvOrS6Bj760.jpg?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://nivora.framer.website/",
+        "target": "_blank",
+        "text": "Nivora Nivora",
+        "imgSrc": "https://framerusercontent.com/images/vYf7Bp88A2oX0r0rBYroXDxsSI.jpg?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://codify.framer.website/",
+        "target": "_blank",
+        "text": "Codify Codify",
+        "imgSrc": "https://framerusercontent.com/images/nLiypGqmKBGtEZ2OY7irFQiP5U.png?scale-down-to=1024&width=2400&height=1800",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://neutra.framer.website/",
+        "target": "_blank",
+        "text": "Neutra Neutra",
+        "imgSrc": "https://framerusercontent.com/images/HyuPygjhzSYcqtCkgqgwlcI.jpg?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://snapkit.framer.website/",
+        "target": "_blank",
+        "text": "Snapkit Snapkit",
+        "imgSrc": "https://framerusercontent.com/images/hg1KCy1TvxmM2dGVwS3krViR44.png?scale-down-to=1024&width=3200&height=2400",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://todofusion.framer.website/",
+        "target": "_blank",
+        "text": "Todofusion Todofusion",
+        "imgSrc": "https://framerusercontent.com/images/aqshn4kinOsmEgg1K88qujb0A5M.jpg?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://grido.framer.website/",
+        "target": "_blank",
+        "text": "Grido Grido",
+        "imgSrc": "https://framerusercontent.com/images/rcdZYeqHhc1RzZqUSukZ7FjrPU.jpg?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://trainly.framer.website/",
+        "target": "_blank",
+        "text": "Trainly Trainly",
+        "imgSrc": "https://framerusercontent.com/images/yurOrV9HSGdEsnvLt9Ld1BkmOUE.jpg?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://landify.framer.website/",
+        "target": "_blank",
+        "text": "Landify Landify",
+        "imgSrc": "https://framerusercontent.com/images/gNE42N9R0qGc9OHBFrF4nlkU7Uc.jpg?scale-down-to=1024&width=1400&height=950",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://thinkbot.framer.ai/",
+        "target": "_blank",
+        "text": "Thinkbot Thinkbot",
+        "imgSrc": "https://framerusercontent.com/images/32gcdV5ff2LXMOwN60H0XoW7o.png?scale-down-to=1024&width=1800&height=1350",
+        "imgAlt": ""
+      }
+    ],
+    "AI": [
+      {
+        "href": "https://brandora.framer.website/",
+        "target": "_blank",
+        "text": "Brandora Brandora",
+        "imgSrc": "https://framerusercontent.com/images/ktcimUvwboXOgQi2AvOrS6Bj760.jpg?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://nivora.framer.website/",
+        "target": "_blank",
+        "text": "Nivora Nivora",
+        "imgSrc": "https://framerusercontent.com/images/vYf7Bp88A2oX0r0rBYroXDxsSI.jpg?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://codify.framer.website/",
+        "target": "_blank",
+        "text": "Codify Codify",
+        "imgSrc": "https://framerusercontent.com/images/nLiypGqmKBGtEZ2OY7irFQiP5U.png?scale-down-to=1024&width=2400&height=1800",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://neutra.framer.website/",
+        "target": "_blank",
+        "text": "Neutra Neutra",
+        "imgSrc": "https://framerusercontent.com/images/HyuPygjhzSYcqtCkgqgwlcI.jpg?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://snapkit.framer.website/",
+        "target": "_blank",
+        "text": "Snapkit Snapkit",
+        "imgSrc": "https://framerusercontent.com/images/hg1KCy1TvxmM2dGVwS3krViR44.png?scale-down-to=1024&width=3200&height=2400",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://todofusion.framer.website/",
+        "target": "_blank",
+        "text": "Todofusion Todofusion",
+        "imgSrc": "https://framerusercontent.com/images/aqshn4kinOsmEgg1K88qujb0A5M.jpg?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://grido.framer.website/",
+        "target": "_blank",
+        "text": "Grido Grido",
+        "imgSrc": "https://framerusercontent.com/images/rcdZYeqHhc1RzZqUSukZ7FjrPU.jpg?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://trainly.framer.website/",
+        "target": "_blank",
+        "text": "Trainly Trainly",
+        "imgSrc": "https://framerusercontent.com/images/yurOrV9HSGdEsnvLt9Ld1BkmOUE.jpg?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://landify.framer.website/",
+        "target": "_blank",
+        "text": "Landify Landify",
+        "imgSrc": "https://framerusercontent.com/images/gNE42N9R0qGc9OHBFrF4nlkU7Uc.jpg?scale-down-to=1024&width=1400&height=950",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://thinkbot.framer.ai/",
+        "target": "_blank",
+        "text": "Thinkbot Thinkbot",
+        "imgSrc": "https://framerusercontent.com/images/32gcdV5ff2LXMOwN60H0XoW7o.png?scale-down-to=1024&width=1800&height=1350",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://groomix.framer.website/",
+        "target": "_blank",
+        "text": "Groomix Groomix",
+        "imgSrc": "https://framerusercontent.com/images/x8QjjWJgQ7mE4UcfgBK3SJdSc.jpg?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://studyflow.framer.website/",
+        "target": "_blank",
+        "text": "Studyflow Studyflow",
+        "imgSrc": "https://framerusercontent.com/images/MmaC78GDt31ZEKuovGIcUhBq4.jpg?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://ainest.framer.website/",
+        "target": "_blank",
+        "text": "AI Nest AI Nest",
+        "imgSrc": "https://framerusercontent.com/images/iZEy2ZAxWxtczASPvxcMhf4r96o.png?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://gradia.framer.website/",
+        "target": "_blank",
+        "text": "Gradia Gradia",
+        "imgSrc": "https://framerusercontent.com/images/VQ0Ch42t3nD4MPPkCwFnoIK75k.png?width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://designor.framer.website/",
+        "target": "_blank",
+        "text": "Designor Designor",
+        "imgSrc": "https://framerusercontent.com/images/yJo9sAXzSw0aFuZefpvQozrGk.png?width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://pixor.framer.website/",
+        "target": "_blank",
+        "text": "Pixor Pixor",
+        "imgSrc": "https://framerusercontent.com/images/b1r5b9SBnUmYvLsg1LneyM0AmQ.png?scale-down-to=1024&width=1800&height=1360",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://residra.framer.website/",
+        "target": "_blank",
+        "text": "Residra Residra",
+        "imgSrc": "https://framerusercontent.com/images/qJmk90RjPjctUnBV6K1IRSiA.jpg?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://kavro.framer.website/",
+        "target": "_blank",
+        "text": "Kavro Kavro",
+        "imgSrc": "https://framerusercontent.com/images/Ai0d6S92eWmzlLAXWZplOGNfvI.jpg?width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://taskify.framer.website/",
+        "target": "_blank",
+        "text": "Taskify Taskify",
+        "imgSrc": "https://framerusercontent.com/images/RjzRlDxhmi32y6DQJ9DBXT8yh4.jpg?width=3200&height=2400",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://flexify.framer.website/",
+        "target": "_blank",
+        "text": "Flexify Flexify",
+        "imgSrc": "https://framerusercontent.com/images/VVF44Vg2n8V7Lk6z7eH43gdY6w.jpg?width=3200&height=2400",
+        "imgAlt": ""
+      }
+    ],
+    "Business": [
+      {
+        "href": "https://brandora.framer.website/",
+        "target": "_blank",
+        "text": "Brandora Brandora",
+        "imgSrc": "https://framerusercontent.com/images/ktcimUvwboXOgQi2AvOrS6Bj760.jpg?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://nivora.framer.website/",
+        "target": "_blank",
+        "text": "Nivora Nivora",
+        "imgSrc": "https://framerusercontent.com/images/vYf7Bp88A2oX0r0rBYroXDxsSI.jpg?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://codify.framer.website/",
+        "target": "_blank",
+        "text": "Codify Codify",
+        "imgSrc": "https://framerusercontent.com/images/nLiypGqmKBGtEZ2OY7irFQiP5U.png?scale-down-to=1024&width=2400&height=1800",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://neutra.framer.website/",
+        "target": "_blank",
+        "text": "Neutra Neutra",
+        "imgSrc": "https://framerusercontent.com/images/HyuPygjhzSYcqtCkgqgwlcI.jpg?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://snapkit.framer.website/",
+        "target": "_blank",
+        "text": "Snapkit Snapkit",
+        "imgSrc": "https://framerusercontent.com/images/hg1KCy1TvxmM2dGVwS3krViR44.png?scale-down-to=1024&width=3200&height=2400",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://todofusion.framer.website/",
+        "target": "_blank",
+        "text": "Todofusion Todofusion",
+        "imgSrc": "https://framerusercontent.com/images/aqshn4kinOsmEgg1K88qujb0A5M.jpg?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://grido.framer.website/",
+        "target": "_blank",
+        "text": "Grido Grido",
+        "imgSrc": "https://framerusercontent.com/images/rcdZYeqHhc1RzZqUSukZ7FjrPU.jpg?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://trainly.framer.website/",
+        "target": "_blank",
+        "text": "Trainly Trainly",
+        "imgSrc": "https://framerusercontent.com/images/yurOrV9HSGdEsnvLt9Ld1BkmOUE.jpg?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://landify.framer.website/",
+        "target": "_blank",
+        "text": "Landify Landify",
+        "imgSrc": "https://framerusercontent.com/images/gNE42N9R0qGc9OHBFrF4nlkU7Uc.jpg?scale-down-to=1024&width=1400&height=950",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://thinkbot.framer.ai/",
+        "target": "_blank",
+        "text": "Thinkbot Thinkbot",
+        "imgSrc": "https://framerusercontent.com/images/32gcdV5ff2LXMOwN60H0XoW7o.png?scale-down-to=1024&width=1800&height=1350",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://groomix.framer.website/",
+        "target": "_blank",
+        "text": "Groomix Groomix",
+        "imgSrc": "https://framerusercontent.com/images/x8QjjWJgQ7mE4UcfgBK3SJdSc.jpg?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://studyflow.framer.website/",
+        "target": "_blank",
+        "text": "Studyflow Studyflow",
+        "imgSrc": "https://framerusercontent.com/images/MmaC78GDt31ZEKuovGIcUhBq4.jpg?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://ainest.framer.website/",
+        "target": "_blank",
+        "text": "AI Nest AI Nest",
+        "imgSrc": "https://framerusercontent.com/images/iZEy2ZAxWxtczASPvxcMhf4r96o.png?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://gradia.framer.website/",
+        "target": "_blank",
+        "text": "Gradia Gradia",
+        "imgSrc": "https://framerusercontent.com/images/VQ0Ch42t3nD4MPPkCwFnoIK75k.png?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://designor.framer.website/",
+        "target": "_blank",
+        "text": "Designor Designor",
+        "imgSrc": "https://framerusercontent.com/images/yJo9sAXzSw0aFuZefpvQozrGk.png?width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://pixor.framer.website/",
+        "target": "_blank",
+        "text": "Pixor Pixor",
+        "imgSrc": "https://framerusercontent.com/images/b1r5b9SBnUmYvLsg1LneyM0AmQ.png?scale-down-to=1024&width=1800&height=1360",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://residra.framer.website/",
+        "target": "_blank",
+        "text": "Residra Residra",
+        "imgSrc": "https://framerusercontent.com/images/qJmk90RjPjctUnBV6K1IRSiA.jpg?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://kavro.framer.website/",
+        "target": "_blank",
+        "text": "Kavro Kavro",
+        "imgSrc": "https://framerusercontent.com/images/Ai0d6S92eWmzlLAXWZplOGNfvI.jpg?width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://taskify.framer.website/",
+        "target": "_blank",
+        "text": "Taskify Taskify",
+        "imgSrc": "https://framerusercontent.com/images/RjzRlDxhmi32y6DQJ9DBXT8yh4.jpg?width=3200&height=2400",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://flexify.framer.website/",
+        "target": "_blank",
+        "text": "Flexify Flexify",
+        "imgSrc": "https://framerusercontent.com/images/VVF44Vg2n8V7Lk6z7eH43gdY6w.jpg?width=3200&height=2400",
+        "imgAlt": ""
+      }
+    ],
+    "One page": [
+      {
+        "href": "https://brandora.framer.website/",
+        "target": "_blank",
+        "text": "Brandora Brandora",
+        "imgSrc": "https://framerusercontent.com/images/ktcimUvwboXOgQi2AvOrS6Bj760.jpg?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://nivora.framer.website/",
+        "target": "_blank",
+        "text": "Nivora Nivora",
+        "imgSrc": "https://framerusercontent.com/images/vYf7Bp88A2oX0r0rBYroXDxsSI.jpg?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://codify.framer.website/",
+        "target": "_blank",
+        "text": "Codify Codify",
+        "imgSrc": "https://framerusercontent.com/images/nLiypGqmKBGtEZ2OY7irFQiP5U.png?scale-down-to=1024&width=2400&height=1800",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://neutra.framer.website/",
+        "target": "_blank",
+        "text": "Neutra Neutra",
+        "imgSrc": "https://framerusercontent.com/images/HyuPygjhzSYcqtCkgqgwlcI.jpg?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://snapkit.framer.website/",
+        "target": "_blank",
+        "text": "Snapkit Snapkit",
+        "imgSrc": "https://framerusercontent.com/images/hg1KCy1TvxmM2dGVwS3krViR44.png?scale-down-to=1024&width=3200&height=2400",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://todofusion.framer.website/",
+        "target": "_blank",
+        "text": "Todofusion Todofusion",
+        "imgSrc": "https://framerusercontent.com/images/aqshn4kinOsmEgg1K88qujb0A5M.jpg?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://grido.framer.website/",
+        "target": "_blank",
+        "text": "Grido Grido",
+        "imgSrc": "https://framerusercontent.com/images/rcdZYeqHhc1RzZqUSukZ7FjrPU.jpg?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://trainly.framer.website/",
+        "target": "_blank",
+        "text": "Trainly Trainly",
+        "imgSrc": "https://framerusercontent.com/images/yurOrV9HSGdEsnvLt9Ld1BkmOUE.jpg?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://landify.framer.website/",
+        "target": "_blank",
+        "text": "Landify Landify",
+        "imgSrc": "https://framerusercontent.com/images/gNE42N9R0qGc9OHBFrF4nlkU7Uc.jpg?scale-down-to=1024&width=1400&height=950",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://thinkbot.framer.ai/",
+        "target": "_blank",
+        "text": "Thinkbot Thinkbot",
+        "imgSrc": "https://framerusercontent.com/images/32gcdV5ff2LXMOwN60H0XoW7o.png?scale-down-to=1024&width=1800&height=1350",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://groomix.framer.website/",
+        "target": "_blank",
+        "text": "Groomix Groomix",
+        "imgSrc": "https://framerusercontent.com/images/x8QjjWJgQ7mE4UcfgBK3SJdSc.jpg?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://studyflow.framer.website/",
+        "target": "_blank",
+        "text": "Studyflow Studyflow",
+        "imgSrc": "https://framerusercontent.com/images/MmaC78GDt31ZEKuovGIcUhBq4.jpg?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://ainest.framer.website/",
+        "target": "_blank",
+        "text": "AI Nest AI Nest",
+        "imgSrc": "https://framerusercontent.com/images/iZEy2ZAxWxtczASPvxcMhf4r96o.png?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://gradia.framer.website/",
+        "target": "_blank",
+        "text": "Gradia Gradia",
+        "imgSrc": "https://framerusercontent.com/images/VQ0Ch42t3nD4MPPkCwFnoIK75k.png?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://designor.framer.website/",
+        "target": "_blank",
+        "text": "Designor Designor",
+        "imgSrc": "https://framerusercontent.com/images/yJo9sAXzSw0aFuZefpvQozrGk.png?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://pixor.framer.website/",
+        "target": "_blank",
+        "text": "Pixor Pixor",
+        "imgSrc": "https://framerusercontent.com/images/b1r5b9SBnUmYvLsg1LneyM0AmQ.png?scale-down-to=1024&width=1800&height=1360",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://residra.framer.website/",
+        "target": "_blank",
+        "text": "Residra Residra",
+        "imgSrc": "https://framerusercontent.com/images/qJmk90RjPjctUnBV6K1IRSiA.jpg?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://kavro.framer.website/",
+        "target": "_blank",
+        "text": "Kavro Kavro",
+        "imgSrc": "https://framerusercontent.com/images/Ai0d6S92eWmzlLAXWZplOGNfvI.jpg?width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://taskify.framer.website/",
+        "target": "_blank",
+        "text": "Taskify Taskify",
+        "imgSrc": "https://framerusercontent.com/images/RjzRlDxhmi32y6DQJ9DBXT8yh4.jpg?width=3200&height=2400",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://flexify.framer.website/",
+        "target": "_blank",
+        "text": "Flexify Flexify",
+        "imgSrc": "https://framerusercontent.com/images/VVF44Vg2n8V7Lk6z7eH43gdY6w.jpg?width=3200&height=2400",
+        "imgAlt": ""
+      }
+    ],
+    "Portfolio": [
+      {
+        "href": "https://brandora.framer.website/",
+        "target": "_blank",
+        "text": "Brandora Brandora",
+        "imgSrc": "https://framerusercontent.com/images/ktcimUvwboXOgQi2AvOrS6Bj760.jpg?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://nivora.framer.website/",
+        "target": "_blank",
+        "text": "Nivora Nivora",
+        "imgSrc": "https://framerusercontent.com/images/vYf7Bp88A2oX0r0rBYroXDxsSI.jpg?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://codify.framer.website/",
+        "target": "_blank",
+        "text": "Codify Codify",
+        "imgSrc": "https://framerusercontent.com/images/nLiypGqmKBGtEZ2OY7irFQiP5U.png?scale-down-to=1024&width=2400&height=1800",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://neutra.framer.website/",
+        "target": "_blank",
+        "text": "Neutra Neutra",
+        "imgSrc": "https://framerusercontent.com/images/HyuPygjhzSYcqtCkgqgwlcI.jpg?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://grido.framer.website/",
+        "target": "_blank",
+        "text": "Grido Grido",
+        "imgSrc": "https://framerusercontent.com/images/rcdZYeqHhc1RzZqUSukZ7FjrPU.jpg?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://gradia.framer.website/",
+        "target": "_blank",
+        "text": "Gradia Gradia",
+        "imgSrc": "https://framerusercontent.com/images/VQ0Ch42t3nD4MPPkCwFnoIK75k.png?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://designor.framer.website/",
+        "target": "_blank",
+        "text": "Designor Designor",
+        "imgSrc": "https://framerusercontent.com/images/yJo9sAXzSw0aFuZefpvQozrGk.png?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://pixor.framer.website/",
+        "target": "_blank",
+        "text": "Pixor Pixor",
+        "imgSrc": "https://framerusercontent.com/images/b1r5b9SBnUmYvLsg1LneyM0AmQ.png?scale-down-to=1024&width=1800&height=1360",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://kavro.framer.website/",
+        "target": "_blank",
+        "text": "Kavro Kavro",
+        "imgSrc": "https://framerusercontent.com/images/Ai0d6S92eWmzlLAXWZplOGNfvI.jpg?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://agentify.framer.website/",
+        "target": "_blank",
+        "text": "Agentify Agentify",
+        "imgSrc": "https://framerusercontent.com/images/xdEnlLaD5GE3PLewiCiXXjakLw.jpg?scale-down-to=1024&width=3200&height=2400",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://protify.framer.website/",
+        "target": "_blank",
+        "text": "Protify Protify",
+        "imgSrc": "https://framerusercontent.com/images/olWW1WlfcsR5y2LkNUHQa4FQrI.jpg?width=3200&height=2400",
+        "imgAlt": ""
+      }
+    ],
+    "Online course": [
+      {
+        "href": "https://trainly.framer.website/",
+        "target": "_blank",
+        "text": "Trainly Trainly",
+        "imgSrc": "https://framerusercontent.com/images/yurOrV9HSGdEsnvLt9Ld1BkmOUE.jpg?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "href": "https://studyflow.framer.website/",
+        "target": "_blank",
+        "text": "Studyflow Studyflow",
+        "imgSrc": "https://framerusercontent.com/images/MmaC78GDt31ZEKuovGIcUhBq4.jpg?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      }
+    ]
+  },
+  "loadMoreSteps": [
+    {
+      "step": 1,
+      "projects": [
+        {
+          "href": "https://brandora.framer.website/",
+          "target": "_blank",
+          "text": "Brandora Brandora",
+          "imgSrc": "https://framerusercontent.com/images/ktcimUvwboXOgQi2AvOrS6Bj760.jpg?scale-down-to=1024&width=1600&height=1200",
+          "imgAlt": ""
+        },
+        {
+          "href": "https://nivora.framer.website/",
+          "target": "_blank",
+          "text": "Nivora Nivora",
+          "imgSrc": "https://framerusercontent.com/images/vYf7Bp88A2oX0r0rBYroXDxsSI.jpg?scale-down-to=1024&width=1600&height=1200",
+          "imgAlt": ""
+        },
+        {
+          "href": "https://codify.framer.website/",
+          "target": "_blank",
+          "text": "Codify Codify",
+          "imgSrc": "https://framerusercontent.com/images/nLiypGqmKBGtEZ2OY7irFQiP5U.png?scale-down-to=1024&width=2400&height=1800",
+          "imgAlt": ""
+        },
+        {
+          "href": "https://neutra.framer.website/",
+          "target": "_blank",
+          "text": "Neutra Neutra",
+          "imgSrc": "https://framerusercontent.com/images/HyuPygjhzSYcqtCkgqgwlcI.jpg?scale-down-to=1024&width=1600&height=1200",
+          "imgAlt": ""
+        },
+        {
+          "href": "https://snapkit.framer.website/",
+          "target": "_blank",
+          "text": "Snapkit Snapkit",
+          "imgSrc": "https://framerusercontent.com/images/hg1KCy1TvxmM2dGVwS3krViR44.png?scale-down-to=1024&width=3200&height=2400",
+          "imgAlt": ""
+        },
+        {
+          "href": "https://todofusion.framer.website/",
+          "target": "_blank",
+          "text": "Todofusion Todofusion",
+          "imgSrc": "https://framerusercontent.com/images/aqshn4kinOsmEgg1K88qujb0A5M.jpg?scale-down-to=1024&width=1600&height=1200",
+          "imgAlt": ""
+        },
+        {
+          "href": "https://grido.framer.website/",
+          "target": "_blank",
+          "text": "Grido Grido",
+          "imgSrc": "https://framerusercontent.com/images/rcdZYeqHhc1RzZqUSukZ7FjrPU.jpg?scale-down-to=1024&width=1600&height=1200",
+          "imgAlt": ""
+        },
+        {
+          "href": "https://trainly.framer.website/",
+          "target": "_blank",
+          "text": "Trainly Trainly",
+          "imgSrc": "https://framerusercontent.com/images/yurOrV9HSGdEsnvLt9Ld1BkmOUE.jpg?scale-down-to=1024&width=1600&height=1200",
+          "imgAlt": ""
+        },
+        {
+          "href": "https://landify.framer.website/",
+          "target": "_blank",
+          "text": "Landify Landify",
+          "imgSrc": "https://framerusercontent.com/images/gNE42N9R0qGc9OHBFrF4nlkU7Uc.jpg?scale-down-to=1024&width=1400&height=950",
+          "imgAlt": ""
+        },
+        {
+          "href": "https://thinkbot.framer.ai/",
+          "target": "_blank",
+          "text": "Thinkbot Thinkbot",
+          "imgSrc": "https://framerusercontent.com/images/32gcdV5ff2LXMOwN60H0XoW7o.png?scale-down-to=1024&width=1800&height=1350",
+          "imgAlt": ""
+        }
+      ]
+    }
+  ],
+  "initial": [
+    {
+      "href": "https://brandora.framer.website/",
+      "target": "_blank",
+      "text": "Brandora Brandora",
+      "imgSrc": "https://framerusercontent.com/images/ktcimUvwboXOgQi2AvOrS6Bj760.jpg?scale-down-to=1024&width=1600&height=1200",
+      "imgAlt": ""
+    },
+    {
+      "href": "https://nivora.framer.website/",
+      "target": "_blank",
+      "text": "Nivora Nivora",
+      "imgSrc": "https://framerusercontent.com/images/vYf7Bp88A2oX0r0rBYroXDxsSI.jpg?scale-down-to=1024&width=1600&height=1200",
+      "imgAlt": ""
+    },
+    {
+      "href": "https://codify.framer.website/",
+      "target": "_blank",
+      "text": "Codify Codify",
+      "imgSrc": "https://framerusercontent.com/images/nLiypGqmKBGtEZ2OY7irFQiP5U.png?scale-down-to=1024&width=2400&height=1800",
+      "imgAlt": ""
+    },
+    {
+      "href": "https://neutra.framer.website/",
+      "target": "_blank",
+      "text": "Neutra Neutra",
+      "imgSrc": "https://framerusercontent.com/images/HyuPygjhzSYcqtCkgqgwlcI.jpg?scale-down-to=1024&width=1600&height=1200",
+      "imgAlt": ""
+    },
+    {
+      "href": "https://snapkit.framer.website/",
+      "target": "_blank",
+      "text": "Snapkit Snapkit",
+      "imgSrc": "https://framerusercontent.com/images/hg1KCy1TvxmM2dGVwS3krViR44.png?scale-down-to=1024&width=3200&height=2400",
+      "imgAlt": ""
+    },
+    {
+      "href": "https://todofusion.framer.website/",
+      "target": "_blank",
+      "text": "Todofusion Todofusion",
+      "imgSrc": "https://framerusercontent.com/images/aqshn4kinOsmEgg1K88qujb0A5M.jpg?scale-down-to=1024&width=1600&height=1200",
+      "imgAlt": ""
+    },
+    {
+      "href": "https://grido.framer.website/",
+      "target": "_blank",
+      "text": "Grido Grido",
+      "imgSrc": "https://framerusercontent.com/images/rcdZYeqHhc1RzZqUSukZ7FjrPU.jpg?scale-down-to=1024&width=1600&height=1200",
+      "imgAlt": ""
+    },
+    {
+      "href": "https://trainly.framer.website/",
+      "target": "_blank",
+      "text": "Trainly Trainly",
+      "imgSrc": "https://framerusercontent.com/images/yurOrV9HSGdEsnvLt9Ld1BkmOUE.jpg?scale-down-to=1024&width=1600&height=1200",
+      "imgAlt": ""
+    },
+    {
+      "href": "https://landify.framer.website/",
+      "target": "_blank",
+      "text": "Landify Landify",
+      "imgSrc": "https://framerusercontent.com/images/gNE42N9R0qGc9OHBFrF4nlkU7Uc.jpg?scale-down-to=1024&width=1400&height=950",
+      "imgAlt": ""
+    },
+    {
+      "href": "https://thinkbot.framer.ai/",
+      "target": "_blank",
+      "text": "Thinkbot Thinkbot",
+      "imgSrc": "https://framerusercontent.com/images/32gcdV5ff2LXMOwN60H0XoW7o.png?scale-down-to=1024&width=1800&height=1350",
+      "imgAlt": ""
+    }
+  ]
+}

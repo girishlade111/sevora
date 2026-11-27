@@ -1,0 +1,22 @@
+{
+  "containerFramerName": "Container",
+  "topY": 4382.359375,
+  "height": 3644,
+  "stickies": [
+    {
+      "framerName": "Content",
+      "rect": {
+        "x": 144,
+        "y": 4478.359375,
+        "width": 1152,
+        "height": 752,
+        "top": 4478.359375,
+        "right": 1296,
+        "bottom": 5230.359375,
+        "left": 144
+      },
+      "top": "96px",
+      "height": 752
+    }
+  ]
+}
