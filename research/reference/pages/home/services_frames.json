@@ -1,0 +1,122 @@
+[
+  {
+    "frac": 0.0,
+    "y": 4382,
+    "state": {
+      "info": [
+        {
+          "name": "Development",
+          "bg": "rgb(255, 255, 255)",
+          "opacity": "1"
+        },
+        {
+          "name": "Visual system",
+          "bg": "rgba(255, 255, 255, 0)",
+          "opacity": "1"
+        },
+        {
+          "name": "Product design",
+          "bg": "rgba(255, 255, 255, 0)",
+          "opacity": "1"
+        }
+      ],
+      "imgs": []
+    }
+  },
+  {
+    "frac": 0.25,
+    "y": 5068,
+    "state": {
+      "info": [
+        {
+          "name": "Development",
+          "bg": "rgb(255, 255, 255)",
+          "opacity": "1"
+        },
+        {
+          "name": "Visual system",
+          "bg": "rgba(255, 255, 255, 0)",
+          "opacity": "1"
+        },
+        {
+          "name": "Product design",
+          "bg": "rgba(255, 255, 255, 0)",
+          "opacity": "1"
+        }
+      ],
+      "imgs": []
+    }
+  },
+  {
+    "frac": 0.5,
+    "y": 5754,
+    "state": {
+      "info": [
+        {
+          "name": "Development",
+          "bg": "rgba(255, 255, 255, 0.31)",
+          "opacity": "1"
+        },
+        {
+          "name": "Visual system",
+          "bg": "rgba(255, 255, 255, 0.69)",
+          "opacity": "1"
+        },
+        {
+          "name": "Product design",
+          "bg": "rgba(255, 255, 255, 0)",
+          "opacity": "1"
+        }
+      ],
+      "imgs": []
+    }
+  },
+  {
+    "frac": 0.75,
+    "y": 6440,
+    "state": {
+      "info": [
+        {
+          "name": "Development",
+          "bg": "rgba(255, 255, 255, 0)",
+          "opacity": "1"
+        },
+        {
+          "name": "Visual system",
+          "bg": "rgb(255, 255, 255)",
+          "opacity": "1"
+        },
+        {
+          "name": "Product design",
+          "bg": "rgba(255, 255, 255, 0)",
+          "opacity": "1"
+        }
+      ],
+      "imgs": []
+    }
+  },
+  {
+    "frac": 0.95,
+    "y": 6988,
+    "state": {
+      "info": [
+        {
+          "name": "Development",
+          "bg": "rgba(255, 255, 255, 0)",
+          "opacity": "1"
+        },
+        {
+          "name": "Visual system",
+          "bg": "rgba(255, 255, 255, 0)",
+          "opacity": "1"
+        },
+        {
+          "name": "Product design",
+          "bg": "rgb(255, 255, 255)",
+          "opacity": "1"
+        }
+      ],
+      "imgs": []
+    }
+  }
+]

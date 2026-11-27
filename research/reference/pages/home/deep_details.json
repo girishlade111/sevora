@@ -1,0 +1,527 @@
+{
+  "bgCandidates": [
+    {
+      "tag": "DIV",
+      "framerName": null,
+      "pseudo": "self",
+      "backgroundImage": "repeating-linear-gradient(145deg, rgb(237, 238, 241), rgb(237, 238, 241) 1px, rgba(0, 0, 0, 0) 1px, rgba(0, 0, 0, 0) 4px)",
+      "backgroundSize": "auto",
+      "backgroundRepeat": "repeat",
+      "opacity": "1",
+      "position": "absolute",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 13573.359375,
+        "top": 0,
+        "right": 1440,
+        "bottom": 13573.359375,
+        "left": 0
+      }
+    },
+    {
+      "tag": "DIV",
+      "framerName": "Hero header",
+      "pseudo": "self",
+      "backgroundImage": "linear-gradient(90deg, rgb(237, 238, 241) 60%, rgb(201, 205, 210) 100%)",
+      "backgroundSize": "auto",
+      "backgroundRepeat": "repeat",
+      "opacity": "1",
+      "position": "relative",
+      "rect": {
+        "x": 144,
+        "y": 140,
+        "width": 1152,
+        "height": 612,
+        "top": 140,
+        "right": 1296,
+        "bottom": 752,
+        "left": 144
+      }
+    },
+    {
+      "tag": "DIV",
+      "framerName": "Trainling card",
+      "pseudo": "self",
+      "backgroundImage": "linear-gradient(rgb(36, 36, 42) 0%, rgb(18, 18, 24) 100%)",
+      "backgroundSize": "auto",
+      "backgroundRepeat": "repeat",
+      "opacity": "1",
+      "position": "relative",
+      "rect": {
+        "x": 835.203125,
+        "y": 3994.359375,
+        "width": 460.796875,
+        "height": 388,
+        "top": 3994.359375,
+        "right": 1296,
+        "bottom": 4382.359375,
+        "left": 835.203125
+      }
+    },
+    {
+      "tag": "DIV",
+      "framerName": "Desktop",
+      "pseudo": "self",
+      "backgroundImage": "linear-gradient(rgb(255, 255, 255) 0%, rgb(255, 255, 255) 100%)",
+      "backgroundSize": "auto",
+      "backgroundRepeat": "repeat",
+      "opacity": "1",
+      "position": "relative",
+      "rect": {
+        "x": 168,
+        "y": 9490.359375,
+        "width": 214.390625,
+        "height": 272,
+        "top": 9490.359375,
+        "right": 382.390625,
+        "bottom": 9762.359375,
+        "left": 168
+      }
+    },
+    {
+      "tag": "DIV",
+      "framerName": "Desktop",
+      "pseudo": "self",
+      "backgroundImage": "linear-gradient(rgb(255, 255, 255) 0%, rgb(255, 255, 255) 100%)",
+      "backgroundSize": "auto",
+      "backgroundRepeat": "repeat",
+      "opacity": "1",
+      "position": "relative",
+      "rect": {
+        "x": 390.390625,
+        "y": 9522.359375,
+        "width": 214.40625,
+        "height": 272,
+        "top": 9522.359375,
+        "right": 604.796875,
+        "bottom": 9794.359375,
+        "left": 390.390625
+      }
+    },
+    {
+      "tag": "DIV",
+      "framerName": "Desktop",
+      "pseudo": "self",
+      "backgroundImage": "linear-gradient(rgb(255, 255, 255) 0%, rgb(255, 255, 255) 100%)",
+      "backgroundSize": "auto",
+      "backgroundRepeat": "repeat",
+      "opacity": "1",
+      "position": "relative",
+      "rect": {
+        "x": 612.796875,
+        "y": 9554.359375,
+        "width": 214.390625,
+        "height": 272,
+        "top": 9554.359375,
+        "right": 827.1875,
+        "bottom": 9826.359375,
+        "left": 612.796875
+      }
+    },
+    {
+      "tag": "DIV",
+      "framerName": "Desktop | Inverse",
+      "pseudo": "self",
+      "backgroundImage": "linear-gradient(rgb(36, 36, 42) 0%, rgb(18, 18, 24) 100%)",
+      "backgroundSize": "auto",
+      "backgroundRepeat": "repeat",
+      "opacity": "1",
+      "position": "relative",
+      "rect": {
+        "x": 835.1875,
+        "y": 9570.359375,
+        "width": 436.796875,
+        "height": 272,
+        "top": 9570.359375,
+        "right": 1271.984375,
+        "bottom": 9842.359375,
+        "left": 835.1875
+      }
+    },
+    {
+      "tag": "DIV",
+      "framerName": "Desktop",
+      "pseudo": "self",
+      "backgroundImage": "linear-gradient(rgb(255, 255, 255) 0%, rgb(255, 255, 255) 100%)",
+      "backgroundSize": "auto",
+      "backgroundRepeat": "repeat",
+      "opacity": "1",
+      "position": "relative",
+      "rect": {
+        "x": 168,
+        "y": 9770.359375,
+        "width": 214.390625,
+        "height": 272,
+        "top": 9770.359375,
+        "right": 382.390625,
+        "bottom": 10042.359375,
+        "left": 168
+      }
+    },
+    {
+      "tag": "DIV",
+      "framerName": "Desktop",
+      "pseudo": "self",
+      "backgroundImage": "linear-gradient(rgb(255, 255, 255) 0%, rgb(255, 255, 255) 100%)",
+      "backgroundSize": "auto",
+      "backgroundRepeat": "repeat",
+      "opacity": "1",
+      "position": "relative",
+      "rect": {
+        "x": 390.390625,
+        "y": 9802.359375,
+        "width": 436.796875,
+        "height": 272,
+        "top": 9802.359375,
+        "right": 827.1875,
+        "bottom": 10074.359375,
+        "left": 390.390625
+      }
+    },
+    {
+      "tag": "DIV",
+      "framerName": "Desktop",
+      "pseudo": "self",
+      "backgroundImage": "linear-gradient(rgb(255, 255, 255) 0%, rgb(255, 255, 255) 100%)",
+      "backgroundSize": "auto",
+      "backgroundRepeat": "repeat",
+      "opacity": "1",
+      "position": "relative",
+      "rect": {
+        "x": 835.1875,
+        "y": 9834.359375,
+        "width": 214.40625,
+        "height": 272,
+        "top": 9834.359375,
+        "right": 1049.59375,
+        "bottom": 10106.359375,
+        "left": 835.1875
+      }
+    },
+    {
+      "tag": "DIV",
+      "framerName": "Desktop",
+      "pseudo": "self",
+      "backgroundImage": "linear-gradient(rgb(255, 255, 255) 0%, rgb(255, 255, 255) 100%)",
+      "backgroundSize": "auto",
+      "backgroundRepeat": "repeat",
+      "opacity": "1",
+      "position": "relative",
+      "rect": {
+        "x": 1057.59375,
+        "y": 9850.359375,
+        "width": 214.390625,
+        "height": 272,
+        "top": 9850.359375,
+        "right": 1271.984375,
+        "bottom": 10122.359375,
+        "left": 1057.59375
+      }
+    },
+    {
+      "tag": "DIV",
+      "framerName": "Desktop | Inverse",
+      "pseudo": "self",
+      "backgroundImage": "linear-gradient(rgb(36, 36, 42) 0%, rgb(18, 18, 24) 100%)",
+      "backgroundSize": "auto",
+      "backgroundRepeat": "repeat",
+      "opacity": "1",
+      "position": "relative",
+      "rect": {
+        "x": 168,
+        "y": 10386.359375,
+        "width": 441.59375,
+        "height": 388,
+        "top": 10386.359375,
+        "right": 609.59375,
+        "bottom": 10774.359375,
+        "left": 168
+      }
+    },
+    {
+      "tag": "DIV",
+      "framerName": "Desktop | Simple",
+      "pseudo": "self",
+      "backgroundImage": "linear-gradient(rgb(255, 255, 255) 0%, rgb(255, 255, 255) 100%)",
+      "backgroundSize": "auto",
+      "backgroundRepeat": "repeat",
+      "opacity": "1",
+      "position": "relative",
+      "rect": {
+        "x": 617.59375,
+        "y": 10418.359375,
+        "width": 323.203125,
+        "height": 316,
+        "top": 10418.359375,
+        "right": 940.796875,
+        "bottom": 10734.359375,
+        "left": 617.59375
+      }
+    },
+    {
+      "tag": "DIV",
+      "framerName": "Desktop | Simple",
+      "pseudo": "self",
+      "backgroundImage": "linear-gradient(rgb(255, 255, 255) 0%, rgb(255, 255, 255) 100%)",
+      "backgroundSize": "auto",
+      "backgroundRepeat": "repeat",
+      "opacity": "1",
+      "position": "relative",
+      "rect": {
+        "x": 948.796875,
+        "y": 10474.359375,
+        "width": 323.203125,
+        "height": 332,
+        "top": 10474.359375,
+        "right": 1272,
+        "bottom": 10806.359375,
+        "left": 948.796875
+      }
+    },
+    {
+      "tag": "DIV",
+      "framerName": "Default",
+      "pseudo": "self",
+      "backgroundImage": "linear-gradient(rgb(255, 255, 255) 0%, rgb(255, 255, 255) 100%)",
+      "backgroundSize": "auto",
+      "backgroundRepeat": "repeat",
+      "opacity": "1",
+      "position": "relative",
+      "rect": {
+        "x": 320,
+        "y": 11186.359375,
+        "width": 392,
+        "height": 634,
+        "top": 11186.359375,
+        "right": 712,
+        "bottom": 11820.359375,
+        "left": 320
+      }
+    },
+    {
+      "tag": "DIV",
+      "framerName": "Inverse",
+      "pseudo": "self",
+      "backgroundImage": "linear-gradient(rgb(36, 36, 42) 0%, rgb(18, 18, 24) 100%)",
+      "backgroundSize": "auto",
+      "backgroundRepeat": "repeat",
+      "opacity": "1",
+      "position": "relative",
+      "rect": {
+        "x": 728,
+        "y": 11250.359375,
+        "width": 392,
+        "height": 634,
+        "top": 11250.359375,
+        "right": 1120,
+        "bottom": 11884.359375,
+        "left": 728
+      }
+    }
+  ],
+  "footerDetails": {
+    "rect": {
+      "x": 0,
+      "y": 12852.359375,
+      "width": 1440,
+      "height": 721,
+      "top": 12852.359375,
+      "right": 1440,
+      "bottom": 13573.359375,
+      "left": 0
+    },
+    "imgs": [
+      {
+        "src": "https://framerusercontent.com/images/urHsc2gl0mz8FFsPFV1HMTq2DnE.svg?width=26&height=26",
+        "alt": "",
+        "w": 26,
+        "h": 26,
+        "rect": {
+          "x": 176,
+          "y": 13007.359375,
+          "width": 24,
+          "height": 24,
+          "top": 13007.359375,
+          "right": 200,
+          "bottom": 13031.359375,
+          "left": 176
+        },
+        "cs": {
+          "maskImage": "none",
+          "filter": "none",
+          "opacity": "1"
+        }
+      }
+    ],
+    "svgs": [],
+    "links": [
+      {
+        "text": "Sevora",
+        "href": "https://sevora.framer.website/"
+      },
+      {
+        "text": "Home",
+        "href": "https://sevora.framer.website/"
+      },
+      {
+        "text": "About",
+        "href": "https://sevora.framer.website/about"
+      },
+      {
+        "text": "Projects",
+        "href": "https://sevora.framer.website/projects"
+      },
+      {
+        "text": "Articles",
+        "href": "https://sevora.framer.website/articles"
+      },
+      {
+        "text": "Contact",
+        "href": "https://sevora.framer.website/contact"
+      },
+      {
+        "text": "X link",
+        "href": "https://x.com/Dmytri_Design"
+      },
+      {
+        "text": "Linkedin",
+        "href": "https://www.linkedin.com/in/dmytri-design/"
+      },
+      {
+        "text": "Dribbble",
+        "href": "https://dribbble.com/Stylokit"
+      },
+      {
+        "text": "Stylokit",
+        "href": "https://stylokit.com/"
+      },
+      {
+        "text": "Made in Framer",
+        "href": "https://www.framer.com/?via=dmytri_design"
+      }
+    ],
+    "text": "Sevora\n\nCreating refined digital experiences with clarity, intention, and thoughtful execution.\n\nPages\nHome\nAbout\nProjects\nArticles\nContact\nSocial\nX link\nLinkedin\nDribbble\n© Sevora Template | Created by Stylokit\nMade in Framer"
+  },
+  "logoImgs": [],
+  "stripSvgs": [
+    {
+      "rect": {
+        "x": 1156,
+        "y": 660,
+        "width": 24,
+        "height": 24,
+        "top": 660,
+        "right": 1180,
+        "bottom": 684,
+        "left": 1156
+      },
+      "html": "<svg class=\"framer-i7PQ2 framer-1whkcn5\" role=\"presentation\" viewBox=\"0 0 24 24\" style=\"--14lvtz6:1.5;--1gwzuy8:var(--token-9eeddc74-3981-48ed-b1f6-db9260f54e0b, rgb(18, 18, 24))\"><use href=\"#986378173\"></use></svg>"
+    },
+    {
+      "rect": {
+        "x": 80,
+        "y": 800,
+        "width": 98,
+        "height": 24,
+        "top": 800,
+        "right": 178,
+        "bottom": 824,
+        "left": 80
+      },
+      "html": "<svg style=\"width:100%;height:100%;\"><use href=\"#svg8980399664\"></use></svg>"
+    },
+    {
+      "rect": {
+        "x": 242,
+        "y": 800,
+        "width": 141,
+        "height": 24,
+        "top": 800,
+        "right": 383,
+        "bottom": 824,
+        "left": 242
+      },
+      "html": "<svg style=\"width:100%;height:100%;\"><use href=\"#svg10619110634\"></use></svg>"
+    },
+    {
+      "rect": {
+        "x": 447,
+        "y": 800,
+        "width": 110,
+        "height": 24,
+        "top": 800,
+        "right": 557,
+        "bottom": 824,
+        "left": 447
+      },
+      "html": "<svg style=\"width:100%;height:100%;\"><use href=\"#svg8827440758\"></use></svg>"
+    },
+    {
+      "rect": {
+        "x": 621,
+        "y": 800,
+        "width": 124,
+        "height": 24,
+        "top": 800,
+        "right": 745,
+        "bottom": 824,
+        "left": 621
+      },
+      "html": "<svg style=\"width:100%;height:100%;\"><use href=\"#svg10556718134\"></use></svg>"
+    },
+    {
+      "rect": {
+        "x": 809,
+        "y": 800,
+        "width": 98,
+        "height": 24,
+        "top": 800,
+        "right": 907,
+        "bottom": 824,
+        "left": 809
+      },
+      "html": "<svg style=\"width:100%;height:100%;\"><use href=\"#svg11310385610\"></use></svg>"
+    },
+    {
+      "rect": {
+        "x": 971,
+        "y": 800,
+        "width": 104,
+        "height": 24,
+        "top": 800,
+        "right": 1075,
+        "bottom": 824,
+        "left": 971
+      },
+      "html": "<svg style=\"width:100%;height:100%;\"><use href=\"#svg10082434478\"></use></svg>"
+    },
+    {
+      "rect": {
+        "x": 1139,
+        "y": 800,
+        "width": 101,
+        "height": 24,
+        "top": 800,
+        "right": 1240,
+        "bottom": 824,
+        "left": 1139
+      },
+      "html": "<svg style=\"width:100%;height:100%;\"><use href=\"#svg11072906822\"></use></svg>"
+    },
+    {
+      "rect": {
+        "x": 1304,
+        "y": 800,
+        "width": 100,
+        "height": 24,
+        "top": 800,
+        "right": 1404,
+        "bottom": 824,
+        "left": 1304
+      },
+      "html": "<svg style=\"width:100%;height:100%;\"><use href=\"#svg8848273669\"></use></svg>"
+    }
+  ]
+}

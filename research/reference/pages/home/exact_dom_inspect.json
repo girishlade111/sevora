@@ -1,0 +1,110 @@
+{
+  "bgStyle": {
+    "backgroundImage": "repeating-linear-gradient(145deg, rgb(237, 238, 241), rgb(237, 238, 241) 1px, rgba(0, 0, 0, 0) 1px, rgba(0, 0, 0, 0) 4px)",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "opacity": "1",
+    "position": "absolute",
+    "zIndex": "auto",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 1440,
+      "height": 13573.359375,
+      "top": 0,
+      "right": 1440,
+      "bottom": 13573.359375,
+      "left": 0
+    }
+  },
+  "footerWordmarkElements": [
+    {
+      "tag": "DIV",
+      "framerName": null,
+      "rect": {
+        "x": 176,
+        "y": 13314.359375,
+        "width": 1088,
+        "height": 171,
+        "top": 13314.359375,
+        "right": 1264,
+        "bottom": 13485.359375,
+        "left": 176
+      },
+      "bg": "none",
+      "mask": "linear-gradient(0deg, rgba(0, 0, 0, 0) 10%, rgb(0, 0, 0) 100%)",
+      "innerHTML": "<div data-framer-component-type=\"Shader\" style=\"display:block;flex:0 0 auto;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;overflow-x:hidden;overflow-y:hidden;transform:none\"></div>"
+    }
+  ],
+  "pricingText": "Pricing\nSimple packages, clear outcomes",
+  "heroText": "Craft better brands, faster\n\nI design refined brands, websites, and interfaces for ambitious founders and creative teams.",
+  "credText": "Why choose me\nDesign built around lasting clarity\n\nI bring strategy, visual direction, and refined execution together to create meaningful digital experiences with lasting impact.\n\n+3K clients\n\nClear design direction shaped around every project goal.\n\n92\n%\n\nClient satisfaction\n\nBrand identities, websites, and digital systems delivered with care.\n\n56\n+\n\nProjects completed\n\nAvailable for projects\n\nI help founders, creators, and teams turn ideas into refined digital experiences that feel memorable and easy to navigate.\n\n4.9\n\nTrusted by clients worldwide",
+  "srvImgs": [],
+  "srvSvgs": [
+    {
+      "w": 32,
+      "h": 32,
+      "viewBox": "0 0 256 256"
+    },
+    {
+      "w": 32,
+      "h": 32,
+      "viewBox": "0 0 256 256"
+    },
+    {
+      "w": 32,
+      "h": 32,
+      "viewBox": "0 0 256 256"
+    },
+    {
+      "w": 409.59375,
+      "h": 309.59375,
+      "viewBox": "0 0 100 100"
+    },
+    {
+      "w": 409.59375,
+      "h": 309.59375,
+      "viewBox": "0 0 100 100"
+    },
+    {
+      "w": 409.59375,
+      "h": 309.59375,
+      "viewBox": "0 0 100 100"
+    },
+    {
+      "w": 405.497802734375,
+      "h": 306.498046875,
+      "viewBox": "0 0 100 100"
+    },
+    {
+      "w": 405.497802734375,
+      "h": 306.498046875,
+      "viewBox": "0 0 100 100"
+    },
+    {
+      "w": 405.497802734375,
+      "h": 306.498046875,
+      "viewBox": "0 0 100 100"
+    },
+    {
+      "w": 401.40185546875,
+      "h": 303.40234375,
+      "viewBox": "0 0 100 100"
+    },
+    {
+      "w": 401.40185546875,
+      "h": 303.40185546875,
+      "viewBox": "0 0 100 100"
+    },
+    {
+      "w": 401.40185546875,
+      "h": 303.40234375,
+      "viewBox": "0 0 100 100"
+    },
+    {
+      "w": 512,
+      "h": 516,
+      "viewBox": "0 0 100 100"
+    }
+  ],
+  "footerLinksCount": 11
+}

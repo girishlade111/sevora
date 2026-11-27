@@ -1,0 +1,42 @@
+{
+  "navRect": {
+    "x": 0,
+    "y": 0,
+    "width": 390,
+    "height": 68,
+    "top": 0,
+    "right": 390,
+    "bottom": 68,
+    "left": 0
+  },
+  "btns": [
+    {
+      "x": 338,
+      "y": 16,
+      "w": 36,
+      "h": 36,
+      "framerName": "Actions"
+    },
+    {
+      "x": 338,
+      "y": 16,
+      "w": 36,
+      "h": 36,
+      "framerName": null
+    },
+    {
+      "x": 338,
+      "y": 16,
+      "w": 36,
+      "h": 36,
+      "framerName": "Default"
+    },
+    {
+      "x": 344,
+      "y": 22,
+      "w": 24,
+      "h": 24,
+      "framerName": "Icon"
+    }
+  ]
+}

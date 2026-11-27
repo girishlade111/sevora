@@ -1,0 +1,371 @@
+{
+  "All projects": {
+    "stepCounts": [
+      10,
+      20,
+      27
+    ],
+    "final": [
+      {
+        "name": "Brandora",
+        "href": "https://brandora.framer.website/",
+        "imgSrc": "https://framerusercontent.com/images/ktcimUvwboXOgQi2AvOrS6Bj760.jpg?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "name": "Nivora",
+        "href": "https://nivora.framer.website/",
+        "imgSrc": "https://framerusercontent.com/images/vYf7Bp88A2oX0r0rBYroXDxsSI.jpg?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "name": "Codify",
+        "href": "https://codify.framer.website/",
+        "imgSrc": "https://framerusercontent.com/images/nLiypGqmKBGtEZ2OY7irFQiP5U.png?scale-down-to=1024&width=2400&height=1800",
+        "imgAlt": ""
+      },
+      {
+        "name": "Neutra",
+        "href": "https://neutra.framer.website/",
+        "imgSrc": "https://framerusercontent.com/images/HyuPygjhzSYcqtCkgqgwlcI.jpg?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "name": "Snapkit",
+        "href": "https://snapkit.framer.website/",
+        "imgSrc": "https://framerusercontent.com/images/hg1KCy1TvxmM2dGVwS3krViR44.png?scale-down-to=1024&width=3200&height=2400",
+        "imgAlt": ""
+      },
+      {
+        "name": "Todofusion",
+        "href": "https://todofusion.framer.website/",
+        "imgSrc": "https://framerusercontent.com/images/aqshn4kinOsmEgg1K88qujb0A5M.jpg?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "name": "Grido",
+        "href": "https://grido.framer.website/",
+        "imgSrc": "https://framerusercontent.com/images/rcdZYeqHhc1RzZqUSukZ7FjrPU.jpg?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "name": "Trainly",
+        "href": "https://trainly.framer.website/",
+        "imgSrc": "https://framerusercontent.com/images/yurOrV9HSGdEsnvLt9Ld1BkmOUE.jpg?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "name": "Landify",
+        "href": "https://landify.framer.website/",
+        "imgSrc": "https://framerusercontent.com/images/gNE42N9R0qGc9OHBFrF4nlkU7Uc.jpg?scale-down-to=1024&width=1400&height=950",
+        "imgAlt": ""
+      },
+      {
+        "name": "Thinkbot",
+        "href": "https://thinkbot.framer.ai/",
+        "imgSrc": "https://framerusercontent.com/images/32gcdV5ff2LXMOwN60H0XoW7o.png?scale-down-to=1024&width=1800&height=1350",
+        "imgAlt": ""
+      },
+      {
+        "name": "Groomix",
+        "href": "https://groomix.framer.website/",
+        "imgSrc": "https://framerusercontent.com/images/x8QjjWJgQ7mE4UcfgBK3SJdSc.jpg?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "name": "Studyflow",
+        "href": "https://studyflow.framer.website/",
+        "imgSrc": "https://framerusercontent.com/images/MmaC78GDt31ZEKuovGIcUhBq4.jpg?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "name": "AI Nest",
+        "href": "https://ainest.framer.website/",
+        "imgSrc": "https://framerusercontent.com/images/iZEy2ZAxWxtczASPvxcMhf4r96o.png?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "name": "Gradia",
+        "href": "https://gradia.framer.website/",
+        "imgSrc": "https://framerusercontent.com/images/VQ0Ch42t3nD4MPPkCwFnoIK75k.png?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "name": "Designor",
+        "href": "https://designor.framer.website/",
+        "imgSrc": "https://framerusercontent.com/images/yJo9sAXzSw0aFuZefpvQozrGk.png?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "name": "Pixor",
+        "href": "https://pixor.framer.website/",
+        "imgSrc": "https://framerusercontent.com/images/b1r5b9SBnUmYvLsg1LneyM0AmQ.png?scale-down-to=1024&width=1800&height=1360",
+        "imgAlt": ""
+      },
+      {
+        "name": "Residra",
+        "href": "https://residra.framer.website/",
+        "imgSrc": "https://framerusercontent.com/images/qJmk90RjPjctUnBV6K1IRSiA.jpg?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "name": "Kavro",
+        "href": "https://kavro.framer.website/",
+        "imgSrc": "https://framerusercontent.com/images/Ai0d6S92eWmzlLAXWZplOGNfvI.jpg?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "name": "Taskify",
+        "href": "https://taskify.framer.website/",
+        "imgSrc": "https://framerusercontent.com/images/RjzRlDxhmi32y6DQJ9DBXT8yh4.jpg?scale-down-to=1024&width=3200&height=2400",
+        "imgAlt": ""
+      },
+      {
+        "name": "Flexify",
+        "href": "https://flexify.framer.website/",
+        "imgSrc": "https://framerusercontent.com/images/VVF44Vg2n8V7Lk6z7eH43gdY6w.jpg?scale-down-to=1024&width=3200&height=2400",
+        "imgAlt": ""
+      },
+      {
+        "name": "Nexus AI",
+        "href": "https://nexusai.framer.website/",
+        "imgSrc": "https://framerusercontent.com/images/BNzwvj9aLbCPPeays4RiNQ8JNP0.jpg?scale-down-to=1024&width=3200&height=2400",
+        "imgAlt": ""
+      },
+      {
+        "name": "Dailyhub",
+        "href": "https://dailyhub.framer.website/",
+        "imgSrc": "https://framerusercontent.com/images/CEdvGqTZaaLFiXiSdNL1DHJOI.jpg?scale-down-to=1024&width=3200&height=2400",
+        "imgAlt": ""
+      },
+      {
+        "name": "Agentify",
+        "href": "https://agentify.framer.website/",
+        "imgSrc": "https://framerusercontent.com/images/xdEnlLaD5GE3PLewiCiXXjakLw.jpg?scale-down-to=1024&width=3200&height=2400",
+        "imgAlt": ""
+      },
+      {
+        "name": "Protify",
+        "href": "https://protify.framer.website/",
+        "imgSrc": "https://framerusercontent.com/images/olWW1WlfcsR5y2LkNUHQa4FQrI.jpg?scale-down-to=1024&width=3200&height=2400",
+        "imgAlt": ""
+      },
+      {
+        "name": "Startify",
+        "href": "https://startify.framer.website/",
+        "imgSrc": "https://framerusercontent.com/images/bwGGYnVin4hQLeJPhdvJDM8yO6I.jpg?scale-down-to=1024&width=3200&height=2400",
+        "imgAlt": ""
+      },
+      {
+        "name": "Flowboard",
+        "href": "https://flowboard.framer.website/",
+        "imgSrc": "https://framerusercontent.com/images/ZnXIdG5NETG7LwuWtPfqYlgEaFc.jpg?scale-down-to=1024&width=3200&height=2400",
+        "imgAlt": ""
+      },
+      {
+        "name": "Platify",
+        "href": "https://platify.framer.website/",
+        "imgSrc": "https://framerusercontent.com/images/3VUGMge5jE5qk3iBey0NLqhZE.jpg?scale-down-to=1024&width=3200&height=2400",
+        "imgAlt": ""
+      }
+    ]
+  },
+  "AI": {
+    "stepCounts": [
+      3
+    ],
+    "final": [
+      {
+        "name": "Thinkbot",
+        "href": "https://thinkbot.framer.ai/",
+        "imgSrc": "https://framerusercontent.com/images/32gcdV5ff2LXMOwN60H0XoW7o.png?scale-down-to=1024&width=1800&height=1350",
+        "imgAlt": ""
+      },
+      {
+        "name": "AI Nest",
+        "href": "https://ainest.framer.website/",
+        "imgSrc": "https://framerusercontent.com/images/iZEy2ZAxWxtczASPvxcMhf4r96o.png?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "name": "Nexus AI",
+        "href": "https://nexusai.framer.website/",
+        "imgSrc": "https://framerusercontent.com/images/BNzwvj9aLbCPPeays4RiNQ8JNP0.jpg?scale-down-to=1024&width=3200&height=2400",
+        "imgAlt": ""
+      }
+    ]
+  },
+  "Business": {
+    "stepCounts": [
+      9
+    ],
+    "final": [
+      {
+        "name": "Snapkit",
+        "href": "https://snapkit.framer.website/",
+        "imgSrc": "https://framerusercontent.com/images/hg1KCy1TvxmM2dGVwS3krViR44.png?scale-down-to=1024&width=3200&height=2400",
+        "imgAlt": ""
+      },
+      {
+        "name": "Todofusion",
+        "href": "https://todofusion.framer.website/",
+        "imgSrc": "https://framerusercontent.com/images/aqshn4kinOsmEgg1K88qujb0A5M.jpg?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "name": "Groomix",
+        "href": "https://groomix.framer.website/",
+        "imgSrc": "https://framerusercontent.com/images/x8QjjWJgQ7mE4UcfgBK3SJdSc.jpg?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "name": "Taskify",
+        "href": "https://taskify.framer.website/",
+        "imgSrc": "https://framerusercontent.com/images/RjzRlDxhmi32y6DQJ9DBXT8yh4.jpg?scale-down-to=1024&width=3200&height=2400",
+        "imgAlt": ""
+      },
+      {
+        "name": "Flexify",
+        "href": "https://flexify.framer.website/",
+        "imgSrc": "https://framerusercontent.com/images/VVF44Vg2n8V7Lk6z7eH43gdY6w.jpg?scale-down-to=1024&width=3200&height=2400",
+        "imgAlt": ""
+      },
+      {
+        "name": "Dailyhub",
+        "href": "https://dailyhub.framer.website/",
+        "imgSrc": "https://framerusercontent.com/images/CEdvGqTZaaLFiXiSdNL1DHJOI.jpg?scale-down-to=1024&width=3200&height=2400",
+        "imgAlt": ""
+      },
+      {
+        "name": "Startify",
+        "href": "https://startify.framer.website/",
+        "imgSrc": "https://framerusercontent.com/images/bwGGYnVin4hQLeJPhdvJDM8yO6I.jpg?scale-down-to=1024&width=3200&height=2400",
+        "imgAlt": ""
+      },
+      {
+        "name": "Flowboard",
+        "href": "https://flowboard.framer.website/",
+        "imgSrc": "https://framerusercontent.com/images/ZnXIdG5NETG7LwuWtPfqYlgEaFc.jpg?scale-down-to=1024&width=3200&height=2400",
+        "imgAlt": ""
+      },
+      {
+        "name": "Platify",
+        "href": "https://platify.framer.website/",
+        "imgSrc": "https://framerusercontent.com/images/3VUGMge5jE5qk3iBey0NLqhZE.jpg?scale-down-to=1024&width=3200&height=2400",
+        "imgAlt": ""
+      }
+    ]
+  },
+  "One page": {
+    "stepCounts": [
+      2
+    ],
+    "final": [
+      {
+        "name": "Landify",
+        "href": "https://landify.framer.website/",
+        "imgSrc": "https://framerusercontent.com/images/gNE42N9R0qGc9OHBFrF4nlkU7Uc.jpg?scale-down-to=1024&width=1400&height=950",
+        "imgAlt": ""
+      },
+      {
+        "name": "Residra",
+        "href": "https://residra.framer.website/",
+        "imgSrc": "https://framerusercontent.com/images/qJmk90RjPjctUnBV6K1IRSiA.jpg?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      }
+    ]
+  },
+  "Portfolio": {
+    "stepCounts": [
+      10,
+      11
+    ],
+    "final": [
+      {
+        "name": "Brandora",
+        "href": "https://brandora.framer.website/",
+        "imgSrc": "https://framerusercontent.com/images/ktcimUvwboXOgQi2AvOrS6Bj760.jpg?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "name": "Nivora",
+        "href": "https://nivora.framer.website/",
+        "imgSrc": "https://framerusercontent.com/images/vYf7Bp88A2oX0r0rBYroXDxsSI.jpg?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "name": "Codify",
+        "href": "https://codify.framer.website/",
+        "imgSrc": "https://framerusercontent.com/images/nLiypGqmKBGtEZ2OY7irFQiP5U.png?scale-down-to=1024&width=2400&height=1800",
+        "imgAlt": ""
+      },
+      {
+        "name": "Neutra",
+        "href": "https://neutra.framer.website/",
+        "imgSrc": "https://framerusercontent.com/images/HyuPygjhzSYcqtCkgqgwlcI.jpg?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "name": "Grido",
+        "href": "https://grido.framer.website/",
+        "imgSrc": "https://framerusercontent.com/images/rcdZYeqHhc1RzZqUSukZ7FjrPU.jpg?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "name": "Gradia",
+        "href": "https://gradia.framer.website/",
+        "imgSrc": "https://framerusercontent.com/images/VQ0Ch42t3nD4MPPkCwFnoIK75k.png?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "name": "Designor",
+        "href": "https://designor.framer.website/",
+        "imgSrc": "https://framerusercontent.com/images/yJo9sAXzSw0aFuZefpvQozrGk.png?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "name": "Pixor",
+        "href": "https://pixor.framer.website/",
+        "imgSrc": "https://framerusercontent.com/images/b1r5b9SBnUmYvLsg1LneyM0AmQ.png?scale-down-to=1024&width=1800&height=1360",
+        "imgAlt": ""
+      },
+      {
+        "name": "Kavro",
+        "href": "https://kavro.framer.website/",
+        "imgSrc": "https://framerusercontent.com/images/Ai0d6S92eWmzlLAXWZplOGNfvI.jpg?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "name": "Agentify",
+        "href": "https://agentify.framer.website/",
+        "imgSrc": "https://framerusercontent.com/images/xdEnlLaD5GE3PLewiCiXXjakLw.jpg?scale-down-to=1024&width=3200&height=2400",
+        "imgAlt": ""
+      },
+      {
+        "name": "Protify",
+        "href": "https://protify.framer.website/",
+        "imgSrc": "https://framerusercontent.com/images/olWW1WlfcsR5y2LkNUHQa4FQrI.jpg?scale-down-to=1024&width=3200&height=2400",
+        "imgAlt": ""
+      }
+    ]
+  },
+  "Online course": {
+    "stepCounts": [
+      2
+    ],
+    "final": [
+      {
+        "name": "Trainly",
+        "href": "https://trainly.framer.website/",
+        "imgSrc": "https://framerusercontent.com/images/yurOrV9HSGdEsnvLt9Ld1BkmOUE.jpg?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      },
+      {
+        "name": "Studyflow",
+        "href": "https://studyflow.framer.website/",
+        "imgSrc": "https://framerusercontent.com/images/MmaC78GDt31ZEKuovGIcUhBq4.jpg?scale-down-to=1024&width=1600&height=1200",
+        "imgAlt": ""
+      }
+    ]
+  }
+}
