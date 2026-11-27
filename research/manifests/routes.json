@@ -1,0 +1,195 @@
+[
+  {
+    "id": "home",
+    "referenceUrl": "https://sevora.framer.website/",
+    "localPath": "/",
+    "pageType": "landing",
+    "discoverySource": "initial + sitemap.xml",
+    "httpStatus": 200,
+    "inspectionStatus": "VERIFIED",
+    "implementationStatus": "IMPLEMENTED"
+  },
+  {
+    "id": "about",
+    "referenceUrl": "https://sevora.framer.website/about",
+    "localPath": "/about",
+    "pageType": "about",
+    "discoverySource": "initial + sitemap.xml",
+    "httpStatus": 200,
+    "inspectionStatus": "VERIFIED",
+    "implementationStatus": "IMPLEMENTED"
+  },
+  {
+    "id": "projects",
+    "referenceUrl": "https://sevora.framer.website/projects",
+    "localPath": "/projects",
+    "pageType": "collection-index",
+    "collection": "projects (27 records)",
+    "discoverySource": "initial + sitemap.xml + load-more",
+    "httpStatus": 200,
+    "inspectionStatus": "VERIFIED",
+    "implementationStatus": "IMPLEMENTED"
+  },
+  {
+    "id": "articles",
+    "referenceUrl": "https://sevora.framer.website/articles",
+    "localPath": "/articles",
+    "pageType": "collection-index",
+    "collection": "articles (12 records)",
+    "discoverySource": "initial + sitemap.xml + load-more",
+    "httpStatus": 200,
+    "inspectionStatus": "VERIFIED",
+    "implementationStatus": "IMPLEMENTED"
+  },
+  {
+    "id": "contact",
+    "referenceUrl": "https://sevora.framer.website/contact",
+    "localPath": "/contact",
+    "pageType": "contact",
+    "discoverySource": "nav + sitemap.xml",
+    "httpStatus": 200,
+    "inspectionStatus": "VERIFIED",
+    "implementationStatus": "IMPLEMENTED"
+  },
+  {
+    "id": "hero-sections",
+    "referenceUrl": "https://sevora.framer.website/hero-sections",
+    "localPath": "/hero-sections",
+    "pageType": "variant-showcase",
+    "discoverySource": "sitemap.xml",
+    "httpStatus": 200,
+    "inspectionStatus": "VERIFIED",
+    "implementationStatus": "IMPLEMENTED"
+  },
+  {
+    "id": "not-found",
+    "referenceUrl": "https://sevora.framer.website/404",
+    "localPath": "/_not-found",
+    "pageType": "utility",
+    "discoverySource": "sitemap.xml + 404 probe",
+    "httpStatus": 404,
+    "inspectionStatus": "VERIFIED",
+    "implementationStatus": "IMPLEMENTED"
+  },
+  {
+    "id": "article-1",
+    "referenceUrl": "https://sevora.framer.website/articles/crafting-exceptional-user-experiences",
+    "localPath": "/articles/crafting-exceptional-user-experiences",
+    "pageType": "article-detail",
+    "discoverySource": "initial + sitemap.xml",
+    "httpStatus": 200,
+    "inspectionStatus": "VERIFIED",
+    "implementationStatus": "IMPLEMENTED"
+  },
+  {
+    "id": "article-2",
+    "referenceUrl": "https://sevora.framer.website/articles/ui-design-elevating-experiences",
+    "localPath": "/articles/ui-design-elevating-experiences",
+    "pageType": "article-detail",
+    "discoverySource": "initial + sitemap.xml",
+    "httpStatus": 200,
+    "inspectionStatus": "VERIFIED",
+    "implementationStatus": "IMPLEMENTED"
+  },
+  {
+    "id": "article-3",
+    "referenceUrl": "https://sevora.framer.website/articles/the-ux-revolution-shaping-digital-experiences",
+    "localPath": "/articles/the-ux-revolution-shaping-digital-experiences",
+    "pageType": "article-detail",
+    "discoverySource": "initial + sitemap.xml",
+    "httpStatus": 200,
+    "inspectionStatus": "VERIFIED",
+    "implementationStatus": "IMPLEMENTED"
+  },
+  {
+    "id": "article-4",
+    "referenceUrl": "https://sevora.framer.website/articles/mastering-ui-design-trends-a-deep-dive",
+    "localPath": "/articles/mastering-ui-design-trends-a-deep-dive",
+    "pageType": "article-detail",
+    "discoverySource": "initial + sitemap.xml",
+    "httpStatus": 200,
+    "inspectionStatus": "VERIFIED",
+    "implementationStatus": "IMPLEMENTED"
+  },
+  {
+    "id": "article-5",
+    "referenceUrl": "https://sevora.framer.website/articles/the-power-of-responsive-web-design",
+    "localPath": "/articles/the-power-of-responsive-web-design",
+    "pageType": "article-detail",
+    "discoverySource": "initial + sitemap.xml",
+    "httpStatus": 200,
+    "inspectionStatus": "VERIFIED",
+    "implementationStatus": "IMPLEMENTED"
+  },
+  {
+    "id": "article-6",
+    "referenceUrl": "https://sevora.framer.website/articles/mastering-the-craft-of-user-experience-design",
+    "localPath": "/articles/mastering-the-craft-of-user-experience-design",
+    "pageType": "article-detail",
+    "discoverySource": "initial + sitemap.xml",
+    "httpStatus": 200,
+    "inspectionStatus": "VERIFIED",
+    "implementationStatus": "IMPLEMENTED"
+  },
+  {
+    "id": "article-7",
+    "referenceUrl": "https://sevora.framer.website/articles/revolutionizing-ux-design",
+    "localPath": "/articles/revolutionizing-ux-design",
+    "pageType": "article-detail",
+    "discoverySource": "initial + sitemap.xml",
+    "httpStatus": 200,
+    "inspectionStatus": "VERIFIED",
+    "implementationStatus": "IMPLEMENTED"
+  },
+  {
+    "id": "article-8",
+    "referenceUrl": "https://sevora.framer.website/articles/10-web-design-trends-to-watch-in-2023",
+    "localPath": "/articles/10-web-design-trends-to-watch-in-2023",
+    "pageType": "article-detail",
+    "discoverySource": "initial + sitemap.xml",
+    "httpStatus": 200,
+    "inspectionStatus": "VERIFIED",
+    "implementationStatus": "IMPLEMENTED",
+    "notes": "Preserved legacy 2023 slug for title 'Web Design Trends Shaping 2026'"
+  },
+  {
+    "id": "article-9",
+    "referenceUrl": "https://sevora.framer.website/articles/the-art-of-responsive-web-design",
+    "localPath": "/articles/the-art-of-responsive-web-design",
+    "pageType": "article-detail",
+    "discoverySource": "initial + sitemap.xml",
+    "httpStatus": 200,
+    "inspectionStatus": "VERIFIED",
+    "implementationStatus": "IMPLEMENTED"
+  },
+  {
+    "id": "article-10",
+    "referenceUrl": "https://sevora.framer.website/articles/boosting-website-performance-with-smart-design-practices",
+    "localPath": "/articles/boosting-website-performance-with-smart-design-practices",
+    "pageType": "article-detail",
+    "discoverySource": "load-more + sitemap.xml",
+    "httpStatus": 200,
+    "inspectionStatus": "VERIFIED",
+    "implementationStatus": "IMPLEMENTED"
+  },
+  {
+    "id": "article-11",
+    "referenceUrl": "https://sevora.framer.website/articles/crafting-exceptional-user-interfaces",
+    "localPath": "/articles/crafting-exceptional-user-interfaces",
+    "pageType": "article-detail",
+    "discoverySource": "load-more + sitemap.xml",
+    "httpStatus": 200,
+    "inspectionStatus": "VERIFIED",
+    "implementationStatus": "IMPLEMENTED"
+  },
+  {
+    "id": "article-12",
+    "referenceUrl": "https://sevora.framer.website/articles/mastering-mobile-ui-design-best-practices-for-a-seamless-experience",
+    "localPath": "/articles/mastering-mobile-ui-design-best-practices-for-a-seamless-experience",
+    "pageType": "article-detail",
+    "discoverySource": "load-more + sitemap.xml",
+    "httpStatus": 200,
+    "inspectionStatus": "VERIFIED",
+    "implementationStatus": "IMPLEMENTED"
+  }
+]

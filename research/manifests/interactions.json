@@ -1,0 +1,66 @@
+[
+  {
+    "id": "int-header-flyout",
+    "route": "global",
+    "component": "SiteHeader",
+    "trigger": "scrollY > 148",
+    "resultingState": "Fixed centered white capsule (678px x 52px, radius 12px) slides down",
+    "implementationStatus": "IMPLEMENTED"
+  },
+  {
+    "id": "int-mobile-menu",
+    "route": "global",
+    "component": "SiteHeader",
+    "trigger": "click menu button (<900px)",
+    "resultingState": "Accessible drawer opens with Escape support and route links",
+    "implementationStatus": "IMPLEMENTED"
+  },
+  {
+    "id": "int-services-scroll-tabs",
+    "route": "/",
+    "component": "ServicesSection",
+    "trigger": "scroll progress or tab click",
+    "resultingState": "Highlights active service card and crossfades isometric state 1/2/3",
+    "implementationStatus": "IMPLEMENTED"
+  },
+  {
+    "id": "int-process-timeline",
+    "route": "/",
+    "component": "ProcessTimeline",
+    "trigger": "scroll proximity or hover",
+    "resultingState": "Highlights closest phase card in 6-step timeline",
+    "implementationStatus": "IMPLEMENTED"
+  },
+  {
+    "id": "int-faq-accordion",
+    "route": "/",
+    "component": "FaqAccordion",
+    "trigger": "click question button",
+    "resultingState": "Toggles aria-expanded, rotates + icon 45deg, reveals verified answer",
+    "implementationStatus": "IMPLEMENTED"
+  },
+  {
+    "id": "int-projects-filter-loadmore",
+    "route": "/projects",
+    "component": "ProjectsDirectory",
+    "trigger": "click category tab or Load More",
+    "resultingState": "Filters 27 projects across 6 categories; paginates 10 -> 20 -> 27",
+    "implementationStatus": "IMPLEMENTED"
+  },
+  {
+    "id": "int-articles-filter-loadmore",
+    "route": "/articles",
+    "component": "ArticlesDirectory",
+    "trigger": "click category tab or Load More",
+    "resultingState": "Filters 12 articles across 4 categories; paginates 9 -> 12",
+    "implementationStatus": "IMPLEMENTED"
+  },
+  {
+    "id": "int-contact-select-form",
+    "route": "/contact",
+    "component": "ContactPageView + CustomSelect",
+    "trigger": "click/keyboard on comboboxes + submit",
+    "resultingState": "ARIA listbox keyboard navigation + client/Zod validation + POST /api/contact",
+    "implementationStatus": "IMPLEMENTED"
+  }
+]

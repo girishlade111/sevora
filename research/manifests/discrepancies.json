@@ -1,0 +1,62 @@
+[
+  {
+    "id": "disc-pricing",
+    "route": "/",
+    "section": "Pricing",
+    "component": "PricingSection",
+    "differenceType": "content-version",
+    "referenceValue": "Live DOM: $1,000 USD / $2,400 USD; User screenshot: $1,200 / $2,800",
+    "implementationValue": "Configurable fixture: published ($1,000 / $2,400) default + ?pricing=screenshot ($1,200 / $2,800)",
+    "rootCause": "Live Framer site updated pricing text while earlier user screenshot captured $1,200 / $2,800",
+    "priority": "high",
+    "status": "RECONCILED"
+  },
+  {
+    "id": "disc-stats",
+    "route": "/",
+    "section": "Hero & Credibility Bento",
+    "component": "AnimatedNumber",
+    "differenceType": "animation-timing",
+    "referenceValue": "Initial DOM 0; Hero settled: 30+, 8yr, 40+; Credibility settled: 92%, 56+, 4.9",
+    "implementationValue": "IntersectionObserver count-up to verified final numbers + ?deterministic=1 instant final values",
+    "rootCause": "AnimatedNumber starts at 0 until scrolled into view",
+    "priority": "high",
+    "status": "RESOLVED"
+  },
+  {
+    "id": "disc-services-scroll",
+    "route": "/",
+    "section": "Services",
+    "component": "ServicesSection",
+    "differenceType": "pinned-scroll-scene",
+    "referenceValue": "3644px sticky Container (top: 96px) transitioning Development -> Visual system -> Product design",
+    "implementationValue": "2600px sticky viewport on desktop with scroll-progress sync + interactive click tabs",
+    "rootCause": "Full-page screenshot extension captured sticky scroll container spacer",
+    "priority": "high",
+    "status": "RESOLVED"
+  },
+  {
+    "id": "disc-promotional-badge",
+    "route": "global",
+    "section": "Floating Overlay & Footer Strip",
+    "component": "SiteFooter",
+    "differenceType": "platform-branding",
+    "referenceValue": "Framer 'Get the template' / 'Made in Framer' floating overlays",
+    "implementationValue": "Retained '© Sevora Template | Created by Stylokit'; replaced 'Made in Framer' with 'Independent Next.js Reconstruction' and omitted Framer promo overlays",
+    "rootCause": "Independent non-Framer implementation must not falsely claim Framer hosting",
+    "priority": "medium",
+    "status": "DOCUMENTED"
+  },
+  {
+    "id": "disc-footer-shader",
+    "route": "global",
+    "section": "Footer",
+    "component": "SiteFooter",
+    "differenceType": "shader-canvas",
+    "referenceValue": "Framer WebGL/Canvas Shader for metallic S SEVORA with 10% bottom fade mask",
+    "implementationValue": "High-res 2x captured metallic wordmark asset with identical CSS linear-gradient bottom mask",
+    "rootCause": "Proprietary Framer Shader component replaced with lightweight masked high-res asset",
+    "priority": "medium",
+    "status": "RESOLVED"
+  }
+]

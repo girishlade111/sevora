@@ -1,0 +1,42 @@
+[
+  {
+    "id": "anim-counters",
+    "name": "AnimatedNumber",
+    "referenceRoutes": ["/"],
+    "componentId": "AnimatedNumber",
+    "technology": "IntersectionObserver + requestAnimationFrame",
+    "durationMs": 1100,
+    "easing": "cubic-bezier(0.22, 1, 0.36, 1) / easeOutCubic",
+    "reducedMotionBehavior": "Renders final value immediately",
+    "verificationStatus": "VERIFIED"
+  },
+  {
+    "id": "anim-logo-marquee",
+    "name": "ClientLogoStrip Marquee",
+    "referenceRoutes": ["/", "/hero-sections"],
+    "componentId": "ClientLogoStrip",
+    "technology": "CSS keyframe linear infinite marquee with edge fade mask",
+    "durationMs": 30000,
+    "reducedMotionBehavior": "Static wrapped flex grid",
+    "verificationStatus": "VERIFIED"
+  },
+  {
+    "id": "anim-services-sticky",
+    "name": "Services Sticky Scroll Scene",
+    "referenceRoutes": ["/"],
+    "componentId": "ServicesSection",
+    "technology": "Sticky viewport + scroll progress listener",
+    "scrollDistance": 2600,
+    "pin": true,
+    "reducedMotionBehavior": "Static layout with interactive click tabs",
+    "verificationStatus": "VERIFIED"
+  },
+  {
+    "id": "anim-fluid-gif",
+    "name": "Dark Fluid Abstract Media",
+    "referenceRoutes": ["/", "/about", "/contact"],
+    "componentId": "ExpertiseBento / TestimonialsSection / PricingSection / AboutPageView / ContactPageView",
+    "technology": "Animated GIF with CSS grayscale/contrast/brightness filters",
+    "verificationStatus": "VERIFIED"
+  }
+]

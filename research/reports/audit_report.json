@@ -1,0 +1,327 @@
+{
+  "baseUrl": "http://127.0.0.1:3100",
+  "routes": [
+    {
+      "route": "/",
+      "status": 200,
+      "title": "Sevora — Designer portfolio",
+      "brokenImages": []
+    },
+    {
+      "route": "/about",
+      "status": 200,
+      "title": "About | Sevora",
+      "brokenImages": []
+    },
+    {
+      "route": "/projects",
+      "status": 200,
+      "title": "Projects | Sevora",
+      "brokenImages": []
+    },
+    {
+      "route": "/articles",
+      "status": 200,
+      "title": "Articles | Sevora",
+      "brokenImages": []
+    },
+    {
+      "route": "/contact",
+      "status": 200,
+      "title": "Contact | Sevora",
+      "brokenImages": []
+    },
+    {
+      "route": "/hero-sections",
+      "status": 200,
+      "title": "Hero Sections | Sevora",
+      "brokenImages": []
+    },
+    {
+      "route": "/articles/crafting-exceptional-user-experiences",
+      "status": 200,
+      "title": "Crafting Exceptional User Experiences | Sevora",
+      "brokenImages": []
+    },
+    {
+      "route": "/articles/10-web-design-trends-to-watch-in-2023",
+      "status": 200,
+      "title": "Web Design Trends Shaping 2026 | Sevora",
+      "brokenImages": []
+    },
+    {
+      "route": "/articles/boosting-website-performance-with-smart-design-practices",
+      "status": 200,
+      "title": "Boosting Website Performance with Smart Design Practices | Sevora",
+      "brokenImages": []
+    },
+    {
+      "route": "/non-existent-route-check",
+      "status": 404,
+      "title": "Sevora — Designer portfolio",
+      "brokenImages": []
+    }
+  ],
+  "overflowChecks": [
+    {
+      "route": "/",
+      "viewport": "desktop-1440",
+      "scrollWidth": 1440,
+      "innerWidth": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/about",
+      "viewport": "desktop-1440",
+      "scrollWidth": 1440,
+      "innerWidth": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/projects",
+      "viewport": "desktop-1440",
+      "scrollWidth": 1440,
+      "innerWidth": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/articles",
+      "viewport": "desktop-1440",
+      "scrollWidth": 1440,
+      "innerWidth": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/contact",
+      "viewport": "desktop-1440",
+      "scrollWidth": 1440,
+      "innerWidth": 1440,
+      "overflow": false
+    },
+    {
+      "route": "/",
+      "viewport": "tablet-768",
+      "scrollWidth": 768,
+      "innerWidth": 768,
+      "overflow": false
+    },
+    {
+      "route": "/about",
+      "viewport": "tablet-768",
+      "scrollWidth": 768,
+      "innerWidth": 768,
+      "overflow": false
+    },
+    {
+      "route": "/projects",
+      "viewport": "tablet-768",
+      "scrollWidth": 768,
+      "innerWidth": 768,
+      "overflow": false
+    },
+    {
+      "route": "/articles",
+      "viewport": "tablet-768",
+      "scrollWidth": 768,
+      "innerWidth": 768,
+      "overflow": false
+    },
+    {
+      "route": "/contact",
+      "viewport": "tablet-768",
+      "scrollWidth": 768,
+      "innerWidth": 768,
+      "overflow": false
+    },
+    {
+      "route": "/",
+      "viewport": "mobile-390",
+      "scrollWidth": 390,
+      "innerWidth": 390,
+      "overflow": false
+    },
+    {
+      "route": "/about",
+      "viewport": "mobile-390",
+      "scrollWidth": 390,
+      "innerWidth": 390,
+      "overflow": false
+    },
+    {
+      "route": "/projects",
+      "viewport": "mobile-390",
+      "scrollWidth": 390,
+      "innerWidth": 390,
+      "overflow": false
+    },
+    {
+      "route": "/articles",
+      "viewport": "mobile-390",
+      "scrollWidth": 390,
+      "innerWidth": 390,
+      "overflow": false
+    },
+    {
+      "route": "/contact",
+      "viewport": "mobile-390",
+      "scrollWidth": 390,
+      "innerWidth": 390,
+      "overflow": false
+    },
+    {
+      "route": "/",
+      "viewport": "mobile-320",
+      "scrollWidth": 320,
+      "innerWidth": 320,
+      "overflow": false
+    },
+    {
+      "route": "/about",
+      "viewport": "mobile-320",
+      "scrollWidth": 320,
+      "innerWidth": 320,
+      "overflow": false
+    },
+    {
+      "route": "/projects",
+      "viewport": "mobile-320",
+      "scrollWidth": 320,
+      "innerWidth": 320,
+      "overflow": false
+    },
+    {
+      "route": "/articles",
+      "viewport": "mobile-320",
+      "scrollWidth": 320,
+      "innerWidth": 320,
+      "overflow": false
+    },
+    {
+      "route": "/contact",
+      "viewport": "mobile-320",
+      "scrollWidth": 320,
+      "innerWidth": 320,
+      "overflow": false
+    }
+  ],
+  "interactions": {
+    "home": {
+      "srvSelected": "true",
+      "faqExpanded": "true",
+      "faqAnswerVisible": true
+    },
+    "projects": {
+      "projInitial": 10,
+      "projAfterOne": 20,
+      "projAfterTwo": 27,
+      "projAI": 3
+    },
+    "articles": {
+      "artInitial": 9,
+      "artAfterLoad": 12,
+      "artWeb": 3
+    },
+    "contact": {
+      "validationShown": true,
+      "submitSuccess": "Demo mode active: your inquiry passed validation locally (no external email provider configured)."
+    }
+  },
+  "accessibility": [
+    {
+      "route": "/",
+      "violations": [
+        {
+          "id": "aria-prohibited-attr",
+          "impact": "serious",
+          "nodes": 2,
+          "description": "Ensure ARIA attributes are not prohibited for an element's role"
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 1,
+          "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds"
+        }
+      ],
+      "passesCount": 44
+    },
+    {
+      "route": "/about",
+      "violations": [],
+      "passesCount": 41
+    },
+    {
+      "route": "/projects",
+      "violations": [
+        {
+          "id": "heading-order",
+          "impact": "moderate",
+          "nodes": 1,
+          "description": "Ensure the order of headings is semantically correct"
+        }
+      ],
+      "passesCount": 44
+    },
+    {
+      "route": "/articles",
+      "violations": [],
+      "passesCount": 44
+    },
+    {
+      "route": "/contact",
+      "violations": [],
+      "passesCount": 45
+    }
+  ],
+  "visualComparisons": {
+    "home-top": {
+      "width": 1440,
+      "height": 900,
+      "refHeight": 900,
+      "implHeight": 900,
+      "diffPixels": 68058,
+      "totalPixels": 1296000,
+      "diffPercent": 5.25
+    },
+    "contact-full": {
+      "width": 1440,
+      "height": 1734,
+      "refHeight": 1913,
+      "implHeight": 1734,
+      "diffPixels": 313609,
+      "totalPixels": 2496960,
+      "diffPercent": 12.56
+    },
+    "projects-full": {
+      "width": 1440,
+      "height": 3754,
+      "refHeight": 3872,
+      "implHeight": 3754,
+      "diffPixels": 1294480,
+      "totalPixels": 5405760,
+      "diffPercent": 23.95
+    },
+    "articles-full": {
+      "width": 1440,
+      "height": 2348,
+      "refHeight": 2983,
+      "implHeight": 2348,
+      "diffPixels": 1131543,
+      "totalPixels": 3381120,
+      "diffPercent": 33.47
+    },
+    "about-full": {
+      "width": 1440,
+      "height": 4585,
+      "refHeight": 5275,
+      "implHeight": 4585,
+      "diffPixels": 1552337,
+      "totalPixels": 6602400,
+      "diffPercent": 23.51
+    }
+  },
+  "consoleErrors": [
+    "Failed to load resource: the server responded with a status of 404 (Not Found)"
+  ],
+  "networkErrors": []
+}
