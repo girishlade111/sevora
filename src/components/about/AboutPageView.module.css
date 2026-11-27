@@ -807,6 +807,19 @@
   .principlesGrid {
     grid-template-columns: repeat(4, minmax(0, 1fr));
     gap: 16px;
+    align-items: start;
+  }
+
+  .principlesGrid > article:nth-child(2) {
+    margin-top: 24px;
+  }
+
+  .principlesGrid > article:nth-child(3) {
+    margin-top: 48px;
+  }
+
+  .principlesGrid > article:nth-child(4) {
+    margin-top: 72px;
   }
 
   .toolsGrid {
@@ -817,8 +830,8 @@
   .toolsTiltPlane {
     flex-direction: row;
     align-items: center;
-    transform: rotate(3.5deg);
-    padding: 20px 10px;
+    transform: rotate(-7deg);
+    padding: 28px 16px;
   }
 
   .framerToolCard {

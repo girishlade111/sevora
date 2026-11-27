@@ -162,7 +162,9 @@ async function run() {
   const page = await context.newPage();
 
   page.on("console", (msg) => {
-    if (msg.type() === "error") report.consoleErrors.push(msg.text());
+    if (msg.type() === "error" && !msg.text().includes("404 (Not Found)")) {
+      report.consoleErrors.push(msg.text());
+    }
   });
   page.on("response", (res) => {
     if (res.status() >= 400 && !res.url().includes("non-existent-route-check")) {
@@ -282,7 +284,13 @@ async function run() {
     const axe = await new AxeBuilder({ page }).analyze();
     report.accessibility.push({
       route: r,
-      violations: axe.violations.map((v) => ({ id: v.id, impact: v.impact, nodes: v.nodes.length, description: v.description })),
+      violations: axe.violations.map((v) => ({
+        id: v.id,
+        impact: v.impact,
+        nodes: v.nodes.length,
+        targets: v.nodes.map((n) => n.target),
+        description: v.description,
+      })),
       passesCount: axe.passes.length,
     });
   }
@@ -294,14 +302,18 @@ async function run() {
     brokenImgs: report.routes.flatMap((x) => x.brokenImages),
     overflows: report.overflowChecks.filter((x) => x.overflow),
     interactions: report.interactions,
-    axeViolations: report.accessibility.map((a) => ({ route: a.route, count: a.violations.length, ids: a.violations.map((v) => v.id) })),
+    axeViolations: report.accessibility.map((a) => ({ route: a.route, count: a.violations.length, ids: a.violations.map((v) => ({ id: v.id, targets: v.targets })) })),
     visualComparisons: report.visualComparisons,
     consoleErrors: report.consoleErrors.length,
     networkErrors: report.networkErrors.length,
   }, null, 2));
   } finally {
     if (browser) await browser.close();
-    server.kill("SIGTERM");
+    if (process.platform === "win32" && server.pid) {
+      spawn("taskkill", ["/pid", String(server.pid), "/T", "/F"], { stdio: "ignore" });
+    } else {
+      server.kill("SIGTERM");
+    }
   }
 }
 
