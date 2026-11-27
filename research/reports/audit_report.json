@@ -229,19 +229,7 @@
   "accessibility": [
     {
       "route": "/",
-      "violations": [
-        {
-          "id": "color-contrast",
-          "impact": "serious",
-          "nodes": 1,
-          "targets": [
-            [
-              ".BenefitsSection_badgeExpert__r1iif"
-            ]
-          ],
-          "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds"
-        }
-      ],
+      "violations": [],
       "passesCount": 45
     },
     {
@@ -271,9 +259,9 @@
       "height": 900,
       "refHeight": 900,
       "implHeight": 900,
-      "diffPixels": 68219,
+      "diffPixels": 67894,
       "totalPixels": 1296000,
-      "diffPercent": 5.26
+      "diffPercent": 5.24
     },
     "contact-full": {
       "width": 1440,
