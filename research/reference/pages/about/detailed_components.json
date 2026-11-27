@@ -1,0 +1,170 @@
+{
+  "tools": [
+    {
+      "name": "Framer",
+      "found": true,
+      "rect": {
+        "x": 812.4641723632812,
+        "y": -1676.77880859375,
+        "width": 161.0145263671875,
+        "height": 124.6729736328125,
+        "top": -1676.77880859375,
+        "right": 973.4786987304688,
+        "bottom": -1552.1058349609375,
+        "left": 812.4641723632812
+      },
+      "transform": "none",
+      "boxShadow": "none",
+      "href": "https://www.framer.com/?via=dmytri_design",
+      "text": "Framer\n\nBuilding fast, responsive websites with fluid interactions."
+    },
+    {
+      "name": "Figma",
+      "found": true,
+      "rect": {
+        "x": 1019.6890869140625,
+        "y": -1879.2149658203125,
+        "width": 269.6729736328125,
+        "height": 124.9271240234375,
+        "top": -1879.2149658203125,
+        "right": 1289.362060546875,
+        "bottom": -1754.287841796875,
+        "left": 1019.6890869140625
+      },
+      "transform": "none",
+      "boxShadow": "rgb(201, 205, 210) -4px -4px 0px 0px inset, rgb(255, 255, 255) -10px -10px 8px 0px inset, rgb(255, 255, 255) 4px 4px 8px 0px inset, rgb(224, 226, 230) 0px 8px 16px 0px",
+      "href": "",
+      "text": "Figma\n\nDesign, prototype & create systems."
+    },
+    {
+      "name": "Illustrator",
+      "found": true,
+      "rect": {
+        "x": 1003.375244140625,
+        "y": -1750.27001953125,
+        "width": 271.25,
+        "height": 132.103271484375,
+        "top": -1750.27001953125,
+        "right": 1274.625244140625,
+        "bottom": -1618.166748046875,
+        "left": 1003.375244140625
+      },
+      "transform": "none",
+      "boxShadow": "rgb(201, 205, 210) -4px -4px 0px 0px inset, rgb(255, 255, 255) -10px -10px 8px 0px inset, rgb(255, 255, 255) 4px 4px 8px 0px inset, rgb(224, 226, 230) 0px 8px 16px 0px",
+      "href": "",
+      "text": "illustrator\n\nCreate vector graphics & assets."
+    },
+    {
+      "name": "Photoshop",
+      "found": true,
+      "rect": {
+        "x": 986.7017822265625,
+        "y": -1628.01171875,
+        "width": 272.8282470703125,
+        "height": 149.315185546875,
+        "top": -1628.01171875,
+        "right": 1259.530029296875,
+        "bottom": -1478.696533203125,
+        "left": 986.7017822265625
+      },
+      "transform": "none",
+      "boxShadow": "rgb(201, 205, 210) -4px -4px 0px 0px inset, rgb(255, 255, 255) -10px -10px 8px 0px inset, rgb(255, 255, 255) 4px 4px 8px 0px inset, rgb(224, 226, 230) 0px 8px 16px 0px",
+      "href": "",
+      "text": "Photoshop\n\nEdit images & craft polished visuals."
+    },
+    {
+      "name": "Webflow",
+      "found": true,
+      "rect": {
+        "x": 969.6565551757812,
+        "y": -1503.05615234375,
+        "width": 274.40655517578125,
+        "height": 167.3040771484375,
+        "top": -1503.05615234375,
+        "right": 1244.0631103515625,
+        "bottom": -1335.7520751953125,
+        "left": 969.6565551757812
+      },
+      "transform": "none",
+      "boxShadow": "rgb(201, 205, 210) -4px -4px 0px 0px inset, rgb(255, 255, 255) -10px -10px 8px 0px inset, rgb(255, 255, 255) 4px 4px 8px 0px inset, rgb(224, 226, 230) 0px 8px 16px 0px",
+      "href": "",
+      "text": "Webflow\n\nBuild responsive sites with visual control."
+    },
+    {
+      "name": "After Effects",
+      "found": true,
+      "rect": {
+        "x": 216,
+        "y": -1345,
+        "width": 424,
+        "height": 20,
+        "top": -1345,
+        "right": 640,
+        "bottom": -1325,
+        "left": 216
+      },
+      "transform": "none",
+      "boxShadow": "none",
+      "href": null,
+      "text": "After Effects"
+    }
+  ],
+  "principles": [
+    {
+      "num": "01",
+      "rect": {
+        "x": 144,
+        "y": -1521,
+        "width": 536,
+        "height": 200,
+        "top": -1521,
+        "right": 680,
+        "bottom": -1321,
+        "left": 144
+      },
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImg": "none",
+      "shadow": "none",
+      "text": "Design\n\nFigma, Illustrator, Photoshop\n\n01\n\nBuild\n\nFramer, Webflow\n\n02\n\nMotion\n\nAfter Effects\n\n03"
+    },
+    {
+      "num": "02",
+      "rect": {
+        "x": 144,
+        "y": -1521,
+        "width": 536,
+        "height": 200,
+        "top": -1521,
+        "right": 680,
+        "bottom": -1321,
+        "left": 144
+      },
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImg": "none",
+      "shadow": "none",
+      "text": "Design\n\nFigma, Illustrator, Photoshop\n\n01\n\nBuild\n\nFramer, Webflow\n\n02\n\nMotion\n\nAfter Effects\n\n03"
+    },
+    {
+      "num": "03",
+      "rect": {
+        "x": 144,
+        "y": -1521,
+        "width": 536,
+        "height": 200,
+        "top": -1521,
+        "right": 680,
+        "bottom": -1321,
+        "left": 144
+      },
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImg": "none",
+      "shadow": "none",
+      "text": "Design\n\nFigma, Illustrator, Photoshop\n\n01\n\nBuild\n\nFramer, Webflow\n\n02\n\nMotion\n\nAfter Effects\n\n03"
+    },
+    {
+      "num": "04",
+      "found": false
+    }
+  ],
+  "bodyText": "Sevora\nHome\nAbout\nProjects\nArticles\nContact\nLet's talk\nSevora\nHome\nAbout\nProjects\nArticles\nContact\nLet's talk\nAbout me\nGood design starts with clear thinking.\n\nI\u2019m an independent digital designer creating refined identities, websites, and product experiences shaped by strategy, clarity, and thoughtful execution.\n\n8+\nYears of experience\n\nWorking with brands and teams around the world since 2016.\n\n24+\nHappy clients\n\nTrusted by startups, agencies, and established brands.\n\nAvailable\nFor new project\n\nCurrently available for branding, web, and digital projects.\n\nMy approach\nDesign is more than how it looks\n\nA clear and collaborative workflow that moves each project from first idea to polished final result.\n\nStrategy first\n\nUnderstanding the goal, audience, and message before designing.\n\nClear direction\n\nBuilding a focused visual language with purpose and consistency.\n\nRefined execution\n\nPolishing every detail until the final result feels complete.\n\nPrinciples\nThe values behind my work\n\nA few simple principles guide every project, from early direction to final execution.\n\n0\n1\nClarity first\n\nI believe strong design should make ideas easier to understand, not harder to explain.\n\n0\n2\nPurposeful details\n\nEvery layout, interaction, and visual choice should support the message behind the work.\n\n0\n3\nSimple systems\n\nI create design structures that stay useful, flexible, and consistent as brands grow.\n\n0\n4\nThoughtful execution\n\nThe final result should feel polished, intentional, and ready to be used with confidence.\n\nTools\nThe tools behind the work\n\nThe tools I use to shape ideas, design systems, build websites, and prepare polished final work.\n\nDesign\n\nFigma, Illustrator, Photoshop\n\n01\n\nBuild\n\nFramer, Webflow\n\n02\n\nMotion\n\nAfter Effects\n\n03\n\nFramer\n\nBuilding fast, responsive websites with fluid interactions.\n\nFigma\n\nDesign, prototype & create systems.\n\nillustrator\n\nCreate vector graphics & assets.\n\nPhotoshop\n\nEdit images & craft polished visuals.\n\nWebflow\n\nBuild responsive sites with visual control.\n\nSince\n\n2016\n\nDesign & digital experiences\n\nMy story\nFrom curiosity to refined craft\n\nMy work started with a simple interest in how visuals shape the way people feel, understand, and remember ideas.\n\nOver time, that interest grew into a focused practice across brand identity, web design, product interfaces, and Framer development.\n\nToday, I work with founders, teams, and creative businesses to build digital experiences that feel clear, refined, and ready to grow.\n\nSevora Vale\n\nFounder & Designer\n\nStart a project\nLet\u2019s create something thoughtful together\n\nHave a brand, website, or product idea in mind? Share a few details and let\u2019s shape the next step.\n\nGet in touch\nView projects\n\nBranding\n\nWeb design\n\nFramer\n\nAvailable for new projects\n\nCurrently booking for August \u2013 September 2026\n\nEmail\n\nhello@sevora.com\n\nLocation\n\nTallinn, Estonia / Remote\n\nResponsive time\n\nWithin 24 hours\n\nSevora\n\nCreating refined digital experiences with clarity, intention, and thoughtful execution.\n\nPages\nHome\nAbout\nProjects\nArticles\nContact\nSocial\nX link\nLinkedin\nDribbble\n\u00a9 Sevora Template | Created by Stylokit\nMade in Framer\nGet the template\n\nCreate a free website with Framer, the website builder loved by startups, designers and agencies."
+}

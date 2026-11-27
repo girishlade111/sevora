@@ -1,0 +1,326 @@
+[
+  {
+    "order": 1,
+    "name": "Brandora",
+    "slug": "brandora",
+    "categories": [
+      "Portfolio"
+    ],
+    "externalUrl": "https://brandora.framer.website/",
+    "thumbnailUrl": "https://framerusercontent.com/images/ktcimUvwboXOgQi2AvOrS6Bj760.jpg?scale-down-to=1024&width=1600&height=1200",
+    "masterUrl": "https://framerusercontent.com/images/ktcimUvwboXOgQi2AvOrS6Bj760.jpg?width=1600&height=1200",
+    "imageAlt": "Brandora project preview"
+  },
+  {
+    "order": 2,
+    "name": "Nivora",
+    "slug": "nivora",
+    "categories": [
+      "Portfolio"
+    ],
+    "externalUrl": "https://nivora.framer.website/",
+    "thumbnailUrl": "https://framerusercontent.com/images/vYf7Bp88A2oX0r0rBYroXDxsSI.jpg?scale-down-to=1024&width=1600&height=1200",
+    "masterUrl": "https://framerusercontent.com/images/vYf7Bp88A2oX0r0rBYroXDxsSI.jpg?width=1600&height=1200",
+    "imageAlt": "Nivora project preview"
+  },
+  {
+    "order": 3,
+    "name": "Codify",
+    "slug": "codify",
+    "categories": [
+      "Portfolio"
+    ],
+    "externalUrl": "https://codify.framer.website/",
+    "thumbnailUrl": "https://framerusercontent.com/images/nLiypGqmKBGtEZ2OY7irFQiP5U.png?scale-down-to=1024&width=2400&height=1800",
+    "masterUrl": "https://framerusercontent.com/images/nLiypGqmKBGtEZ2OY7irFQiP5U.png?width=2400&height=1800",
+    "imageAlt": "Codify project preview"
+  },
+  {
+    "order": 4,
+    "name": "Neutra",
+    "slug": "neutra",
+    "categories": [
+      "Portfolio"
+    ],
+    "externalUrl": "https://neutra.framer.website/",
+    "thumbnailUrl": "https://framerusercontent.com/images/HyuPygjhzSYcqtCkgqgwlcI.jpg?scale-down-to=1024&width=1600&height=1200",
+    "masterUrl": "https://framerusercontent.com/images/HyuPygjhzSYcqtCkgqgwlcI.jpg?width=1600&height=1200",
+    "imageAlt": "Neutra project preview"
+  },
+  {
+    "order": 5,
+    "name": "Snapkit",
+    "slug": "snapkit",
+    "categories": [
+      "Business"
+    ],
+    "externalUrl": "https://snapkit.framer.website/",
+    "thumbnailUrl": "https://framerusercontent.com/images/hg1KCy1TvxmM2dGVwS3krViR44.png?scale-down-to=1024&width=3200&height=2400",
+    "masterUrl": "https://framerusercontent.com/images/hg1KCy1TvxmM2dGVwS3krViR44.png?width=3200&height=2400",
+    "imageAlt": "Snapkit project preview"
+  },
+  {
+    "order": 6,
+    "name": "Todofusion",
+    "slug": "todofusion",
+    "categories": [
+      "Business"
+    ],
+    "externalUrl": "https://todofusion.framer.website/",
+    "thumbnailUrl": "https://framerusercontent.com/images/aqshn4kinOsmEgg1K88qujb0A5M.jpg?scale-down-to=1024&width=1600&height=1200",
+    "masterUrl": "https://framerusercontent.com/images/aqshn4kinOsmEgg1K88qujb0A5M.jpg?width=1600&height=1200",
+    "imageAlt": "Todofusion project preview"
+  },
+  {
+    "order": 7,
+    "name": "Grido",
+    "slug": "grido",
+    "categories": [
+      "Portfolio"
+    ],
+    "externalUrl": "https://grido.framer.website/",
+    "thumbnailUrl": "https://framerusercontent.com/images/rcdZYeqHhc1RzZqUSukZ7FjrPU.jpg?scale-down-to=1024&width=1600&height=1200",
+    "masterUrl": "https://framerusercontent.com/images/rcdZYeqHhc1RzZqUSukZ7FjrPU.jpg?width=1600&height=1200",
+    "imageAlt": "Grido project preview"
+  },
+  {
+    "order": 8,
+    "name": "Trainly",
+    "slug": "trainly",
+    "categories": [
+      "Online course"
+    ],
+    "externalUrl": "https://trainly.framer.website/",
+    "thumbnailUrl": "https://framerusercontent.com/images/yurOrV9HSGdEsnvLt9Ld1BkmOUE.jpg?scale-down-to=1024&width=1600&height=1200",
+    "masterUrl": "https://framerusercontent.com/images/yurOrV9HSGdEsnvLt9Ld1BkmOUE.jpg?width=1600&height=1200",
+    "imageAlt": "Trainly project preview"
+  },
+  {
+    "order": 9,
+    "name": "Landify",
+    "slug": "landify",
+    "categories": [
+      "One page"
+    ],
+    "externalUrl": "https://landify.framer.website/",
+    "thumbnailUrl": "https://framerusercontent.com/images/gNE42N9R0qGc9OHBFrF4nlkU7Uc.jpg?scale-down-to=1024&width=1400&height=950",
+    "masterUrl": "https://framerusercontent.com/images/gNE42N9R0qGc9OHBFrF4nlkU7Uc.jpg?width=1400&height=950",
+    "imageAlt": "Landify project preview"
+  },
+  {
+    "order": 10,
+    "name": "Thinkbot",
+    "slug": "thinkbot",
+    "categories": [
+      "AI"
+    ],
+    "externalUrl": "https://thinkbot.framer.ai/",
+    "thumbnailUrl": "https://framerusercontent.com/images/32gcdV5ff2LXMOwN60H0XoW7o.png?scale-down-to=1024&width=1800&height=1350",
+    "masterUrl": "https://framerusercontent.com/images/32gcdV5ff2LXMOwN60H0XoW7o.png?width=1800&height=1350",
+    "imageAlt": "Thinkbot project preview"
+  },
+  {
+    "order": 11,
+    "name": "Groomix",
+    "slug": "groomix",
+    "categories": [
+      "Business"
+    ],
+    "externalUrl": "https://groomix.framer.website/",
+    "thumbnailUrl": "https://framerusercontent.com/images/x8QjjWJgQ7mE4UcfgBK3SJdSc.jpg?scale-down-to=1024&width=1600&height=1200",
+    "masterUrl": "https://framerusercontent.com/images/x8QjjWJgQ7mE4UcfgBK3SJdSc.jpg?width=1600&height=1200",
+    "imageAlt": "Groomix project preview"
+  },
+  {
+    "order": 12,
+    "name": "Studyflow",
+    "slug": "studyflow",
+    "categories": [
+      "Online course"
+    ],
+    "externalUrl": "https://studyflow.framer.website/",
+    "thumbnailUrl": "https://framerusercontent.com/images/MmaC78GDt31ZEKuovGIcUhBq4.jpg?scale-down-to=1024&width=1600&height=1200",
+    "masterUrl": "https://framerusercontent.com/images/MmaC78GDt31ZEKuovGIcUhBq4.jpg?width=1600&height=1200",
+    "imageAlt": "Studyflow project preview"
+  },
+  {
+    "order": 13,
+    "name": "AI Nest",
+    "slug": "ai-nest",
+    "categories": [
+      "AI"
+    ],
+    "externalUrl": "https://ainest.framer.website/",
+    "thumbnailUrl": "https://framerusercontent.com/images/iZEy2ZAxWxtczASPvxcMhf4r96o.png?scale-down-to=1024&width=1600&height=1200",
+    "masterUrl": "https://framerusercontent.com/images/iZEy2ZAxWxtczASPvxcMhf4r96o.png?width=1600&height=1200",
+    "imageAlt": "AI Nest project preview"
+  },
+  {
+    "order": 14,
+    "name": "Gradia",
+    "slug": "gradia",
+    "categories": [
+      "Portfolio"
+    ],
+    "externalUrl": "https://gradia.framer.website/",
+    "thumbnailUrl": "https://framerusercontent.com/images/VQ0Ch42t3nD4MPPkCwFnoIK75k.png?scale-down-to=1024&width=1600&height=1200",
+    "masterUrl": "https://framerusercontent.com/images/VQ0Ch42t3nD4MPPkCwFnoIK75k.png?width=1600&height=1200",
+    "imageAlt": "Gradia project preview"
+  },
+  {
+    "order": 15,
+    "name": "Designor",
+    "slug": "designor",
+    "categories": [
+      "Portfolio"
+    ],
+    "externalUrl": "https://designor.framer.website/",
+    "thumbnailUrl": "https://framerusercontent.com/images/yJo9sAXzSw0aFuZefpvQozrGk.png?scale-down-to=1024&width=1600&height=1200",
+    "masterUrl": "https://framerusercontent.com/images/yJo9sAXzSw0aFuZefpvQozrGk.png?width=1600&height=1200",
+    "imageAlt": "Designor project preview"
+  },
+  {
+    "order": 16,
+    "name": "Pixor",
+    "slug": "pixor",
+    "categories": [
+      "Portfolio"
+    ],
+    "externalUrl": "https://pixor.framer.website/",
+    "thumbnailUrl": "https://framerusercontent.com/images/b1r5b9SBnUmYvLsg1LneyM0AmQ.png?scale-down-to=1024&width=1800&height=1360",
+    "masterUrl": "https://framerusercontent.com/images/b1r5b9SBnUmYvLsg1LneyM0AmQ.png?width=1800&height=1360",
+    "imageAlt": "Pixor project preview"
+  },
+  {
+    "order": 17,
+    "name": "Residra",
+    "slug": "residra",
+    "categories": [
+      "One page"
+    ],
+    "externalUrl": "https://residra.framer.website/",
+    "thumbnailUrl": "https://framerusercontent.com/images/qJmk90RjPjctUnBV6K1IRSiA.jpg?scale-down-to=1024&width=1600&height=1200",
+    "masterUrl": "https://framerusercontent.com/images/qJmk90RjPjctUnBV6K1IRSiA.jpg?width=1600&height=1200",
+    "imageAlt": "Residra project preview"
+  },
+  {
+    "order": 18,
+    "name": "Kavro",
+    "slug": "kavro",
+    "categories": [
+      "Portfolio"
+    ],
+    "externalUrl": "https://kavro.framer.website/",
+    "thumbnailUrl": "https://framerusercontent.com/images/Ai0d6S92eWmzlLAXWZplOGNfvI.jpg?scale-down-to=1024&width=1600&height=1200",
+    "masterUrl": "https://framerusercontent.com/images/Ai0d6S92eWmzlLAXWZplOGNfvI.jpg?width=1600&height=1200",
+    "imageAlt": "Kavro project preview"
+  },
+  {
+    "order": 19,
+    "name": "Taskify",
+    "slug": "taskify",
+    "categories": [
+      "Business"
+    ],
+    "externalUrl": "https://taskify.framer.website/",
+    "thumbnailUrl": "https://framerusercontent.com/images/RjzRlDxhmi32y6DQJ9DBXT8yh4.jpg?scale-down-to=1024&width=3200&height=2400",
+    "masterUrl": "https://framerusercontent.com/images/RjzRlDxhmi32y6DQJ9DBXT8yh4.jpg?width=3200&height=2400",
+    "imageAlt": "Taskify project preview"
+  },
+  {
+    "order": 20,
+    "name": "Flexify",
+    "slug": "flexify",
+    "categories": [
+      "Business"
+    ],
+    "externalUrl": "https://flexify.framer.website/",
+    "thumbnailUrl": "https://framerusercontent.com/images/VVF44Vg2n8V7Lk6z7eH43gdY6w.jpg?scale-down-to=1024&width=3200&height=2400",
+    "masterUrl": "https://framerusercontent.com/images/VVF44Vg2n8V7Lk6z7eH43gdY6w.jpg?width=3200&height=2400",
+    "imageAlt": "Flexify project preview"
+  },
+  {
+    "order": 21,
+    "name": "Nexus AI",
+    "slug": "nexus-ai",
+    "categories": [
+      "AI"
+    ],
+    "externalUrl": "https://nexusai.framer.website/",
+    "thumbnailUrl": "https://framerusercontent.com/images/BNzwvj9aLbCPPeays4RiNQ8JNP0.jpg?scale-down-to=1024&width=3200&height=2400",
+    "masterUrl": "https://framerusercontent.com/images/BNzwvj9aLbCPPeays4RiNQ8JNP0.jpg?width=3200&height=2400",
+    "imageAlt": "Nexus AI project preview"
+  },
+  {
+    "order": 22,
+    "name": "Dailyhub",
+    "slug": "dailyhub",
+    "categories": [
+      "Business"
+    ],
+    "externalUrl": "https://dailyhub.framer.website/",
+    "thumbnailUrl": "https://framerusercontent.com/images/CEdvGqTZaaLFiXiSdNL1DHJOI.jpg?scale-down-to=1024&width=3200&height=2400",
+    "masterUrl": "https://framerusercontent.com/images/CEdvGqTZaaLFiXiSdNL1DHJOI.jpg?width=3200&height=2400",
+    "imageAlt": "Dailyhub project preview"
+  },
+  {
+    "order": 23,
+    "name": "Agentify",
+    "slug": "agentify",
+    "categories": [
+      "Portfolio"
+    ],
+    "externalUrl": "https://agentify.framer.website/",
+    "thumbnailUrl": "https://framerusercontent.com/images/xdEnlLaD5GE3PLewiCiXXjakLw.jpg?scale-down-to=1024&width=3200&height=2400",
+    "masterUrl": "https://framerusercontent.com/images/xdEnlLaD5GE3PLewiCiXXjakLw.jpg?width=3200&height=2400",
+    "imageAlt": "Agentify project preview"
+  },
+  {
+    "order": 24,
+    "name": "Protify",
+    "slug": "protify",
+    "categories": [
+      "Portfolio"
+    ],
+    "externalUrl": "https://protify.framer.website/",
+    "thumbnailUrl": "https://framerusercontent.com/images/olWW1WlfcsR5y2LkNUHQa4FQrI.jpg?scale-down-to=1024&width=3200&height=2400",
+    "masterUrl": "https://framerusercontent.com/images/olWW1WlfcsR5y2LkNUHQa4FQrI.jpg?width=3200&height=2400",
+    "imageAlt": "Protify project preview"
+  },
+  {
+    "order": 25,
+    "name": "Startify",
+    "slug": "startify",
+    "categories": [
+      "Business"
+    ],
+    "externalUrl": "https://startify.framer.website/",
+    "thumbnailUrl": "https://framerusercontent.com/images/bwGGYnVin4hQLeJPhdvJDM8yO6I.jpg?scale-down-to=1024&width=3200&height=2400",
+    "masterUrl": "https://framerusercontent.com/images/bwGGYnVin4hQLeJPhdvJDM8yO6I.jpg?width=3200&height=2400",
+    "imageAlt": "Startify project preview"
+  },
+  {
+    "order": 26,
+    "name": "Flowboard",
+    "slug": "flowboard",
+    "categories": [
+      "Business"
+    ],
+    "externalUrl": "https://flowboard.framer.website/",
+    "thumbnailUrl": "https://framerusercontent.com/images/ZnXIdG5NETG7LwuWtPfqYlgEaFc.jpg?scale-down-to=1024&width=3200&height=2400",
+    "masterUrl": "https://framerusercontent.com/images/ZnXIdG5NETG7LwuWtPfqYlgEaFc.jpg?width=3200&height=2400",
+    "imageAlt": "Flowboard project preview"
+  },
+  {
+    "order": 27,
+    "name": "Platify",
+    "slug": "platify",
+    "categories": [
+      "Business"
+    ],
+    "externalUrl": "https://platify.framer.website/",
+    "thumbnailUrl": "https://framerusercontent.com/images/3VUGMge5jE5qk3iBey0NLqhZE.jpg?scale-down-to=1024&width=3200&height=2400",
+    "masterUrl": "https://framerusercontent.com/images/3VUGMge5jE5qk3iBey0NLqhZE.jpg?width=3200&height=2400",
+    "imageAlt": "Platify project preview"
+  }
+]
