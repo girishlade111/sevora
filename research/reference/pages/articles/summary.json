@@ -1,0 +1,1361 @@
+{
+  "categories": {
+    "All articles": [
+      {
+        "href": "./articles/crafting-exceptional-user-experiences",
+        "fullHref": "https://sevora.framer.website/articles/crafting-exceptional-user-experiences",
+        "text": "UI | Design | 2 | min | read | Crafting | Exceptional | User | Experiences",
+        "imgSrc": "https://framerusercontent.com/images/HvEjI5nnCrtIvttqSWsyCuVM.jpg?scale-down-to=512&width=1037&height=691"
+      },
+      {
+        "href": "./articles/ui-design-elevating-experiences",
+        "fullHref": "https://sevora.framer.website/articles/ui-design-elevating-experiences",
+        "text": "UI | Design | 7 | min | read | UI | Design: | Elevating | Experiences",
+        "imgSrc": "https://framerusercontent.com/images/4cF7vTWqSD6k0W86ffeveQjsc2Q.png?scale-down-to=512&width=960&height=640"
+      },
+      {
+        "href": "./articles/the-ux-revolution-shaping-digital-experiences",
+        "fullHref": "https://sevora.framer.website/articles/the-ux-revolution-shaping-digital-experiences",
+        "text": "Product | design | 4 | min | read | The | UX | Revolution: | Shaping | Digital | Experiences",
+        "imgSrc": "https://framerusercontent.com/images/vss98kimC7Rm3BkWtOJ4E7PF0.png?scale-down-to=512&width=960&height=641"
+      },
+      {
+        "href": "./articles/mastering-ui-design-trends-a-deep-dive",
+        "fullHref": "https://sevora.framer.website/articles/mastering-ui-design-trends-a-deep-dive",
+        "text": "Product | design | 2 | min | read | Mastering | UI | Design | Trends: | A | Deep | Dive",
+        "imgSrc": "https://framerusercontent.com/images/5GbIrngxJhowImxRpAWUx622xc.png?scale-down-to=512&width=960&height=662"
+      },
+      {
+        "href": "./articles/the-power-of-responsive-web-design",
+        "fullHref": "https://sevora.framer.website/articles/the-power-of-responsive-web-design",
+        "text": "Product | design | 3 | min | read | The | Power | of | Responsive | Web | Design",
+        "imgSrc": "https://framerusercontent.com/images/gEuLZWqISbowA6Z5TeEzISEsgs.jpg?scale-down-to=512&width=1176&height=770"
+      },
+      {
+        "href": "./articles/mastering-the-craft-of-user-experience-design",
+        "fullHref": "https://sevora.framer.website/articles/mastering-the-craft-of-user-experience-design",
+        "text": "UI | Design | 3 | min | read | Mastering | the | Craft | of | User | Experience | Design",
+        "imgSrc": "https://framerusercontent.com/images/32Ao0YOpynUtm9KTYphzi9oT2eQ.jpg?scale-down-to=512&width=1037&height=691"
+      },
+      {
+        "href": "./articles/revolutionizing-ux-design",
+        "fullHref": "https://sevora.framer.website/articles/revolutionizing-ux-design",
+        "text": "UI | Design | 6 | min | read | Revolutionizing | UX | Design",
+        "imgSrc": "https://framerusercontent.com/images/KjsfCaVMvkjlLs2CFlHb4HZqE.jpg?scale-down-to=1024&width=982&height=1471"
+      },
+      {
+        "href": "./articles/10-web-design-trends-to-watch-in-2023",
+        "fullHref": "https://sevora.framer.website/articles/10-web-design-trends-to-watch-in-2023",
+        "text": "Web | design | 7 | min | read | Web | Design | Trends | Shaping | 2026",
+        "imgSrc": "https://framerusercontent.com/images/CteRnkedt2SHUnA2jjD4Ds7Y.jpg?width=726&height=908"
+      },
+      {
+        "href": "./articles/the-art-of-responsive-web-design",
+        "fullHref": "https://sevora.framer.website/articles/the-art-of-responsive-web-design",
+        "text": "Web | design | 5 | min | read | The | Art | of | Responsive | Web | Design",
+        "imgSrc": "https://framerusercontent.com/images/QvhBmuXxN4j9e9lYPSdADXY9mE.jpg?scale-down-to=512&width=1200&height=800"
+      },
+      {
+        "href": "./articles/boosting-website-performance-with-smart-design-practices",
+        "fullHref": "https://sevora.framer.website/articles/boosting-website-performance-with-smart-design-practices",
+        "text": "Web | design | 6 | min | read | Boosting | Website | Performance | with | Smart | Design | Practices",
+        "imgSrc": "https://framerusercontent.com/images/IBw4Si6UN9kcQoOJzmLjrFRQ.jpg?scale-down-to=512&width=1340&height=893"
+      },
+      {
+        "href": "./articles/crafting-exceptional-user-interfaces",
+        "fullHref": "https://sevora.framer.website/articles/crafting-exceptional-user-interfaces",
+        "text": "UI | Design | 6 | min | read | Crafting | Exceptional | User | Interfaces",
+        "imgSrc": "https://framerusercontent.com/images/GEAbPaLGvmC6oHqfJUtgkOIs4lA.jpg?scale-down-to=512&width=1188&height=668"
+      },
+      {
+        "href": "./articles/mastering-mobile-ui-design-best-practices-for-a-seamless-experience",
+        "fullHref": "https://sevora.framer.website/articles/mastering-mobile-ui-design-best-practices-for-a-seamless-experience",
+        "text": "UI | Design | 8 | min | read | Best | Practices | for | a | Seamless | Experience",
+        "imgSrc": "https://framerusercontent.com/images/6RUmSize6gWxKuNHFjc2Kg9Vkos.jpg?scale-down-to=512&width=1258&height=836"
+      }
+    ],
+    "Web design": [
+      {
+        "href": "./articles/10-web-design-trends-to-watch-in-2023",
+        "fullHref": "https://sevora.framer.website/articles/10-web-design-trends-to-watch-in-2023",
+        "text": "Web | design | 7 | min | read | Web | Design | Trends | Shaping | 2026",
+        "imgSrc": "https://framerusercontent.com/images/CteRnkedt2SHUnA2jjD4Ds7Y.jpg?width=726&height=908"
+      },
+      {
+        "href": "./articles/the-art-of-responsive-web-design",
+        "fullHref": "https://sevora.framer.website/articles/the-art-of-responsive-web-design",
+        "text": "Web | design | 5 | min | read | The | Art | of | Responsive | Web | Design",
+        "imgSrc": "https://framerusercontent.com/images/QvhBmuXxN4j9e9lYPSdADXY9mE.jpg?scale-down-to=512&width=1200&height=800"
+      },
+      {
+        "href": "./articles/boosting-website-performance-with-smart-design-practices",
+        "fullHref": "https://sevora.framer.website/articles/boosting-website-performance-with-smart-design-practices",
+        "text": "Web | design | 6 | min | read | Boosting | Website | Performance | with | Smart | Design | Practices",
+        "imgSrc": "https://framerusercontent.com/images/IBw4Si6UN9kcQoOJzmLjrFRQ.jpg?scale-down-to=512&width=1340&height=893"
+      }
+    ],
+    "Product design": [
+      {
+        "href": "./articles/the-ux-revolution-shaping-digital-experiences",
+        "fullHref": "https://sevora.framer.website/articles/the-ux-revolution-shaping-digital-experiences",
+        "text": "Product | design | 4 | min | read | The | UX | Revolution: | Shaping | Digital | Experiences",
+        "imgSrc": "https://framerusercontent.com/images/vss98kimC7Rm3BkWtOJ4E7PF0.png?scale-down-to=512&width=960&height=641"
+      },
+      {
+        "href": "./articles/mastering-ui-design-trends-a-deep-dive",
+        "fullHref": "https://sevora.framer.website/articles/mastering-ui-design-trends-a-deep-dive",
+        "text": "Product | design | 2 | min | read | Mastering | UI | Design | Trends: | A | Deep | Dive",
+        "imgSrc": "https://framerusercontent.com/images/5GbIrngxJhowImxRpAWUx622xc.png?scale-down-to=512&width=960&height=662"
+      },
+      {
+        "href": "./articles/the-power-of-responsive-web-design",
+        "fullHref": "https://sevora.framer.website/articles/the-power-of-responsive-web-design",
+        "text": "Product | design | 3 | min | read | The | Power | of | Responsive | Web | Design",
+        "imgSrc": "https://framerusercontent.com/images/gEuLZWqISbowA6Z5TeEzISEsgs.jpg?scale-down-to=512&width=1176&height=770"
+      }
+    ],
+    "UI Design": [
+      {
+        "href": "./articles/crafting-exceptional-user-experiences",
+        "fullHref": "https://sevora.framer.website/articles/crafting-exceptional-user-experiences",
+        "text": "UI | Design | 2 | min | read | Crafting | Exceptional | User | Experiences",
+        "imgSrc": "https://framerusercontent.com/images/HvEjI5nnCrtIvttqSWsyCuVM.jpg?scale-down-to=512&width=1037&height=691"
+      },
+      {
+        "href": "./articles/ui-design-elevating-experiences",
+        "fullHref": "https://sevora.framer.website/articles/ui-design-elevating-experiences",
+        "text": "UI | Design | 7 | min | read | UI | Design: | Elevating | Experiences",
+        "imgSrc": "https://framerusercontent.com/images/4cF7vTWqSD6k0W86ffeveQjsc2Q.png?scale-down-to=512&width=960&height=640"
+      },
+      {
+        "href": "./articles/mastering-the-craft-of-user-experience-design",
+        "fullHref": "https://sevora.framer.website/articles/mastering-the-craft-of-user-experience-design",
+        "text": "UI | Design | 3 | min | read | Mastering | the | Craft | of | User | Experience | Design",
+        "imgSrc": "https://framerusercontent.com/images/32Ao0YOpynUtm9KTYphzi9oT2eQ.jpg?scale-down-to=512&width=1037&height=691"
+      },
+      {
+        "href": "./articles/revolutionizing-ux-design",
+        "fullHref": "https://sevora.framer.website/articles/revolutionizing-ux-design",
+        "text": "UI | Design | 6 | min | read | Revolutionizing | UX | Design",
+        "imgSrc": "https://framerusercontent.com/images/KjsfCaVMvkjlLs2CFlHb4HZqE.jpg?scale-down-to=1024&width=982&height=1471"
+      },
+      {
+        "href": "./articles/crafting-exceptional-user-interfaces",
+        "fullHref": "https://sevora.framer.website/articles/crafting-exceptional-user-interfaces",
+        "text": "UI | Design | 6 | min | read | Crafting | Exceptional | User | Interfaces",
+        "imgSrc": "https://framerusercontent.com/images/GEAbPaLGvmC6oHqfJUtgkOIs4lA.jpg?scale-down-to=512&width=1188&height=668"
+      },
+      {
+        "href": "./articles/mastering-mobile-ui-design-best-practices-for-a-seamless-experience",
+        "fullHref": "https://sevora.framer.website/articles/mastering-mobile-ui-design-best-practices-for-a-seamless-experience",
+        "text": "UI | Design | 8 | min | read | Best | Practices | for | a | Seamless | Experience",
+        "imgSrc": "https://framerusercontent.com/images/6RUmSize6gWxKuNHFjc2Kg9Vkos.jpg?scale-down-to=512&width=1258&height=836"
+      }
+    ]
+  },
+  "loadMoreSteps": [
+    {
+      "step": 1,
+      "articles": [
+        {
+          "href": "./articles/crafting-exceptional-user-experiences",
+          "fullHref": "https://sevora.framer.website/articles/crafting-exceptional-user-experiences",
+          "text": "UI | Design | 2 | min | read | Crafting | Exceptional | User | Experiences",
+          "imgSrc": "https://framerusercontent.com/images/HvEjI5nnCrtIvttqSWsyCuVM.jpg?scale-down-to=512&width=1037&height=691"
+        },
+        {
+          "href": "./articles/ui-design-elevating-experiences",
+          "fullHref": "https://sevora.framer.website/articles/ui-design-elevating-experiences",
+          "text": "UI | Design | 7 | min | read | UI | Design: | Elevating | Experiences",
+          "imgSrc": "https://framerusercontent.com/images/4cF7vTWqSD6k0W86ffeveQjsc2Q.png?scale-down-to=512&width=960&height=640"
+        },
+        {
+          "href": "./articles/the-ux-revolution-shaping-digital-experiences",
+          "fullHref": "https://sevora.framer.website/articles/the-ux-revolution-shaping-digital-experiences",
+          "text": "Product | design | 4 | min | read | The | UX | Revolution: | Shaping | Digital | Experiences",
+          "imgSrc": "https://framerusercontent.com/images/vss98kimC7Rm3BkWtOJ4E7PF0.png?scale-down-to=512&width=960&height=641"
+        },
+        {
+          "href": "./articles/mastering-ui-design-trends-a-deep-dive",
+          "fullHref": "https://sevora.framer.website/articles/mastering-ui-design-trends-a-deep-dive",
+          "text": "Product | design | 2 | min | read | Mastering | UI | Design | Trends: | A | Deep | Dive",
+          "imgSrc": "https://framerusercontent.com/images/5GbIrngxJhowImxRpAWUx622xc.png?scale-down-to=512&width=960&height=662"
+        },
+        {
+          "href": "./articles/the-power-of-responsive-web-design",
+          "fullHref": "https://sevora.framer.website/articles/the-power-of-responsive-web-design",
+          "text": "Product | design | 3 | min | read | The | Power | of | Responsive | Web | Design",
+          "imgSrc": "https://framerusercontent.com/images/gEuLZWqISbowA6Z5TeEzISEsgs.jpg?scale-down-to=512&width=1176&height=770"
+        },
+        {
+          "href": "./articles/mastering-the-craft-of-user-experience-design",
+          "fullHref": "https://sevora.framer.website/articles/mastering-the-craft-of-user-experience-design",
+          "text": "UI | Design | 3 | min | read | Mastering | the | Craft | of | User | Experience | Design",
+          "imgSrc": "https://framerusercontent.com/images/32Ao0YOpynUtm9KTYphzi9oT2eQ.jpg?scale-down-to=512&width=1037&height=691"
+        },
+        {
+          "href": "./articles/revolutionizing-ux-design",
+          "fullHref": "https://sevora.framer.website/articles/revolutionizing-ux-design",
+          "text": "UI | Design | 6 | min | read | Revolutionizing | UX | Design",
+          "imgSrc": "https://framerusercontent.com/images/KjsfCaVMvkjlLs2CFlHb4HZqE.jpg?scale-down-to=1024&width=982&height=1471"
+        },
+        {
+          "href": "./articles/10-web-design-trends-to-watch-in-2023",
+          "fullHref": "https://sevora.framer.website/articles/10-web-design-trends-to-watch-in-2023",
+          "text": "Web | design | 7 | min | read | Web | Design | Trends | Shaping | 2026",
+          "imgSrc": "https://framerusercontent.com/images/CteRnkedt2SHUnA2jjD4Ds7Y.jpg?width=726&height=908"
+        },
+        {
+          "href": "./articles/the-art-of-responsive-web-design",
+          "fullHref": "https://sevora.framer.website/articles/the-art-of-responsive-web-design",
+          "text": "Web | design | 5 | min | read | The | Art | of | Responsive | Web | Design",
+          "imgSrc": "https://framerusercontent.com/images/QvhBmuXxN4j9e9lYPSdADXY9mE.jpg?scale-down-to=512&width=1200&height=800"
+        },
+        {
+          "href": "./articles/boosting-website-performance-with-smart-design-practices",
+          "fullHref": "https://sevora.framer.website/articles/boosting-website-performance-with-smart-design-practices",
+          "text": "Web | design | 6 | min | read | Boosting | Website | Performance | with | Smart | Design | Practices",
+          "imgSrc": "https://framerusercontent.com/images/IBw4Si6UN9kcQoOJzmLjrFRQ.jpg?scale-down-to=512&width=1340&height=893"
+        },
+        {
+          "href": "./articles/crafting-exceptional-user-interfaces",
+          "fullHref": "https://sevora.framer.website/articles/crafting-exceptional-user-interfaces",
+          "text": "UI | Design | 6 | min | read | Crafting | Exceptional | User | Interfaces",
+          "imgSrc": "https://framerusercontent.com/images/GEAbPaLGvmC6oHqfJUtgkOIs4lA.jpg?scale-down-to=512&width=1188&height=668"
+        },
+        {
+          "href": "./articles/mastering-mobile-ui-design-best-practices-for-a-seamless-experience",
+          "fullHref": "https://sevora.framer.website/articles/mastering-mobile-ui-design-best-practices-for-a-seamless-experience",
+          "text": "UI | Design | 8 | min | read | Best | Practices | for | a | Seamless | Experience",
+          "imgSrc": "https://framerusercontent.com/images/6RUmSize6gWxKuNHFjc2Kg9Vkos.jpg?scale-down-to=512&width=1258&height=836"
+        }
+      ]
+    }
+  ],
+  "details": {
+    "/./articles/crafting-exceptional-user-experiences": {
+      "title": "Sevora – Designer portfolio template",
+      "url": "https://sevora.framer.website//articles/crafting-exceptional-user-experiences",
+      "innerText": "Sevora\nHome\nAbout\nProjects\nArticles\nContact\nLet's talk\nSevora\nHome\nAbout\nProjects\nArticles\nContact\nLet's talk\n404 error\nPage not found\n\nWe're sorry, but the page you're looking for could not be found. It may have been moved, deleted, or never existed in the first place.\n\nBack to Home\nSevora\n\nCreating refined digital experiences with clarity, intention, and thoughtful execution.\n\nPages\nHome\nAbout\nProjects\nArticles\nContact\nSocial\nX link\nLinkedin\nDribbble\n© Sevora Template | Created by Stylokit\nMade in Framer\nGet the template\n\nCreate a free website with Framer, the website builder loved by startups, designers and agencies.",
+      "imgs": [
+        {
+          "src": "https://framerusercontent.com/images/urHsc2gl0mz8FFsPFV1HMTq2DnE.svg?width=26&height=26",
+          "alt": "",
+          "w": 26,
+          "h": 26,
+          "rect": {
+            "x": 144,
+            "y": 30,
+            "width": 24,
+            "height": 24,
+            "top": 30,
+            "right": 168,
+            "bottom": 54,
+            "left": 144
+          }
+        },
+        {
+          "src": "https://framerusercontent.com/images/urHsc2gl0mz8FFsPFV1HMTq2DnE.svg?width=26&height=26",
+          "alt": "",
+          "w": 26,
+          "h": 26,
+          "rect": {
+            "x": 397.125,
+            "y": -54,
+            "width": 24,
+            "height": 24,
+            "top": -54,
+            "right": 421.125,
+            "bottom": -30,
+            "left": 397.125
+          }
+        },
+        {
+          "src": "https://framerusercontent.com/images/urHsc2gl0mz8FFsPFV1HMTq2DnE.svg?width=26&height=26",
+          "alt": "",
+          "w": 26,
+          "h": 26,
+          "rect": {
+            "x": 176,
+            "y": 675,
+            "width": 24,
+            "height": 24,
+            "top": 675,
+            "right": 200,
+            "bottom": 699,
+            "left": 176
+          }
+        }
+      ],
+      "richBlocks": [
+        {
+          "tag": "H1",
+          "text": "Page not found",
+          "html": "Page not found",
+          "y": 228,
+          "fontFamily": "Lora, \"Lora Placeholder\", serif",
+          "fontSize": "56px"
+        },
+        {
+          "tag": "P",
+          "text": "We're sorry, but the page you're looking for could not be found. It may have been moved, deleted, or never existed in the first place.",
+          "html": "We're sorry, but the page you're looking for could not be found. It may have been moved, deleted, or never existed in the first place.",
+          "y": 308,
+          "fontFamily": "\"Instrument Sans\", \"Instrument Sans Placeholder\", sans-serif",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "P",
+          "text": "Creating refined digital experiences with clarity, intention, and thoughtful execution.",
+          "html": "Creating refined digital experiences with clarity, intention, and thoughtful execution.",
+          "y": 717,
+          "fontFamily": "\"Instrument Sans\", \"Instrument Sans Placeholder\", sans-serif",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "P",
+          "text": "Create a free website with Framer, the website builder loved by startups, designers and agencies.",
+          "html": "Create a free website with Framer, the website builder loved by startups, designers and agencies.",
+          "y": 860.9650268554688,
+          "fontFamily": "sans-serif",
+          "fontSize": "12px"
+        }
+      ]
+    },
+    "/./articles/ui-design-elevating-experiences": {
+      "title": "Sevora – Designer portfolio template",
+      "url": "https://sevora.framer.website//articles/ui-design-elevating-experiences",
+      "innerText": "Sevora\nHome\nAbout\nProjects\nArticles\nContact\nLet's talk\nSevora\nHome\nAbout\nProjects\nArticles\nContact\nLet's talk\n404 error\nPage not found\n\nWe're sorry, but the page you're looking for could not be found. It may have been moved, deleted, or never existed in the first place.\n\nBack to Home\nSevora\n\nCreating refined digital experiences with clarity, intention, and thoughtful execution.\n\nPages\nHome\nAbout\nProjects\nArticles\nContact\nSocial\nX link\nLinkedin\nDribbble\n© Sevora Template | Created by Stylokit\nMade in Framer\nGet the template\n\nCreate a free website with Framer, the website builder loved by startups, designers and agencies.",
+      "imgs": [
+        {
+          "src": "https://framerusercontent.com/images/urHsc2gl0mz8FFsPFV1HMTq2DnE.svg?width=26&height=26",
+          "alt": "",
+          "w": 26,
+          "h": 26,
+          "rect": {
+            "x": 144,
+            "y": 30,
+            "width": 24,
+            "height": 24,
+            "top": 30,
+            "right": 168,
+            "bottom": 54,
+            "left": 144
+          }
+        },
+        {
+          "src": "https://framerusercontent.com/images/urHsc2gl0mz8FFsPFV1HMTq2DnE.svg?width=26&height=26",
+          "alt": "",
+          "w": 26,
+          "h": 26,
+          "rect": {
+            "x": 397.125,
+            "y": -54,
+            "width": 24,
+            "height": 24,
+            "top": -54,
+            "right": 421.125,
+            "bottom": -30,
+            "left": 397.125
+          }
+        },
+        {
+          "src": "https://framerusercontent.com/images/urHsc2gl0mz8FFsPFV1HMTq2DnE.svg?width=26&height=26",
+          "alt": "",
+          "w": 26,
+          "h": 26,
+          "rect": {
+            "x": 176,
+            "y": 675,
+            "width": 24,
+            "height": 24,
+            "top": 675,
+            "right": 200,
+            "bottom": 699,
+            "left": 176
+          }
+        }
+      ],
+      "richBlocks": [
+        {
+          "tag": "H1",
+          "text": "Page not found",
+          "html": "Page not found",
+          "y": 228,
+          "fontFamily": "Lora, \"Lora Placeholder\", serif",
+          "fontSize": "56px"
+        },
+        {
+          "tag": "P",
+          "text": "We're sorry, but the page you're looking for could not be found. It may have been moved, deleted, or never existed in the first place.",
+          "html": "We're sorry, but the page you're looking for could not be found. It may have been moved, deleted, or never existed in the first place.",
+          "y": 308,
+          "fontFamily": "\"Instrument Sans\", \"Instrument Sans Placeholder\", sans-serif",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "P",
+          "text": "Creating refined digital experiences with clarity, intention, and thoughtful execution.",
+          "html": "Creating refined digital experiences with clarity, intention, and thoughtful execution.",
+          "y": 717,
+          "fontFamily": "\"Instrument Sans\", \"Instrument Sans Placeholder\", sans-serif",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "P",
+          "text": "Create a free website with Framer, the website builder loved by startups, designers and agencies.",
+          "html": "Create a free website with Framer, the website builder loved by startups, designers and agencies.",
+          "y": 860.9650268554688,
+          "fontFamily": "sans-serif",
+          "fontSize": "12px"
+        }
+      ]
+    },
+    "/./articles/the-ux-revolution-shaping-digital-experiences": {
+      "title": "Sevora – Designer portfolio template",
+      "url": "https://sevora.framer.website//articles/the-ux-revolution-shaping-digital-experiences",
+      "innerText": "Sevora\nHome\nAbout\nProjects\nArticles\nContact\nLet's talk\nSevora\nHome\nAbout\nProjects\nArticles\nContact\nLet's talk\n404 error\nPage not found\n\nWe're sorry, but the page you're looking for could not be found. It may have been moved, deleted, or never existed in the first place.\n\nBack to Home\nSevora\n\nCreating refined digital experiences with clarity, intention, and thoughtful execution.\n\nPages\nHome\nAbout\nProjects\nArticles\nContact\nSocial\nX link\nLinkedin\nDribbble\n© Sevora Template | Created by Stylokit\nMade in Framer\nGet the template\n\nCreate a free website with Framer, the website builder loved by startups, designers and agencies.",
+      "imgs": [
+        {
+          "src": "https://framerusercontent.com/images/urHsc2gl0mz8FFsPFV1HMTq2DnE.svg?width=26&height=26",
+          "alt": "",
+          "w": 26,
+          "h": 26,
+          "rect": {
+            "x": 144,
+            "y": 30,
+            "width": 24,
+            "height": 24,
+            "top": 30,
+            "right": 168,
+            "bottom": 54,
+            "left": 144
+          }
+        },
+        {
+          "src": "https://framerusercontent.com/images/urHsc2gl0mz8FFsPFV1HMTq2DnE.svg?width=26&height=26",
+          "alt": "",
+          "w": 26,
+          "h": 26,
+          "rect": {
+            "x": 397.125,
+            "y": -54,
+            "width": 24,
+            "height": 24,
+            "top": -54,
+            "right": 421.125,
+            "bottom": -30,
+            "left": 397.125
+          }
+        },
+        {
+          "src": "https://framerusercontent.com/images/urHsc2gl0mz8FFsPFV1HMTq2DnE.svg?width=26&height=26",
+          "alt": "",
+          "w": 26,
+          "h": 26,
+          "rect": {
+            "x": 176,
+            "y": 675,
+            "width": 24,
+            "height": 24,
+            "top": 675,
+            "right": 200,
+            "bottom": 699,
+            "left": 176
+          }
+        }
+      ],
+      "richBlocks": [
+        {
+          "tag": "H1",
+          "text": "Page not found",
+          "html": "Page not found",
+          "y": 228,
+          "fontFamily": "Lora, \"Lora Placeholder\", serif",
+          "fontSize": "56px"
+        },
+        {
+          "tag": "P",
+          "text": "We're sorry, but the page you're looking for could not be found. It may have been moved, deleted, or never existed in the first place.",
+          "html": "We're sorry, but the page you're looking for could not be found. It may have been moved, deleted, or never existed in the first place.",
+          "y": 308,
+          "fontFamily": "\"Instrument Sans\", \"Instrument Sans Placeholder\", sans-serif",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "P",
+          "text": "Creating refined digital experiences with clarity, intention, and thoughtful execution.",
+          "html": "Creating refined digital experiences with clarity, intention, and thoughtful execution.",
+          "y": 717,
+          "fontFamily": "\"Instrument Sans\", \"Instrument Sans Placeholder\", sans-serif",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "P",
+          "text": "Create a free website with Framer, the website builder loved by startups, designers and agencies.",
+          "html": "Create a free website with Framer, the website builder loved by startups, designers and agencies.",
+          "y": 860.9650268554688,
+          "fontFamily": "sans-serif",
+          "fontSize": "12px"
+        }
+      ]
+    },
+    "/./articles/mastering-ui-design-trends-a-deep-dive": {
+      "title": "Sevora – Designer portfolio template",
+      "url": "https://sevora.framer.website//articles/mastering-ui-design-trends-a-deep-dive",
+      "innerText": "Sevora\nHome\nAbout\nProjects\nArticles\nContact\nLet's talk\nSevora\nHome\nAbout\nProjects\nArticles\nContact\nLet's talk\n404 error\nPage not found\n\nWe're sorry, but the page you're looking for could not be found. It may have been moved, deleted, or never existed in the first place.\n\nBack to Home\nSevora\n\nCreating refined digital experiences with clarity, intention, and thoughtful execution.\n\nPages\nHome\nAbout\nProjects\nArticles\nContact\nSocial\nX link\nLinkedin\nDribbble\n© Sevora Template | Created by Stylokit\nMade in Framer\nGet the template\n\nCreate a free website with Framer, the website builder loved by startups, designers and agencies.",
+      "imgs": [
+        {
+          "src": "https://framerusercontent.com/images/urHsc2gl0mz8FFsPFV1HMTq2DnE.svg?width=26&height=26",
+          "alt": "",
+          "w": 26,
+          "h": 26,
+          "rect": {
+            "x": 144,
+            "y": 30,
+            "width": 24,
+            "height": 24,
+            "top": 30,
+            "right": 168,
+            "bottom": 54,
+            "left": 144
+          }
+        },
+        {
+          "src": "https://framerusercontent.com/images/urHsc2gl0mz8FFsPFV1HMTq2DnE.svg?width=26&height=26",
+          "alt": "",
+          "w": 26,
+          "h": 26,
+          "rect": {
+            "x": 397.125,
+            "y": -54,
+            "width": 24,
+            "height": 24,
+            "top": -54,
+            "right": 421.125,
+            "bottom": -30,
+            "left": 397.125
+          }
+        },
+        {
+          "src": "https://framerusercontent.com/images/urHsc2gl0mz8FFsPFV1HMTq2DnE.svg?width=26&height=26",
+          "alt": "",
+          "w": 26,
+          "h": 26,
+          "rect": {
+            "x": 176,
+            "y": 675,
+            "width": 24,
+            "height": 24,
+            "top": 675,
+            "right": 200,
+            "bottom": 699,
+            "left": 176
+          }
+        }
+      ],
+      "richBlocks": [
+        {
+          "tag": "H1",
+          "text": "Page not found",
+          "html": "Page not found",
+          "y": 228,
+          "fontFamily": "Lora, \"Lora Placeholder\", serif",
+          "fontSize": "56px"
+        },
+        {
+          "tag": "P",
+          "text": "We're sorry, but the page you're looking for could not be found. It may have been moved, deleted, or never existed in the first place.",
+          "html": "We're sorry, but the page you're looking for could not be found. It may have been moved, deleted, or never existed in the first place.",
+          "y": 308,
+          "fontFamily": "\"Instrument Sans\", \"Instrument Sans Placeholder\", sans-serif",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "P",
+          "text": "Creating refined digital experiences with clarity, intention, and thoughtful execution.",
+          "html": "Creating refined digital experiences with clarity, intention, and thoughtful execution.",
+          "y": 717,
+          "fontFamily": "\"Instrument Sans\", \"Instrument Sans Placeholder\", sans-serif",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "P",
+          "text": "Create a free website with Framer, the website builder loved by startups, designers and agencies.",
+          "html": "Create a free website with Framer, the website builder loved by startups, designers and agencies.",
+          "y": 860.9650268554688,
+          "fontFamily": "sans-serif",
+          "fontSize": "12px"
+        }
+      ]
+    },
+    "/./articles/the-power-of-responsive-web-design": {
+      "title": "Sevora – Designer portfolio template",
+      "url": "https://sevora.framer.website//articles/the-power-of-responsive-web-design",
+      "innerText": "Sevora\nHome\nAbout\nProjects\nArticles\nContact\nLet's talk\nSevora\nHome\nAbout\nProjects\nArticles\nContact\nLet's talk\n404 error\nPage not found\n\nWe're sorry, but the page you're looking for could not be found. It may have been moved, deleted, or never existed in the first place.\n\nBack to Home\nSevora\n\nCreating refined digital experiences with clarity, intention, and thoughtful execution.\n\nPages\nHome\nAbout\nProjects\nArticles\nContact\nSocial\nX link\nLinkedin\nDribbble\n© Sevora Template | Created by Stylokit\nMade in Framer\nGet the template\n\nCreate a free website with Framer, the website builder loved by startups, designers and agencies.",
+      "imgs": [
+        {
+          "src": "https://framerusercontent.com/images/urHsc2gl0mz8FFsPFV1HMTq2DnE.svg?width=26&height=26",
+          "alt": "",
+          "w": 26,
+          "h": 26,
+          "rect": {
+            "x": 144,
+            "y": 30,
+            "width": 24,
+            "height": 24,
+            "top": 30,
+            "right": 168,
+            "bottom": 54,
+            "left": 144
+          }
+        },
+        {
+          "src": "https://framerusercontent.com/images/urHsc2gl0mz8FFsPFV1HMTq2DnE.svg?width=26&height=26",
+          "alt": "",
+          "w": 26,
+          "h": 26,
+          "rect": {
+            "x": 397.125,
+            "y": -54,
+            "width": 24,
+            "height": 24,
+            "top": -54,
+            "right": 421.125,
+            "bottom": -30,
+            "left": 397.125
+          }
+        },
+        {
+          "src": "https://framerusercontent.com/images/urHsc2gl0mz8FFsPFV1HMTq2DnE.svg?width=26&height=26",
+          "alt": "",
+          "w": 26,
+          "h": 26,
+          "rect": {
+            "x": 176,
+            "y": 675,
+            "width": 24,
+            "height": 24,
+            "top": 675,
+            "right": 200,
+            "bottom": 699,
+            "left": 176
+          }
+        }
+      ],
+      "richBlocks": [
+        {
+          "tag": "H1",
+          "text": "Page not found",
+          "html": "Page not found",
+          "y": 228,
+          "fontFamily": "Lora, \"Lora Placeholder\", serif",
+          "fontSize": "56px"
+        },
+        {
+          "tag": "P",
+          "text": "We're sorry, but the page you're looking for could not be found. It may have been moved, deleted, or never existed in the first place.",
+          "html": "We're sorry, but the page you're looking for could not be found. It may have been moved, deleted, or never existed in the first place.",
+          "y": 308,
+          "fontFamily": "\"Instrument Sans\", \"Instrument Sans Placeholder\", sans-serif",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "P",
+          "text": "Creating refined digital experiences with clarity, intention, and thoughtful execution.",
+          "html": "Creating refined digital experiences with clarity, intention, and thoughtful execution.",
+          "y": 717,
+          "fontFamily": "\"Instrument Sans\", \"Instrument Sans Placeholder\", sans-serif",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "P",
+          "text": "Create a free website with Framer, the website builder loved by startups, designers and agencies.",
+          "html": "Create a free website with Framer, the website builder loved by startups, designers and agencies.",
+          "y": 860.9650268554688,
+          "fontFamily": "sans-serif",
+          "fontSize": "12px"
+        }
+      ]
+    },
+    "/./articles/mastering-the-craft-of-user-experience-design": {
+      "title": "Sevora – Designer portfolio template",
+      "url": "https://sevora.framer.website//articles/mastering-the-craft-of-user-experience-design",
+      "innerText": "Sevora\nHome\nAbout\nProjects\nArticles\nContact\nLet's talk\nSevora\nHome\nAbout\nProjects\nArticles\nContact\nLet's talk\n404 error\nPage not found\n\nWe're sorry, but the page you're looking for could not be found. It may have been moved, deleted, or never existed in the first place.\n\nBack to Home\nSevora\n\nCreating refined digital experiences with clarity, intention, and thoughtful execution.\n\nPages\nHome\nAbout\nProjects\nArticles\nContact\nSocial\nX link\nLinkedin\nDribbble\n© Sevora Template | Created by Stylokit\nMade in Framer\nGet the template\n\nCreate a free website with Framer, the website builder loved by startups, designers and agencies.",
+      "imgs": [
+        {
+          "src": "https://framerusercontent.com/images/urHsc2gl0mz8FFsPFV1HMTq2DnE.svg?width=26&height=26",
+          "alt": "",
+          "w": 26,
+          "h": 26,
+          "rect": {
+            "x": 144,
+            "y": 30,
+            "width": 24,
+            "height": 24,
+            "top": 30,
+            "right": 168,
+            "bottom": 54,
+            "left": 144
+          }
+        },
+        {
+          "src": "https://framerusercontent.com/images/urHsc2gl0mz8FFsPFV1HMTq2DnE.svg?width=26&height=26",
+          "alt": "",
+          "w": 26,
+          "h": 26,
+          "rect": {
+            "x": 397.125,
+            "y": -54,
+            "width": 24,
+            "height": 24,
+            "top": -54,
+            "right": 421.125,
+            "bottom": -30,
+            "left": 397.125
+          }
+        },
+        {
+          "src": "https://framerusercontent.com/images/urHsc2gl0mz8FFsPFV1HMTq2DnE.svg?width=26&height=26",
+          "alt": "",
+          "w": 26,
+          "h": 26,
+          "rect": {
+            "x": 176,
+            "y": 675,
+            "width": 24,
+            "height": 24,
+            "top": 675,
+            "right": 200,
+            "bottom": 699,
+            "left": 176
+          }
+        }
+      ],
+      "richBlocks": [
+        {
+          "tag": "H1",
+          "text": "Page not found",
+          "html": "Page not found",
+          "y": 228,
+          "fontFamily": "Lora, \"Lora Placeholder\", serif",
+          "fontSize": "56px"
+        },
+        {
+          "tag": "P",
+          "text": "We're sorry, but the page you're looking for could not be found. It may have been moved, deleted, or never existed in the first place.",
+          "html": "We're sorry, but the page you're looking for could not be found. It may have been moved, deleted, or never existed in the first place.",
+          "y": 308,
+          "fontFamily": "\"Instrument Sans\", \"Instrument Sans Placeholder\", sans-serif",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "P",
+          "text": "Creating refined digital experiences with clarity, intention, and thoughtful execution.",
+          "html": "Creating refined digital experiences with clarity, intention, and thoughtful execution.",
+          "y": 717,
+          "fontFamily": "\"Instrument Sans\", \"Instrument Sans Placeholder\", sans-serif",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "P",
+          "text": "Create a free website with Framer, the website builder loved by startups, designers and agencies.",
+          "html": "Create a free website with Framer, the website builder loved by startups, designers and agencies.",
+          "y": 860.9650268554688,
+          "fontFamily": "sans-serif",
+          "fontSize": "12px"
+        }
+      ]
+    },
+    "/./articles/revolutionizing-ux-design": {
+      "title": "Sevora – Designer portfolio template",
+      "url": "https://sevora.framer.website//articles/revolutionizing-ux-design",
+      "innerText": "Sevora\nHome\nAbout\nProjects\nArticles\nContact\nLet's talk\nSevora\nHome\nAbout\nProjects\nArticles\nContact\nLet's talk\n404 error\nPage not found\n\nWe're sorry, but the page you're looking for could not be found. It may have been moved, deleted, or never existed in the first place.\n\nBack to Home\nSevora\n\nCreating refined digital experiences with clarity, intention, and thoughtful execution.\n\nPages\nHome\nAbout\nProjects\nArticles\nContact\nSocial\nX link\nLinkedin\nDribbble\n© Sevora Template | Created by Stylokit\nMade in Framer\nGet the template\n\nCreate a free website with Framer, the website builder loved by startups, designers and agencies.",
+      "imgs": [
+        {
+          "src": "https://framerusercontent.com/images/urHsc2gl0mz8FFsPFV1HMTq2DnE.svg?width=26&height=26",
+          "alt": "",
+          "w": 26,
+          "h": 26,
+          "rect": {
+            "x": 144,
+            "y": 30,
+            "width": 24,
+            "height": 24,
+            "top": 30,
+            "right": 168,
+            "bottom": 54,
+            "left": 144
+          }
+        },
+        {
+          "src": "https://framerusercontent.com/images/urHsc2gl0mz8FFsPFV1HMTq2DnE.svg?width=26&height=26",
+          "alt": "",
+          "w": 26,
+          "h": 26,
+          "rect": {
+            "x": 397.125,
+            "y": -54,
+            "width": 24,
+            "height": 24,
+            "top": -54,
+            "right": 421.125,
+            "bottom": -30,
+            "left": 397.125
+          }
+        },
+        {
+          "src": "https://framerusercontent.com/images/urHsc2gl0mz8FFsPFV1HMTq2DnE.svg?width=26&height=26",
+          "alt": "",
+          "w": 26,
+          "h": 26,
+          "rect": {
+            "x": 176,
+            "y": 675,
+            "width": 24,
+            "height": 24,
+            "top": 675,
+            "right": 200,
+            "bottom": 699,
+            "left": 176
+          }
+        }
+      ],
+      "richBlocks": [
+        {
+          "tag": "H1",
+          "text": "Page not found",
+          "html": "Page not found",
+          "y": 228,
+          "fontFamily": "Lora, \"Lora Placeholder\", serif",
+          "fontSize": "56px"
+        },
+        {
+          "tag": "P",
+          "text": "We're sorry, but the page you're looking for could not be found. It may have been moved, deleted, or never existed in the first place.",
+          "html": "We're sorry, but the page you're looking for could not be found. It may have been moved, deleted, or never existed in the first place.",
+          "y": 308,
+          "fontFamily": "\"Instrument Sans\", \"Instrument Sans Placeholder\", sans-serif",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "P",
+          "text": "Creating refined digital experiences with clarity, intention, and thoughtful execution.",
+          "html": "Creating refined digital experiences with clarity, intention, and thoughtful execution.",
+          "y": 717,
+          "fontFamily": "\"Instrument Sans\", \"Instrument Sans Placeholder\", sans-serif",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "P",
+          "text": "Create a free website with Framer, the website builder loved by startups, designers and agencies.",
+          "html": "Create a free website with Framer, the website builder loved by startups, designers and agencies.",
+          "y": 860.9650268554688,
+          "fontFamily": "sans-serif",
+          "fontSize": "12px"
+        }
+      ]
+    },
+    "/./articles/10-web-design-trends-to-watch-in-2023": {
+      "title": "Sevora – Designer portfolio template",
+      "url": "https://sevora.framer.website//articles/10-web-design-trends-to-watch-in-2023",
+      "innerText": "Sevora\nHome\nAbout\nProjects\nArticles\nContact\nLet's talk\nSevora\nHome\nAbout\nProjects\nArticles\nContact\nLet's talk\n404 error\nPage not found\n\nWe're sorry, but the page you're looking for could not be found. It may have been moved, deleted, or never existed in the first place.\n\nBack to Home\nSevora\n\nCreating refined digital experiences with clarity, intention, and thoughtful execution.\n\nPages\nHome\nAbout\nProjects\nArticles\nContact\nSocial\nX link\nLinkedin\nDribbble\n© Sevora Template | Created by Stylokit\nMade in Framer\nGet the template\n\nCreate a free website with Framer, the website builder loved by startups, designers and agencies.",
+      "imgs": [
+        {
+          "src": "https://framerusercontent.com/images/urHsc2gl0mz8FFsPFV1HMTq2DnE.svg?width=26&height=26",
+          "alt": "",
+          "w": 26,
+          "h": 26,
+          "rect": {
+            "x": 144,
+            "y": 30,
+            "width": 24,
+            "height": 24,
+            "top": 30,
+            "right": 168,
+            "bottom": 54,
+            "left": 144
+          }
+        },
+        {
+          "src": "https://framerusercontent.com/images/urHsc2gl0mz8FFsPFV1HMTq2DnE.svg?width=26&height=26",
+          "alt": "",
+          "w": 26,
+          "h": 26,
+          "rect": {
+            "x": 397.125,
+            "y": -54,
+            "width": 24,
+            "height": 24,
+            "top": -54,
+            "right": 421.125,
+            "bottom": -30,
+            "left": 397.125
+          }
+        },
+        {
+          "src": "https://framerusercontent.com/images/urHsc2gl0mz8FFsPFV1HMTq2DnE.svg?width=26&height=26",
+          "alt": "",
+          "w": 26,
+          "h": 26,
+          "rect": {
+            "x": 176,
+            "y": 675,
+            "width": 24,
+            "height": 24,
+            "top": 675,
+            "right": 200,
+            "bottom": 699,
+            "left": 176
+          }
+        }
+      ],
+      "richBlocks": [
+        {
+          "tag": "H1",
+          "text": "Page not found",
+          "html": "Page not found",
+          "y": 228,
+          "fontFamily": "Lora, \"Lora Placeholder\", serif",
+          "fontSize": "56px"
+        },
+        {
+          "tag": "P",
+          "text": "We're sorry, but the page you're looking for could not be found. It may have been moved, deleted, or never existed in the first place.",
+          "html": "We're sorry, but the page you're looking for could not be found. It may have been moved, deleted, or never existed in the first place.",
+          "y": 308,
+          "fontFamily": "\"Instrument Sans\", \"Instrument Sans Placeholder\", sans-serif",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "P",
+          "text": "Creating refined digital experiences with clarity, intention, and thoughtful execution.",
+          "html": "Creating refined digital experiences with clarity, intention, and thoughtful execution.",
+          "y": 717,
+          "fontFamily": "\"Instrument Sans\", \"Instrument Sans Placeholder\", sans-serif",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "P",
+          "text": "Create a free website with Framer, the website builder loved by startups, designers and agencies.",
+          "html": "Create a free website with Framer, the website builder loved by startups, designers and agencies.",
+          "y": 860.9650268554688,
+          "fontFamily": "sans-serif",
+          "fontSize": "12px"
+        }
+      ]
+    },
+    "/./articles/the-art-of-responsive-web-design": {
+      "title": "Sevora – Designer portfolio template",
+      "url": "https://sevora.framer.website//articles/the-art-of-responsive-web-design",
+      "innerText": "Sevora\nHome\nAbout\nProjects\nArticles\nContact\nLet's talk\nSevora\nHome\nAbout\nProjects\nArticles\nContact\nLet's talk\n404 error\nPage not found\n\nWe're sorry, but the page you're looking for could not be found. It may have been moved, deleted, or never existed in the first place.\n\nBack to Home\nSevora\n\nCreating refined digital experiences with clarity, intention, and thoughtful execution.\n\nPages\nHome\nAbout\nProjects\nArticles\nContact\nSocial\nX link\nLinkedin\nDribbble\n© Sevora Template | Created by Stylokit\nMade in Framer\nGet the template\n\nCreate a free website with Framer, the website builder loved by startups, designers and agencies.",
+      "imgs": [
+        {
+          "src": "https://framerusercontent.com/images/urHsc2gl0mz8FFsPFV1HMTq2DnE.svg?width=26&height=26",
+          "alt": "",
+          "w": 26,
+          "h": 26,
+          "rect": {
+            "x": 144,
+            "y": 30,
+            "width": 24,
+            "height": 24,
+            "top": 30,
+            "right": 168,
+            "bottom": 54,
+            "left": 144
+          }
+        },
+        {
+          "src": "https://framerusercontent.com/images/urHsc2gl0mz8FFsPFV1HMTq2DnE.svg?width=26&height=26",
+          "alt": "",
+          "w": 26,
+          "h": 26,
+          "rect": {
+            "x": 397.125,
+            "y": -54,
+            "width": 24,
+            "height": 24,
+            "top": -54,
+            "right": 421.125,
+            "bottom": -30,
+            "left": 397.125
+          }
+        },
+        {
+          "src": "https://framerusercontent.com/images/urHsc2gl0mz8FFsPFV1HMTq2DnE.svg?width=26&height=26",
+          "alt": "",
+          "w": 26,
+          "h": 26,
+          "rect": {
+            "x": 176,
+            "y": 675,
+            "width": 24,
+            "height": 24,
+            "top": 675,
+            "right": 200,
+            "bottom": 699,
+            "left": 176
+          }
+        }
+      ],
+      "richBlocks": [
+        {
+          "tag": "H1",
+          "text": "Page not found",
+          "html": "Page not found",
+          "y": 228,
+          "fontFamily": "Lora, \"Lora Placeholder\", serif",
+          "fontSize": "56px"
+        },
+        {
+          "tag": "P",
+          "text": "We're sorry, but the page you're looking for could not be found. It may have been moved, deleted, or never existed in the first place.",
+          "html": "We're sorry, but the page you're looking for could not be found. It may have been moved, deleted, or never existed in the first place.",
+          "y": 308,
+          "fontFamily": "\"Instrument Sans\", \"Instrument Sans Placeholder\", sans-serif",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "P",
+          "text": "Creating refined digital experiences with clarity, intention, and thoughtful execution.",
+          "html": "Creating refined digital experiences with clarity, intention, and thoughtful execution.",
+          "y": 717,
+          "fontFamily": "\"Instrument Sans\", \"Instrument Sans Placeholder\", sans-serif",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "P",
+          "text": "Create a free website with Framer, the website builder loved by startups, designers and agencies.",
+          "html": "Create a free website with Framer, the website builder loved by startups, designers and agencies.",
+          "y": 860.9650268554688,
+          "fontFamily": "sans-serif",
+          "fontSize": "12px"
+        }
+      ]
+    },
+    "/./articles/boosting-website-performance-with-smart-design-practices": {
+      "title": "Sevora – Designer portfolio template",
+      "url": "https://sevora.framer.website//articles/boosting-website-performance-with-smart-design-practices",
+      "innerText": "Sevora\nHome\nAbout\nProjects\nArticles\nContact\nLet's talk\nSevora\nHome\nAbout\nProjects\nArticles\nContact\nLet's talk\n404 error\nPage not found\n\nWe're sorry, but the page you're looking for could not be found. It may have been moved, deleted, or never existed in the first place.\n\nBack to Home\nSevora\n\nCreating refined digital experiences with clarity, intention, and thoughtful execution.\n\nPages\nHome\nAbout\nProjects\nArticles\nContact\nSocial\nX link\nLinkedin\nDribbble\n© Sevora Template | Created by Stylokit\nMade in Framer\nGet the template\n\nCreate a free website with Framer, the website builder loved by startups, designers and agencies.",
+      "imgs": [
+        {
+          "src": "https://framerusercontent.com/images/urHsc2gl0mz8FFsPFV1HMTq2DnE.svg?width=26&height=26",
+          "alt": "",
+          "w": 26,
+          "h": 26,
+          "rect": {
+            "x": 144,
+            "y": 30,
+            "width": 24,
+            "height": 24,
+            "top": 30,
+            "right": 168,
+            "bottom": 54,
+            "left": 144
+          }
+        },
+        {
+          "src": "https://framerusercontent.com/images/urHsc2gl0mz8FFsPFV1HMTq2DnE.svg?width=26&height=26",
+          "alt": "",
+          "w": 26,
+          "h": 26,
+          "rect": {
+            "x": 397.125,
+            "y": -54,
+            "width": 24,
+            "height": 24,
+            "top": -54,
+            "right": 421.125,
+            "bottom": -30,
+            "left": 397.125
+          }
+        },
+        {
+          "src": "https://framerusercontent.com/images/urHsc2gl0mz8FFsPFV1HMTq2DnE.svg?width=26&height=26",
+          "alt": "",
+          "w": 26,
+          "h": 26,
+          "rect": {
+            "x": 176,
+            "y": 675,
+            "width": 24,
+            "height": 24,
+            "top": 675,
+            "right": 200,
+            "bottom": 699,
+            "left": 176
+          }
+        }
+      ],
+      "richBlocks": [
+        {
+          "tag": "H1",
+          "text": "Page not found",
+          "html": "Page not found",
+          "y": 228,
+          "fontFamily": "Lora, \"Lora Placeholder\", serif",
+          "fontSize": "56px"
+        },
+        {
+          "tag": "P",
+          "text": "We're sorry, but the page you're looking for could not be found. It may have been moved, deleted, or never existed in the first place.",
+          "html": "We're sorry, but the page you're looking for could not be found. It may have been moved, deleted, or never existed in the first place.",
+          "y": 308,
+          "fontFamily": "\"Instrument Sans\", \"Instrument Sans Placeholder\", sans-serif",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "P",
+          "text": "Creating refined digital experiences with clarity, intention, and thoughtful execution.",
+          "html": "Creating refined digital experiences with clarity, intention, and thoughtful execution.",
+          "y": 717,
+          "fontFamily": "\"Instrument Sans\", \"Instrument Sans Placeholder\", sans-serif",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "P",
+          "text": "Create a free website with Framer, the website builder loved by startups, designers and agencies.",
+          "html": "Create a free website with Framer, the website builder loved by startups, designers and agencies.",
+          "y": 860.9650268554688,
+          "fontFamily": "sans-serif",
+          "fontSize": "12px"
+        }
+      ]
+    },
+    "/./articles/crafting-exceptional-user-interfaces": {
+      "title": "Sevora – Designer portfolio template",
+      "url": "https://sevora.framer.website//articles/crafting-exceptional-user-interfaces",
+      "innerText": "Sevora\nHome\nAbout\nProjects\nArticles\nContact\nLet's talk\nSevora\nHome\nAbout\nProjects\nArticles\nContact\nLet's talk\n404 error\nPage not found\n\nWe're sorry, but the page you're looking for could not be found. It may have been moved, deleted, or never existed in the first place.\n\nBack to Home\nSevora\n\nCreating refined digital experiences with clarity, intention, and thoughtful execution.\n\nPages\nHome\nAbout\nProjects\nArticles\nContact\nSocial\nX link\nLinkedin\nDribbble\n© Sevora Template | Created by Stylokit\nMade in Framer\nGet the template\n\nCreate a free website with Framer, the website builder loved by startups, designers and agencies.",
+      "imgs": [
+        {
+          "src": "https://framerusercontent.com/images/urHsc2gl0mz8FFsPFV1HMTq2DnE.svg?width=26&height=26",
+          "alt": "",
+          "w": 26,
+          "h": 26,
+          "rect": {
+            "x": 144,
+            "y": 30,
+            "width": 24,
+            "height": 24,
+            "top": 30,
+            "right": 168,
+            "bottom": 54,
+            "left": 144
+          }
+        },
+        {
+          "src": "https://framerusercontent.com/images/urHsc2gl0mz8FFsPFV1HMTq2DnE.svg?width=26&height=26",
+          "alt": "",
+          "w": 26,
+          "h": 26,
+          "rect": {
+            "x": 397.125,
+            "y": -54,
+            "width": 24,
+            "height": 24,
+            "top": -54,
+            "right": 421.125,
+            "bottom": -30,
+            "left": 397.125
+          }
+        },
+        {
+          "src": "https://framerusercontent.com/images/urHsc2gl0mz8FFsPFV1HMTq2DnE.svg?width=26&height=26",
+          "alt": "",
+          "w": 26,
+          "h": 26,
+          "rect": {
+            "x": 176,
+            "y": 675,
+            "width": 24,
+            "height": 24,
+            "top": 675,
+            "right": 200,
+            "bottom": 699,
+            "left": 176
+          }
+        }
+      ],
+      "richBlocks": [
+        {
+          "tag": "H1",
+          "text": "Page not found",
+          "html": "Page not found",
+          "y": 228,
+          "fontFamily": "Lora, \"Lora Placeholder\", serif",
+          "fontSize": "56px"
+        },
+        {
+          "tag": "P",
+          "text": "We're sorry, but the page you're looking for could not be found. It may have been moved, deleted, or never existed in the first place.",
+          "html": "We're sorry, but the page you're looking for could not be found. It may have been moved, deleted, or never existed in the first place.",
+          "y": 308,
+          "fontFamily": "\"Instrument Sans\", \"Instrument Sans Placeholder\", sans-serif",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "P",
+          "text": "Creating refined digital experiences with clarity, intention, and thoughtful execution.",
+          "html": "Creating refined digital experiences with clarity, intention, and thoughtful execution.",
+          "y": 717,
+          "fontFamily": "\"Instrument Sans\", \"Instrument Sans Placeholder\", sans-serif",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "P",
+          "text": "Create a free website with Framer, the website builder loved by startups, designers and agencies.",
+          "html": "Create a free website with Framer, the website builder loved by startups, designers and agencies.",
+          "y": 860.9650268554688,
+          "fontFamily": "sans-serif",
+          "fontSize": "12px"
+        }
+      ]
+    },
+    "/./articles/mastering-mobile-ui-design-best-practices-for-a-seamless-experience": {
+      "title": "Sevora – Designer portfolio template",
+      "url": "https://sevora.framer.website//articles/mastering-mobile-ui-design-best-practices-for-a-seamless-experience",
+      "innerText": "Sevora\nHome\nAbout\nProjects\nArticles\nContact\nLet's talk\nSevora\nHome\nAbout\nProjects\nArticles\nContact\nLet's talk\n404 error\nPage not found\n\nWe're sorry, but the page you're looking for could not be found. It may have been moved, deleted, or never existed in the first place.\n\nBack to Home\nSevora\n\nCreating refined digital experiences with clarity, intention, and thoughtful execution.\n\nPages\nHome\nAbout\nProjects\nArticles\nContact\nSocial\nX link\nLinkedin\nDribbble\n© Sevora Template | Created by Stylokit\nMade in Framer\nGet the template\n\nCreate a free website with Framer, the website builder loved by startups, designers and agencies.",
+      "imgs": [
+        {
+          "src": "https://framerusercontent.com/images/urHsc2gl0mz8FFsPFV1HMTq2DnE.svg?width=26&height=26",
+          "alt": "",
+          "w": 26,
+          "h": 26,
+          "rect": {
+            "x": 144,
+            "y": 30,
+            "width": 24,
+            "height": 24,
+            "top": 30,
+            "right": 168,
+            "bottom": 54,
+            "left": 144
+          }
+        },
+        {
+          "src": "https://framerusercontent.com/images/urHsc2gl0mz8FFsPFV1HMTq2DnE.svg?width=26&height=26",
+          "alt": "",
+          "w": 26,
+          "h": 26,
+          "rect": {
+            "x": 397.125,
+            "y": -54,
+            "width": 24,
+            "height": 24,
+            "top": -54,
+            "right": 421.125,
+            "bottom": -30,
+            "left": 397.125
+          }
+        },
+        {
+          "src": "https://framerusercontent.com/images/urHsc2gl0mz8FFsPFV1HMTq2DnE.svg?width=26&height=26",
+          "alt": "",
+          "w": 26,
+          "h": 26,
+          "rect": {
+            "x": 176,
+            "y": 675,
+            "width": 24,
+            "height": 24,
+            "top": 675,
+            "right": 200,
+            "bottom": 699,
+            "left": 176
+          }
+        }
+      ],
+      "richBlocks": [
+        {
+          "tag": "H1",
+          "text": "Page not found",
+          "html": "Page not found",
+          "y": 228,
+          "fontFamily": "Lora, \"Lora Placeholder\", serif",
+          "fontSize": "56px"
+        },
+        {
+          "tag": "P",
+          "text": "We're sorry, but the page you're looking for could not be found. It may have been moved, deleted, or never existed in the first place.",
+          "html": "We're sorry, but the page you're looking for could not be found. It may have been moved, deleted, or never existed in the first place.",
+          "y": 308,
+          "fontFamily": "\"Instrument Sans\", \"Instrument Sans Placeholder\", sans-serif",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "P",
+          "text": "Creating refined digital experiences with clarity, intention, and thoughtful execution.",
+          "html": "Creating refined digital experiences with clarity, intention, and thoughtful execution.",
+          "y": 717,
+          "fontFamily": "\"Instrument Sans\", \"Instrument Sans Placeholder\", sans-serif",
+          "fontSize": "16px"
+        },
+        {
+          "tag": "P",
+          "text": "Create a free website with Framer, the website builder loved by startups, designers and agencies.",
+          "html": "Create a free website with Framer, the website builder loved by startups, designers and agencies.",
+          "y": 860.9650268554688,
+          "fontFamily": "sans-serif",
+          "fontSize": "12px"
+        }
+      ]
+    }
+  },
+  "initial": [
+    {
+      "href": "./articles/crafting-exceptional-user-experiences",
+      "fullHref": "https://sevora.framer.website/articles/crafting-exceptional-user-experiences",
+      "text": "UI | Design | 2 | min | read | Crafting | Exceptional | User | Experiences",
+      "imgSrc": "https://framerusercontent.com/images/HvEjI5nnCrtIvttqSWsyCuVM.jpg?scale-down-to=512&width=1037&height=691"
+    },
+    {
+      "href": "./articles/ui-design-elevating-experiences",
+      "fullHref": "https://sevora.framer.website/articles/ui-design-elevating-experiences",
+      "text": "UI | Design | 7 | min | read | UI | Design: | Elevating | Experiences",
+      "imgSrc": "https://framerusercontent.com/images/4cF7vTWqSD6k0W86ffeveQjsc2Q.png?scale-down-to=512&width=960&height=640"
+    },
+    {
+      "href": "./articles/the-ux-revolution-shaping-digital-experiences",
+      "fullHref": "https://sevora.framer.website/articles/the-ux-revolution-shaping-digital-experiences",
+      "text": "Product | design | 4 | min | read | The | UX | Revolution: | Shaping | Digital | Experiences",
+      "imgSrc": "https://framerusercontent.com/images/vss98kimC7Rm3BkWtOJ4E7PF0.png?scale-down-to=512&width=960&height=641"
+    },
+    {
+      "href": "./articles/mastering-ui-design-trends-a-deep-dive",
+      "fullHref": "https://sevora.framer.website/articles/mastering-ui-design-trends-a-deep-dive",
+      "text": "Product | design | 2 | min | read | Mastering | UI | Design | Trends: | A | Deep | Dive",
+      "imgSrc": "https://framerusercontent.com/images/5GbIrngxJhowImxRpAWUx622xc.png?scale-down-to=512&width=960&height=662"
+    },
+    {
+      "href": "./articles/the-power-of-responsive-web-design",
+      "fullHref": "https://sevora.framer.website/articles/the-power-of-responsive-web-design",
+      "text": "Product | design | 3 | min | read | The | Power | of | Responsive | Web | Design",
+      "imgSrc": "https://framerusercontent.com/images/gEuLZWqISbowA6Z5TeEzISEsgs.jpg?scale-down-to=512&width=1176&height=770"
+    },
+    {
+      "href": "./articles/mastering-the-craft-of-user-experience-design",
+      "fullHref": "https://sevora.framer.website/articles/mastering-the-craft-of-user-experience-design",
+      "text": "UI | Design | 3 | min | read | Mastering | the | Craft | of | User | Experience | Design",
+      "imgSrc": "https://framerusercontent.com/images/32Ao0YOpynUtm9KTYphzi9oT2eQ.jpg?scale-down-to=512&width=1037&height=691"
+    },
+    {
+      "href": "./articles/revolutionizing-ux-design",
+      "fullHref": "https://sevora.framer.website/articles/revolutionizing-ux-design",
+      "text": "UI | Design | 6 | min | read | Revolutionizing | UX | Design",
+      "imgSrc": "https://framerusercontent.com/images/KjsfCaVMvkjlLs2CFlHb4HZqE.jpg?scale-down-to=1024&width=982&height=1471"
+    },
+    {
+      "href": "./articles/10-web-design-trends-to-watch-in-2023",
+      "fullHref": "https://sevora.framer.website/articles/10-web-design-trends-to-watch-in-2023",
+      "text": "Web | design | 7 | min | read | Web | Design | Trends | Shaping | 2026",
+      "imgSrc": "https://framerusercontent.com/images/CteRnkedt2SHUnA2jjD4Ds7Y.jpg?width=726&height=908"
+    },
+    {
+      "href": "./articles/the-art-of-responsive-web-design",
+      "fullHref": "https://sevora.framer.website/articles/the-art-of-responsive-web-design",
+      "text": "Web | design | 5 | min | read | The | Art | of | Responsive | Web | Design",
+      "imgSrc": "https://framerusercontent.com/images/QvhBmuXxN4j9e9lYPSdADXY9mE.jpg?scale-down-to=512&width=1200&height=800"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "scrollWidth": 390,
+  "innerWidth": 390,
+  "h1FontSize": "48px",
+  "headerRect": {
+    "x": 0,
+    "y": 0,
+    "width": 390,
+    "height": 68,
+    "top": 0,
+    "right": 390,
+    "bottom": 68,
+    "left": 0
+  }
+}

@@ -1,0 +1,468 @@
+{
+  "selects": [
+    {
+      "name": "Location",
+      "required": true,
+      "options": [
+        {
+          "value": "",
+          "text": "Select…",
+          "disabled": true,
+          "selected": true
+        },
+        {
+          "value": "brand_identity",
+          "text": "Brand identity",
+          "disabled": false,
+          "selected": false
+        },
+        {
+          "value": "website_design",
+          "text": "Website design",
+          "disabled": false,
+          "selected": false
+        },
+        {
+          "value": "framer_development",
+          "text": "Framer development",
+          "disabled": false,
+          "selected": false
+        },
+        {
+          "value": "product_design",
+          "text": "Product design",
+          "disabled": false,
+          "selected": false
+        },
+        {
+          "value": "landing_page",
+          "text": "Landing page",
+          "disabled": false,
+          "selected": false
+        },
+        {
+          "value": "other",
+          "text": "Other",
+          "disabled": false,
+          "selected": false
+        }
+      ],
+      "rect": {
+        "x": 184,
+        "y": 710,
+        "width": 476,
+        "height": 40,
+        "top": 710,
+        "right": 660,
+        "bottom": 750,
+        "left": 184
+      }
+    },
+    {
+      "name": "Location",
+      "required": true,
+      "options": [
+        {
+          "value": "",
+          "text": "Select…",
+          "disabled": true,
+          "selected": true
+        },
+        {
+          "value": "under_1k",
+          "text": "Under $1,000",
+          "disabled": false,
+          "selected": false
+        },
+        {
+          "value": "1k_3k",
+          "text": "$1,000 – $3,000",
+          "disabled": false,
+          "selected": false
+        },
+        {
+          "value": "3k_5k",
+          "text": "$3,000 – $5,000",
+          "disabled": false,
+          "selected": false
+        },
+        {
+          "value": "5k_10k",
+          "text": "$5,000 – $10,000",
+          "disabled": false,
+          "selected": false
+        },
+        {
+          "value": "10k_plus",
+          "text": "$10,000+",
+          "disabled": false,
+          "selected": false
+        },
+        {
+          "value": "not_sure_yet",
+          "text": "Not sure yet",
+          "disabled": false,
+          "selected": false
+        }
+      ],
+      "rect": {
+        "x": 184,
+        "y": 792,
+        "width": 476,
+        "height": 40,
+        "top": 792,
+        "right": 660,
+        "bottom": 832,
+        "left": 184
+      }
+    }
+  ],
+  "inputs": [
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "Name",
+      "placeholder": "Jane Smith",
+      "required": false,
+      "rect": {
+        "x": 196,
+        "y": 560,
+        "width": 464,
+        "height": 16,
+        "top": 560,
+        "right": 660,
+        "bottom": 576,
+        "left": 196
+      },
+      "cs": {
+        "height": "16px",
+        "borderRadius": "0px",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "border": "0px none rgb(18, 18, 24)"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "type": "email",
+      "name": "Email",
+      "placeholder": "jane@framer.com",
+      "required": false,
+      "rect": {
+        "x": 196,
+        "y": 640,
+        "width": 464,
+        "height": 16,
+        "top": 640,
+        "right": 660,
+        "bottom": 656,
+        "left": 196
+      },
+      "cs": {
+        "height": "16px",
+        "borderRadius": "0px",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "border": "0px none rgb(18, 18, 24)"
+      }
+    },
+    {
+      "tag": "TEXTAREA",
+      "type": "textarea",
+      "name": "Name",
+      "placeholder": "Tell me about your project...",
+      "required": false,
+      "rect": {
+        "x": 184,
+        "y": 872,
+        "width": 488,
+        "height": 120,
+        "top": 872,
+        "right": 672,
+        "bottom": 992,
+        "left": 184
+      },
+      "cs": {
+        "height": "120px",
+        "borderRadius": "0px",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "border": "0px none rgb(18, 18, 24)"
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "type": "submit",
+      "name": "",
+      "placeholder": null,
+      "required": null,
+      "rect": {
+        "x": 184,
+        "y": 1016,
+        "width": 488,
+        "height": 40,
+        "top": 1016,
+        "right": 672,
+        "bottom": 1056,
+        "left": 184
+      },
+      "cs": {
+        "height": "40px",
+        "borderRadius": "10px",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "border": "0px outset rgb(0, 0, 0)"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "website",
+      "placeholder": "",
+      "required": false,
+      "rect": {
+        "x": 261,
+        "y": 534,
+        "width": 0,
+        "height": 0,
+        "top": 534,
+        "right": 261,
+        "bottom": 534,
+        "left": 261
+      },
+      "cs": {
+        "height": "20px",
+        "borderRadius": "0px",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "2px inset rgb(118, 118, 118)"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "company",
+      "placeholder": "",
+      "required": false,
+      "rect": {
+        "x": 261,
+        "y": 534,
+        "width": 0,
+        "height": 0,
+        "top": 534,
+        "right": 261,
+        "bottom": 534,
+        "left": 261
+      },
+      "cs": {
+        "height": "20px",
+        "borderRadius": "0px",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "2px inset rgb(118, 118, 118)"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "message",
+      "placeholder": "",
+      "required": false,
+      "rect": {
+        "x": 261,
+        "y": 534,
+        "width": 0,
+        "height": 0,
+        "top": 534,
+        "right": 261,
+        "bottom": 534,
+        "left": 261
+      },
+      "cs": {
+        "height": "20px",
+        "borderRadius": "0px",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "2px inset rgb(118, 118, 118)"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "subject",
+      "placeholder": "",
+      "required": false,
+      "rect": {
+        "x": 261,
+        "y": 534,
+        "width": 0,
+        "height": 0,
+        "top": 534,
+        "right": 261,
+        "bottom": 534,
+        "left": 261
+      },
+      "cs": {
+        "height": "20px",
+        "borderRadius": "0px",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "2px inset rgb(118, 118, 118)"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "title",
+      "placeholder": "",
+      "required": false,
+      "rect": {
+        "x": 261,
+        "y": 534,
+        "width": 0,
+        "height": 0,
+        "top": 534,
+        "right": 261,
+        "bottom": 534,
+        "left": 261
+      },
+      "cs": {
+        "height": "20px",
+        "borderRadius": "0px",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "2px inset rgb(118, 118, 118)"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "description",
+      "placeholder": "",
+      "required": false,
+      "rect": {
+        "x": 261,
+        "y": 534,
+        "width": 0,
+        "height": 0,
+        "top": 534,
+        "right": 261,
+        "bottom": 534,
+        "left": 261
+      },
+      "cs": {
+        "height": "20px",
+        "borderRadius": "0px",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "2px inset rgb(118, 118, 118)"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "feedback",
+      "placeholder": "",
+      "required": false,
+      "rect": {
+        "x": 261,
+        "y": 534,
+        "width": 0,
+        "height": 0,
+        "top": 534,
+        "right": 261,
+        "bottom": 534,
+        "left": 261
+      },
+      "cs": {
+        "height": "20px",
+        "borderRadius": "0px",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "2px inset rgb(118, 118, 118)"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "notes",
+      "placeholder": "",
+      "required": false,
+      "rect": {
+        "x": 261,
+        "y": 534,
+        "width": 0,
+        "height": 0,
+        "top": 534,
+        "right": 261,
+        "bottom": 534,
+        "left": 261
+      },
+      "cs": {
+        "height": "20px",
+        "borderRadius": "0px",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "2px inset rgb(118, 118, 118)"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "details",
+      "placeholder": "",
+      "required": false,
+      "rect": {
+        "x": 261,
+        "y": 534,
+        "width": 0,
+        "height": 0,
+        "top": 534,
+        "right": 261,
+        "bottom": 534,
+        "left": 261
+      },
+      "cs": {
+        "height": "20px",
+        "borderRadius": "0px",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "2px inset rgb(118, 118, 118)"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "remarks",
+      "placeholder": "",
+      "required": false,
+      "rect": {
+        "x": 261,
+        "y": 534,
+        "width": 0,
+        "height": 0,
+        "top": 534,
+        "right": 261,
+        "bottom": 534,
+        "left": 261
+      },
+      "cs": {
+        "height": "20px",
+        "borderRadius": "0px",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "2px inset rgb(118, 118, 118)"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "comments",
+      "placeholder": "",
+      "required": false,
+      "rect": {
+        "x": 261,
+        "y": 534,
+        "width": 0,
+        "height": 0,
+        "top": 534,
+        "right": 261,
+        "bottom": 534,
+        "left": 261
+      },
+      "cs": {
+        "height": "20px",
+        "borderRadius": "0px",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "border": "2px inset rgb(118, 118, 118)"
+      }
+    }
+  ],
+  "text": "Sevora\nHome\nAbout\nProjects\nArticles\nContact\nLet's talk\nSevora\nHome\nAbout\nProjects\nArticles\nContact\nLet's talk\nContact\nLet's talk about your next project\n\nHave a brand, website or product idea in mind? Share a few details and I'll get back to you soon.\n\nName\n\nEmail\n\nProject type\n\nSelect…\nBrand identity\nWebsite design\nFramer development\nProduct design\nLanding page\nOther\n\nBudget range\n\nSelect…\nUnder $1,000\n$1,000 – $3,000\n$3,000 – $5,000\n$5,000 – $10,000\n$10,000+\nNot sure yet\n\nMessage\n\nSend message\nAvailable for selected projects\n\nCurrently accepting new projects\n\nEmail\n\nhello@sevora.com\n\nLocation\n\nTallinn, Estonia / Remote\n\nResponsive time\n\nWithin 24 hours\n\nSevora\n\nCreating refined digital experiences with clarity, intention, and thoughtful execution.\n\nPages\nHome\nAbout\nProjects\nArticles\nContact\nSocial\nX link\nLinkedin\nDribbble\n© Sevora Template | Created by Stylokit\nMade in Framer\nGet the template\n\nCreate a free website with Framer, the website builder loved by startups, designers and agencies."
+}
