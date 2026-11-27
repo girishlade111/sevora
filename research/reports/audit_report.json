@@ -231,19 +231,18 @@
       "route": "/",
       "violations": [
         {
-          "id": "aria-prohibited-attr",
-          "impact": "serious",
-          "nodes": 2,
-          "description": "Ensure ARIA attributes are not prohibited for an element's role"
-        },
-        {
           "id": "color-contrast",
           "impact": "serious",
           "nodes": 1,
+          "targets": [
+            [
+              ".BenefitsSection_badgeExpert__r1iif"
+            ]
+          ],
           "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds"
         }
       ],
-      "passesCount": 44
+      "passesCount": 45
     },
     {
       "route": "/about",
@@ -252,14 +251,7 @@
     },
     {
       "route": "/projects",
-      "violations": [
-        {
-          "id": "heading-order",
-          "impact": "moderate",
-          "nodes": 1,
-          "description": "Ensure the order of headings is semantically correct"
-        }
-      ],
+      "violations": [],
       "passesCount": 44
     },
     {
@@ -279,18 +271,18 @@
       "height": 900,
       "refHeight": 900,
       "implHeight": 900,
-      "diffPixels": 68058,
+      "diffPixels": 68219,
       "totalPixels": 1296000,
-      "diffPercent": 5.25
+      "diffPercent": 5.26
     },
     "contact-full": {
       "width": 1440,
       "height": 1734,
       "refHeight": 1913,
       "implHeight": 1734,
-      "diffPixels": 313609,
+      "diffPixels": 313248,
       "totalPixels": 2496960,
-      "diffPercent": 12.56
+      "diffPercent": 12.55
     },
     "projects-full": {
       "width": 1440,
@@ -306,22 +298,20 @@
       "height": 2348,
       "refHeight": 2983,
       "implHeight": 2348,
-      "diffPixels": 1131543,
+      "diffPixels": 1131510,
       "totalPixels": 3381120,
       "diffPercent": 33.47
     },
     "about-full": {
       "width": 1440,
-      "height": 4585,
+      "height": 4665,
       "refHeight": 5275,
-      "implHeight": 4585,
-      "diffPixels": 1552337,
-      "totalPixels": 6602400,
-      "diffPercent": 23.51
+      "implHeight": 4665,
+      "diffPixels": 1588781,
+      "totalPixels": 6717600,
+      "diffPercent": 23.65
     }
   },
-  "consoleErrors": [
-    "Failed to load resource: the server responded with a status of 404 (Not Found)"
-  ],
+  "consoleErrors": [],
   "networkErrors": []
 }
