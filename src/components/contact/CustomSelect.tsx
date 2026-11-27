@@ -108,6 +108,7 @@ export function CustomSelect({
           ref={buttonRef}
           id={id}
           type="button"
+          role="combobox"
           aria-haspopup="listbox"
           aria-expanded={open}
           aria-labelledby={`${labelId} ${id}`}
