@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Framer",
+    "svgs": [],
+    "imgs": []
+  },
+  {
+    "name": "Figma",
+    "svgs": [],
+    "imgs": [
+      "https://framerusercontent.com/images/ALQstMfPrtqwn4YcWXNvneT92fg.svg?scale-down-to=512&width=800&height=800"
+    ]
+  },
+  {
+    "name": "illustrator",
+    "svgs": [],
+    "imgs": [
+      "https://framerusercontent.com/images/Xc4LE3LkV6WFbkGO1O4vvBb1v0.png?scale-down-to=512&width=960&height=960"
+    ]
+  },
+  {
+    "name": "Photoshop",
+    "svgs": [],
+    "imgs": [
+      "https://framerusercontent.com/images/BDVysRFEd3LQfO5Kta9TDvjYlM.svg?width=42&height=42"
+    ]
+  },
+  {
+    "name": "Webflow",
+    "svgs": [],
+    "imgs": [
+      "https://framerusercontent.com/images/5xFWoMTW4cSYWo5t83cv8Yp6Ao.svg?scale-down-to=512&width=1080&height=1080"
+    ]
+  }
+]
