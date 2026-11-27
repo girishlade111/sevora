@@ -1,0 +1,167 @@
+.section {
+  padding-block: 64px 80px;
+}
+
+.stickyViewport {
+  position: relative;
+}
+
+.header {
+  max-width: 620px;
+  margin-inline: auto;
+  text-align: center;
+}
+
+.heading {
+  font-family: var(--heading-font);
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 40px;
+  letter-spacing: -0.72px;
+  color: var(--text-primary);
+}
+
+.description {
+  margin-top: 12px;
+  font-size: 16px;
+  line-height: 24px;
+  color: var(--text-secondary);
+}
+
+.layout {
+  margin-top: 48px;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 24px;
+  align-items: center;
+}
+
+.selectorList {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.serviceCard {
+  width: 100%;
+  text-align: left;
+  padding: 24px;
+  border-radius: 16px;
+  border: 1px solid transparent;
+  background: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  transition: background-color 220ms ease, border-color 220ms ease, box-shadow 220ms ease;
+}
+
+.serviceCard:hover {
+  background: rgba(255, 255, 255, 0.56);
+}
+
+.serviceCardActive {
+  background: var(--surface-white);
+  border-color: var(--border-subtle);
+  box-shadow: var(--shadow-card);
+}
+
+.serviceCardActive:hover {
+  background: var(--surface-white);
+}
+
+.iconBox {
+  width: 32px;
+  height: 32px;
+  border-radius: 8px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--text-secondary);
+  background: transparent;
+  transition: background-color 220ms ease, color 220ms ease;
+}
+
+.iconBoxActive {
+  background: var(--text-primary);
+  color: var(--text-inverse);
+}
+
+.serviceTitle {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 28px;
+  letter-spacing: -0.4px;
+  color: var(--text-primary);
+}
+
+.serviceDesc {
+  margin-top: 6px;
+  font-size: 15px;
+  line-height: 22px;
+  color: var(--text-secondary);
+}
+
+.graphicStage {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  max-height: 580px;
+  border-radius: 16px;
+  border: 1px solid rgba(13, 41, 0, 0.1);
+  background: var(--page-background);
+  overflow: hidden;
+}
+
+.graphicImg {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  transition: opacity 280ms ease;
+}
+
+.graphicActive {
+  opacity: 1;
+  z-index: 2;
+}
+
+.graphicHidden {
+  opacity: 0;
+  z-index: 1;
+  pointer-events: none;
+}
+
+@media (min-width: 900px) {
+  .section {
+    min-height: 2600px;
+    padding-block: 48px 64px;
+  }
+
+  .stickyViewport {
+    position: sticky;
+    top: 84px;
+    padding-top: 24px;
+  }
+
+  .heading {
+    font-size: 36px;
+    line-height: 48px;
+  }
+
+  .layout {
+    grid-template-columns: 1fr 576px;
+    gap: 40px;
+    align-items: center;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .section {
+    min-height: auto;
+  }
+
+  .stickyViewport {
+    position: static;
+  }
+}

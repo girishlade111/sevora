@@ -1,0 +1,446 @@
+.section {
+  padding-block: 72px 80px;
+}
+
+.header {
+  max-width: 620px;
+  margin-inline: auto;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.heading {
+  margin-top: 16px;
+  font-family: var(--heading-font);
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 40px;
+  letter-spacing: -0.72px;
+  color: var(--text-primary);
+}
+
+.description {
+  margin-top: 12px;
+  font-size: 16px;
+  line-height: 24px;
+  color: var(--text-secondary);
+}
+
+.grid {
+  margin-top: 48px;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 20px;
+}
+
+.card {
+  background: var(--surface-white);
+  border: 1px solid var(--border-subtle);
+  border-radius: 20px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  box-shadow: var(--shadow-soft);
+}
+
+.previewCanvas {
+  position: relative;
+  height: 224px;
+  background: linear-gradient(180deg, #fafafa 0%, #f5f5f7 100%);
+  border-bottom: 1px solid rgba(18, 18, 24, 0.05);
+  overflow: hidden;
+}
+
+.cardBody {
+  padding: 24px;
+}
+
+.cardTitle {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 28px;
+  letter-spacing: -0.48px;
+  color: var(--text-primary);
+}
+
+.cardDesc {
+  margin-top: 8px;
+  font-size: 14px;
+  line-height: 21px;
+  color: var(--text-secondary);
+}
+
+/* Card 01: Design System Preview */
+.dsWorkspace {
+  height: 100%;
+  padding: 18px 16px 0;
+  display: flex;
+  align-items: flex-start;
+  gap: 14px;
+}
+
+.dsToolbar {
+  background: #f0f1f4;
+  border-radius: 12px;
+  padding: 6px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin-top: 12px;
+}
+
+.dsToolBtn {
+  width: 28px;
+  height: 28px;
+  border-radius: 8px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  color: #6b6e76;
+}
+
+.dsToolBtnActive {
+  background: var(--surface-white);
+  color: var(--text-primary);
+  box-shadow: 0 2px 6px rgba(18, 18, 24, 0.08);
+}
+
+.dsFrame {
+  position: relative;
+  flex: 1;
+  border-top: 1px solid #2e2e36;
+  border-left: 1px solid #2e2e36;
+  padding: 16px 0 0 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.dsHandle {
+  position: absolute;
+  top: -4px;
+  left: -4px;
+  width: 7px;
+  height: 7px;
+  background: #ffffff;
+  border: 1.5px solid #2e2e36;
+}
+
+.dsRow {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.dsRowFaded {
+  opacity: 0.45;
+}
+
+.dsGhostBadge {
+  width: 26px;
+  height: 26px;
+  border-radius: 7px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.dsGhostLight {
+  background: #e9eaee;
+  color: #121218;
+}
+
+.dsGhostDark {
+  background: #121218;
+  color: #ffffff;
+}
+
+.dsGhostOutline {
+  background: #ffffff;
+  border: 1px solid #d4d6dc;
+  color: #121218;
+}
+
+.dsBtnChip {
+  font-size: 12px;
+  font-weight: 500;
+  padding: 5px 12px;
+  border-radius: 8px;
+  white-space: nowrap;
+}
+
+.dsChipPrimary {
+  background: #e4e6eb;
+  color: #121218;
+}
+
+.dsChipSecondary {
+  background: #121218;
+  color: #ffffff;
+}
+
+.dsChipOutline {
+  background: #ffffff;
+  border: 1px solid #d4d6dc;
+  color: #121218;
+}
+
+.dsChipGhost {
+  font-size: 12px;
+  font-weight: 500;
+  color: #7c808a;
+  padding: 5px 10px;
+}
+
+.dsSwatchChip {
+  font-size: 11px;
+  font-weight: 500;
+  padding: 5px 12px;
+  border-radius: 9999px;
+  white-space: nowrap;
+}
+
+.dsSwatchGray {
+  background: #ffffff;
+  border: 1px solid #e0e2e6;
+  color: #44454c;
+}
+
+.dsSwatchYellow {
+  background: #f5f5f7;
+  border: 1px solid #e0e2e6;
+  color: #44454c;
+}
+
+.dsSwatchDawn {
+  background: #eceef2;
+  color: #44454c;
+}
+
+.dsSwatchPink {
+  background: linear-gradient(180deg, #989ca6 0%, #c8cbd2 100%);
+  color: #ffffff;
+}
+
+/* Card 02: Analytics Preview */
+.analyticsWrap {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.analyticsChart {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+.analyticsTooltip {
+  position: absolute;
+  top: 22px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 196px;
+  background: #ffffff;
+  border: 1px solid #e6e8ec;
+  border-radius: 12px;
+  padding: 12px 14px;
+  box-shadow: 0 10px 24px rgba(18, 18, 24, 0.08);
+}
+
+.tooltipDate {
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--text-primary);
+  margin-bottom: 8px;
+}
+
+.tooltipRow {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 11px;
+  line-height: 20px;
+}
+
+.tooltipLabel {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  color: var(--text-secondary);
+}
+
+.dotMuted {
+  width: 7px;
+  height: 7px;
+  border-radius: 9999px;
+  background: #9ca3af;
+}
+
+.dotDark {
+  width: 7px;
+  height: 7px;
+  border-radius: 9999px;
+  background: #3f424a;
+}
+
+.tooltipValue {
+  font-weight: 600;
+  color: var(--text-primary);
+  font-variant-numeric: tabular-nums;
+}
+
+/* Card 03: Framer Execution Preview */
+.framerWrap {
+  height: 100%;
+  padding: 16px 20px 0;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.framerNotif {
+  align-self: flex-start;
+  background: #ffffff;
+  border: 1px solid #e6e8ec;
+  border-radius: 12px;
+  padding: 8px 12px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  box-shadow: 0 6px 16px rgba(18, 18, 24, 0.06);
+}
+
+.framerNotifAvatar {
+  width: 26px;
+  height: 26px;
+  border-radius: 9999px;
+  object-fit: cover;
+}
+
+.framerNotifTitle {
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--text-primary);
+  line-height: 14px;
+}
+
+.framerNotifMeta {
+  font-size: 10px;
+  color: var(--text-muted);
+}
+
+.framerCard {
+  background: #ffffff;
+  border: 1px solid #e6e8ec;
+  border-radius: 14px 14px 0 0;
+  padding: 12px 14px 0;
+  flex: 1;
+}
+
+.framerBadges {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.badgeAvailable {
+  font-size: 9px;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  padding: 2px 7px;
+  border-radius: 5px;
+  background: #dcfce7;
+  color: #15803d;
+}
+
+.badgeExpert {
+  font-size: 9px;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  padding: 2px 7px;
+  border-radius: 5px;
+  background: #8b5cf6;
+  color: #ffffff;
+}
+
+.framerHeart {
+  margin-left: auto;
+  width: 22px;
+  height: 22px;
+  border-radius: 9999px;
+  background: #f3f4f6;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  color: #4b5563;
+}
+
+.framerAgencyRow {
+  margin-top: 10px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.framerAgencyMark {
+  width: 30px;
+  height: 30px;
+  border-radius: 9999px;
+  background: #121218;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 5px;
+}
+
+.framerAgencyMark img {
+  filter: invert(1);
+}
+
+.framerAgencyName {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--text-primary);
+}
+
+.framerAgencyLocation {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 10px;
+  color: var(--text-muted);
+}
+
+.framerThumbGrid {
+  margin-top: 10px;
+  border-radius: 8px 8px 0 0;
+  overflow: hidden;
+}
+
+.framerThumbImg {
+  width: 100%;
+  height: 76px;
+  object-fit: cover;
+  object-position: top center;
+}
+
+@media (min-width: 900px) {
+  .heading {
+    font-size: 36px;
+    line-height: 48px;
+  }
+
+  .grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 24px;
+  }
+
+  .cardTitle {
+    font-size: 24px;
+    line-height: 32px;
+  }
+}

@@ -1,0 +1,124 @@
+.section {
+  padding-block: 72px 88px;
+}
+
+.layout {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 40px;
+  align-items: start;
+}
+
+.stickyCol {
+  max-width: 420px;
+}
+
+.heading {
+  margin-top: 16px;
+  font-family: var(--heading-font);
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 40px;
+  letter-spacing: -0.72px;
+  color: var(--text-primary);
+}
+
+.description {
+  margin-top: 12px;
+  font-size: 16px;
+  line-height: 24px;
+  color: var(--text-secondary);
+}
+
+.timelineCol {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.connectorLine {
+  position: absolute;
+  left: 39px;
+  top: 40px;
+  bottom: 40px;
+  width: 1px;
+  background: var(--border-subtle);
+  z-index: 0;
+}
+
+.phaseCard {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+  padding: 24px;
+  border-radius: 16px;
+  border: 1px solid transparent;
+  background: transparent;
+  transition: background-color 240ms ease, border-color 240ms ease, box-shadow 240ms ease;
+}
+
+.phaseCardActive {
+  background: var(--surface-white);
+  border-color: var(--border-subtle);
+  box-shadow: var(--shadow-soft);
+}
+
+.iconCircle {
+  flex-shrink: 0;
+  width: 32px;
+  height: 32px;
+  border-radius: 9999px;
+  background: var(--page-background);
+  border: 1px solid var(--border-subtle);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--text-secondary);
+  transition: background-color 240ms ease, color 240ms ease, box-shadow 240ms ease;
+}
+
+.iconCircleActive {
+  background: var(--surface-white);
+  color: var(--text-primary);
+  box-shadow: 0 4px 12px rgba(18, 18, 24, 0.08);
+}
+
+.phaseTitle {
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 26px;
+  color: var(--text-primary);
+}
+
+.phaseDesc {
+  margin-top: 6px;
+  font-size: 15px;
+  line-height: 22px;
+  color: var(--text-secondary);
+}
+
+@media (min-width: 900px) {
+  .layout {
+    grid-template-columns: 1fr 1.15fr;
+    gap: 64px;
+  }
+
+  .stickyCol {
+    position: sticky;
+    top: 120px;
+  }
+
+  .heading {
+    font-size: 36px;
+    line-height: 48px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .stickyCol {
+    position: static;
+  }
+}

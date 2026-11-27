@@ -1,0 +1,220 @@
+.header {
+  width: 100%;
+  height: 84px;
+  position: relative;
+  z-index: var(--z-header);
+}
+
+.inner {
+  width: 100%;
+  max-width: calc(var(--container-width) + var(--page-gutter) * 2);
+  height: 100%;
+  margin-inline: auto;
+  padding-inline: var(--page-gutter);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  flex-shrink: 0;
+}
+
+.brandMark {
+  width: 24px;
+  height: 24px;
+  object-fit: contain;
+}
+
+.brandName {
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  color: var(--text-primary);
+}
+
+.desktopNav {
+  display: none;
+  align-items: center;
+  gap: 8px;
+}
+
+.navLink {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 36px;
+  padding: 0 14px;
+  border-radius: 8px;
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--text-secondary);
+  transition: background-color var(--duration-fast) ease, color var(--duration-fast) ease;
+}
+
+.navLink:hover {
+  background-color: var(--surface-muted);
+  color: var(--text-primary);
+}
+
+.navLinkActive {
+  color: var(--text-primary);
+}
+
+.actions {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.ctaButton {
+  display: none;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  height: 36px;
+  padding: 0 14px;
+  border-radius: 8px;
+  background: var(--button-background);
+  color: var(--button-text);
+  font-size: 13px;
+  font-weight: 500;
+  box-shadow: var(--shadow-button);
+  transition: transform var(--duration-fast) ease, opacity var(--duration-fast) ease;
+  white-space: nowrap;
+}
+
+.ctaButton:hover {
+  background: var(--button-hover);
+  transform: translateY(-1px);
+}
+
+.menuButton {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 10px;
+  color: var(--text-primary);
+}
+
+.menuButton:hover {
+  background-color: var(--surface-muted);
+}
+
+.flyoutWrap {
+  display: none;
+}
+
+.mobileDrawer {
+  position: fixed;
+  top: 76px;
+  left: 16px;
+  right: 16px;
+  z-index: calc(var(--z-header) + 1);
+  background: var(--surface-white);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-card);
+  padding: 16px;
+  box-shadow: var(--shadow-floating);
+}
+
+.mobileNav {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.mobileLink {
+  display: flex;
+  align-items: center;
+  min-height: 44px;
+  padding: 0 14px;
+  border-radius: 10px;
+  font-size: 15px;
+  font-weight: 500;
+  color: var(--text-secondary);
+}
+
+.mobileLink:hover,
+.mobileLinkActive {
+  background: var(--surface-light);
+  color: var(--text-primary);
+}
+
+.mobileCta {
+  margin-top: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  height: 44px;
+  border-radius: 10px;
+  background: var(--button-background);
+  color: var(--button-text);
+  font-size: 14px;
+  font-weight: 500;
+}
+
+@media (min-width: 900px) {
+  .desktopNav {
+    display: flex;
+  }
+
+  .ctaButton {
+    display: inline-flex;
+  }
+
+  .menuButton {
+    display: none;
+  }
+
+  .mobileDrawer {
+    display: none;
+  }
+
+  .flyoutWrap {
+    display: flex;
+    justify-content: center;
+    position: fixed;
+    top: 16px;
+    left: 0;
+    right: 0;
+    z-index: var(--z-header);
+    pointer-events: none;
+    opacity: 0;
+    transform: translateY(-20px);
+    transition: opacity 220ms var(--ease-out-expo), transform 220ms var(--ease-out-expo);
+  }
+
+  .flyoutVisible {
+    opacity: 1;
+    transform: translateY(0);
+    pointer-events: auto;
+  }
+
+  .flyoutCapsule {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 16px;
+    width: 678px;
+    height: 52px;
+    padding: 0 8px 0 16px;
+    background: var(--surface-white);
+    border: 1px solid rgba(18, 18, 24, 0.08);
+    border-radius: 12px;
+    box-shadow: 0 10px 30px rgba(18, 18, 24, 0.08);
+  }
+
+  .flyoutNav {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+  }
+}

@@ -1,0 +1,179 @@
+.footer {
+  width: 100%;
+  padding-top: 80px;
+  padding-bottom: 32px;
+}
+
+.outerWrapper {
+  width: 100%;
+  max-width: calc(var(--footer-width) + var(--page-gutter) * 2);
+  margin-inline: auto;
+  padding-inline: var(--page-gutter);
+}
+
+.outerFrame {
+  border-radius: 24px;
+  padding: 8px 8px 0 8px;
+  background: rgba(255, 255, 255, 0.72);
+  border: 1px solid var(--border-subtle);
+  box-shadow: 0 24px 60px rgba(18, 18, 24, 0.08);
+  overflow: hidden;
+}
+
+.innerCard {
+  background: var(--surface-white);
+  border: 1px solid rgba(18, 18, 24, 0.06);
+  border-radius: 18px 18px 0 0;
+  padding: 36px 24px 0 24px;
+}
+
+.topGrid {
+  display: flex;
+  flex-direction: column;
+  gap: 36px;
+}
+
+.brandCol {
+  max-width: 280px;
+}
+
+.brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.brandMark {
+  width: 24px;
+  height: 24px;
+}
+
+.brandName {
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  color: var(--text-primary);
+}
+
+.tagline {
+  margin-top: 14px;
+  font-size: 14px;
+  line-height: 22px;
+  color: #61646b;
+}
+
+.navColumns {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(110px, 160px));
+  gap: 32px;
+}
+
+.colTitle {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--text-primary);
+  margin-bottom: 14px;
+}
+
+.linkList {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.footerLink {
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  letter-spacing: -0.01em;
+  color: #61646b;
+  transition: color var(--duration-fast) ease;
+}
+
+.footerLink:hover {
+  color: var(--text-primary);
+}
+
+.wordmarkStage {
+  margin-top: 48px;
+  width: 100%;
+  overflow: hidden;
+}
+
+.wordmarkMask {
+  width: 100%;
+  -webkit-mask-image: linear-gradient(0deg, rgba(0, 0, 0, 0) 8%, rgb(0, 0, 0) 96%);
+  mask-image: linear-gradient(0deg, rgba(0, 0, 0, 0) 8%, rgb(0, 0, 0) 96%);
+}
+
+.wordmarkImage {
+  width: 100%;
+  height: auto;
+  display: block;
+  object-fit: cover;
+  object-position: top center;
+}
+
+.bottomBar {
+  margin-inline: -8px;
+  background-color: var(--surface-dark-footer);
+  background-image: repeating-linear-gradient(
+    145deg,
+    rgba(255, 255, 255, 0.04),
+    rgba(255, 255, 255, 0.04) 1px,
+    transparent 1px,
+    transparent 4px
+  );
+  color: #a1a5ae;
+  padding: 18px 28px;
+}
+
+.bottomBarInner {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  font-size: 12px;
+  line-height: 18px;
+}
+
+.attributionLink {
+  color: var(--text-inverse);
+  font-weight: 500;
+}
+
+.attributionLink:hover {
+  text-decoration: underline;
+}
+
+.platformNote {
+  color: #d0d3da;
+  font-weight: 500;
+}
+
+@media (min-width: 768px) {
+  .innerCard {
+    padding: 48px 48px 0 48px;
+  }
+
+  .topGrid {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+  }
+
+  .navColumns {
+    gap: 64px;
+    margin-right: 48px;
+  }
+
+  .wordmarkStage {
+    margin-top: 84px;
+  }
+
+  .bottomBarInner {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+  }
+}
