@@ -1,0 +1,551 @@
+[
+  {
+    "sourceUrl": "https://framerusercontent.com/images/urHsc2gl0mz8FFsPFV1HMTq2DnE.svg?width=26&height=26",
+    "folder": "home",
+    "localPath": "assets-source\\original\\home\\urHsc2gl0mz8FFsPFV1HMTq2DnE.svg",
+    "status": "downloaded",
+    "size": 636,
+    "contentType": "image/svg+xml",
+    "sha256": "81bd01b859886f58789b8d0015343abdeb0d0b68828f6e38e8f9f3078c83f8db"
+  },
+  {
+    "sourceUrl": "https://framerusercontent.com/images/3Wbfg1JRGAb4TRMMz69WlQMTe8.png?width=2244&height=1904",
+    "folder": "home",
+    "localPath": "assets-source\\original\\home\\3Wbfg1JRGAb4TRMMz69WlQMTe8.png",
+    "status": "downloaded",
+    "size": 261131,
+    "contentType": "image/png",
+    "sha256": "9f20dd21803715da0a43b21cb1f8a035e964e0b2c7d23d00b12f05a84cd887c7"
+  },
+  {
+    "sourceUrl": "https://framerusercontent.com/images/IHneqoBbdHUCED6FYR137ZUxEqI.gif?width=500&height=500",
+    "folder": "home",
+    "localPath": "assets-source\\original\\home\\IHneqoBbdHUCED6FYR137ZUxEqI.gif",
+    "status": "downloaded",
+    "size": 2527116,
+    "contentType": "image/gif",
+    "sha256": "9f64ceb65ba464bd0492404239d80a8157a84926d024ac9944c5896effb1d78c"
+  },
+  {
+    "sourceUrl": "https://framerusercontent.com/images/fNNlYXrAGPgp4qHPRedQjrKpo9c.svg?width=615&height=203",
+    "folder": "home",
+    "localPath": "assets-source\\original\\home\\fNNlYXrAGPgp4qHPRedQjrKpo9c.svg",
+    "status": "downloaded",
+    "size": 2083458,
+    "contentType": "image/svg+xml",
+    "sha256": "4c1f35a96579be6aac7985ef1caf85cdc40be7a3c18c871dab65982e3c67e54c"
+  },
+  {
+    "sourceUrl": "https://framerusercontent.com/images/WpPH5o5mJSJkqfaHofbVcED1fiE.png?width=930&height=611",
+    "folder": "home",
+    "localPath": "assets-source\\original\\home\\WpPH5o5mJSJkqfaHofbVcED1fiE.png",
+    "status": "downloaded",
+    "size": 37314,
+    "contentType": "image/png",
+    "sha256": "8aca095a94a48f3eea9b52b45009805cf171bbdddb1a64182c5876c299f537c2"
+  },
+  {
+    "sourceUrl": "https://framerusercontent.com/images/ktcimUvwboXOgQi2AvOrS6Bj760.jpg?width=1600&height=1200",
+    "folder": "home",
+    "localPath": "assets-source\\original\\home\\ktcimUvwboXOgQi2AvOrS6Bj760.jpg",
+    "status": "downloaded",
+    "size": 323234,
+    "contentType": "image/jpeg",
+    "sha256": "75d8e77c3b63849c01eaa4ec64b53b61951dbbaa444f7861fd609e9afca4944f"
+  },
+  {
+    "sourceUrl": "https://framerusercontent.com/images/vYf7Bp88A2oX0r0rBYroXDxsSI.jpg?width=1600&height=1200",
+    "folder": "home",
+    "localPath": "assets-source\\original\\home\\vYf7Bp88A2oX0r0rBYroXDxsSI.jpg",
+    "status": "downloaded",
+    "size": 189876,
+    "contentType": "image/jpeg",
+    "sha256": "6993ce0a4179317c8721a9aae0391521381b58ecd0fb56a3cbf49bc7249ed0c9"
+  },
+  {
+    "sourceUrl": "https://framerusercontent.com/images/nLiypGqmKBGtEZ2OY7irFQiP5U.png?width=2400&height=1800",
+    "folder": "home",
+    "localPath": "assets-source\\original\\home\\nLiypGqmKBGtEZ2OY7irFQiP5U.png",
+    "status": "downloaded",
+    "size": 283196,
+    "contentType": "image/png",
+    "sha256": "052f07737fcf6c7c15899ba42c80508fd1a8010d73104f60aa46fc21f4206850"
+  },
+  {
+    "sourceUrl": "https://framerusercontent.com/images/HyuPygjhzSYcqtCkgqgwlcI.jpg?width=1600&height=1200",
+    "folder": "home",
+    "localPath": "assets-source\\original\\home\\HyuPygjhzSYcqtCkgqgwlcI.jpg",
+    "status": "downloaded",
+    "size": 108840,
+    "contentType": "image/jpeg",
+    "sha256": "8b67f052d725fe81ea4b1d2dca6eb4088179e5dbc2076afe290f7cd8743e7e90"
+  },
+  {
+    "sourceUrl": "https://framerusercontent.com/images/hg1KCy1TvxmM2dGVwS3krViR44.png?width=3200&height=2400",
+    "folder": "home",
+    "localPath": "assets-source\\original\\home\\hg1KCy1TvxmM2dGVwS3krViR44.png",
+    "status": "downloaded",
+    "size": 281310,
+    "contentType": "image/png",
+    "sha256": "92cb98842ea108c7d7e84a07559e366abec36822e913714e5fe89477499ada5c"
+  },
+  {
+    "sourceUrl": "https://framerusercontent.com/images/aqshn4kinOsmEgg1K88qujb0A5M.jpg?width=1600&height=1200",
+    "folder": "home",
+    "localPath": "assets-source\\original\\home\\aqshn4kinOsmEgg1K88qujb0A5M.jpg",
+    "status": "downloaded",
+    "size": 225875,
+    "contentType": "image/jpeg",
+    "sha256": "7aa36b39daea20f767cc8813f1c5428478ca86704e33318e6227f9fdb3ed0d04"
+  },
+  {
+    "sourceUrl": "https://framerusercontent.com/images/7n35wdG8jtT2LMgYCpqeBkSo6s.jpg?width=527&height=527",
+    "folder": "home",
+    "localPath": "assets-source\\original\\home\\7n35wdG8jtT2LMgYCpqeBkSo6s.jpg",
+    "status": "downloaded",
+    "size": 47498,
+    "contentType": "image/jpeg",
+    "sha256": "57a827b8f0e8b89083adb0f48269f469d973ae97cce4ea1df4f621162e77c14e"
+  },
+  {
+    "sourceUrl": "https://framerusercontent.com/images/s45yKcA8Ca8Yoakc4y2MawGRx0.jpg?width=509&height=509",
+    "folder": "home",
+    "localPath": "assets-source\\original\\home\\s45yKcA8Ca8Yoakc4y2MawGRx0.jpg",
+    "status": "downloaded",
+    "size": 37772,
+    "contentType": "image/jpeg",
+    "sha256": "649df908166034bcd9085f304bc136390655902d9d3fff596f914feb56e52fb1"
+  },
+  {
+    "sourceUrl": "https://framerusercontent.com/images/S9PyleA1z5ugBA2Z87N0r7h5VA.jpg?width=504&height=504",
+    "folder": "home",
+    "localPath": "assets-source\\original\\home\\S9PyleA1z5ugBA2Z87N0r7h5VA.jpg",
+    "status": "downloaded",
+    "size": 26166,
+    "contentType": "image/jpeg",
+    "sha256": "2d78e81c4c7c814cc31746a8696c36fb759a59455f41bd95a73b74f22c414d4a"
+  },
+  {
+    "sourceUrl": "https://framerusercontent.com/images/nFTyhTg9mtSiD0Oh51DGHixETM.jpg?width=583&height=583",
+    "folder": "home",
+    "localPath": "assets-source\\original\\home\\nFTyhTg9mtSiD0Oh51DGHixETM.jpg",
+    "status": "downloaded",
+    "size": 49638,
+    "contentType": "image/jpeg",
+    "sha256": "f974f74f026d15554e41d0c6d533efa15fed27ef4306488cbce825d3c0b9a0f6"
+  },
+  {
+    "sourceUrl": "https://framerusercontent.com/images/qeYrxqQc9vll222pCTtaYWDxo.jpg?width=515&height=515",
+    "folder": "home",
+    "localPath": "assets-source\\original\\home\\qeYrxqQc9vll222pCTtaYWDxo.jpg",
+    "status": "downloaded",
+    "size": 35348,
+    "contentType": "image/jpeg",
+    "sha256": "6277ec3090d91fe6242e7cdbf6d70af1a7fa68edde0be9d3af67d390f77d7711"
+  },
+  {
+    "sourceUrl": "https://framerusercontent.com/images/rZmnnPdh2NfRFd8GwnJmVeCq5Ow.jpg?width=555&height=555",
+    "folder": "home",
+    "localPath": "assets-source\\original\\home\\rZmnnPdh2NfRFd8GwnJmVeCq5Ow.jpg",
+    "status": "downloaded",
+    "size": 30396,
+    "contentType": "image/jpeg",
+    "sha256": "435bcaa17ebed07a99606ea87dec257fa25ad3fc468adf3f1594f88f03fd3c65"
+  },
+  {
+    "sourceUrl": "https://framerusercontent.com/images/F7xKBZD13OAZS7v2lY0Dm198.png?width=288&height=288",
+    "folder": "home",
+    "localPath": "assets-source\\original\\home\\F7xKBZD13OAZS7v2lY0Dm198.png",
+    "status": "downloaded",
+    "size": 15006,
+    "contentType": "image/png",
+    "sha256": "678ddb84d9f66e602ca7659a8cf43b351e708488ab6ce6608b8b94cdff5cb604"
+  },
+  {
+    "sourceUrl": "https://framerusercontent.com/images/cgXwgj75ijDSBCwJjLkPHR8f8.png?width=512&height=152",
+    "folder": "about",
+    "localPath": "assets-source\\original\\about\\cgXwgj75ijDSBCwJjLkPHR8f8.png",
+    "status": "downloaded",
+    "size": 2615,
+    "contentType": "image/png",
+    "sha256": "bb6f8753beb03f97288369cc1e2f1d58e2cf0f89bd46b1eb11235360446dc7ec"
+  },
+  {
+    "sourceUrl": "https://framerusercontent.com/images/xr7AByWMQArTJoUQ72juGc1wbI.jpg?width=2244&height=2244",
+    "folder": "about",
+    "localPath": "assets-source\\original\\about\\xr7AByWMQArTJoUQ72juGc1wbI.jpg",
+    "status": "downloaded",
+    "size": 423912,
+    "contentType": "image/jpeg",
+    "sha256": "b3301eb90e9038154b88f59d933e45c8ccfeecd927cb58033c890022178d77d8"
+  },
+  {
+    "sourceUrl": "https://framerusercontent.com/images/tM9dFJoYpuPFsgm0rEyiucfcUWc.png?width=1227&height=917",
+    "folder": "about",
+    "localPath": "assets-source\\original\\about\\tM9dFJoYpuPFsgm0rEyiucfcUWc.png",
+    "status": "downloaded",
+    "size": 283484,
+    "contentType": "image/png",
+    "sha256": "8d8d1a2b6beafbde05cdb796b759c37deaaa0f89512a6ef205be435f3ce711a0"
+  },
+  {
+    "sourceUrl": "https://framerusercontent.com/images/UzJzJqXzd7hGr0L8GmNzJ0s41wM.png?width=1254&height=1254",
+    "folder": "about",
+    "localPath": "assets-source\\original\\about\\UzJzJqXzd7hGr0L8GmNzJ0s41wM.png",
+    "status": "downloaded",
+    "size": 392267,
+    "contentType": "image/png",
+    "sha256": "48ccdc02c34805f8f8c31e10411aa604096472a0c1fc6c2c48ef189f0eab2cb1"
+  },
+  {
+    "sourceUrl": "https://framerusercontent.com/images/ci1UaZ0kvUmKEdgx7EOGFleYTo.svg?width=800&height=800",
+    "folder": "about",
+    "localPath": "assets-source\\original\\about\\ci1UaZ0kvUmKEdgx7EOGFleYTo.svg",
+    "status": "downloaded",
+    "size": 208,
+    "contentType": "image/svg+xml",
+    "sha256": "5528f1f8d91de5ae83a419c37e8bc664d1e617db2febf0119cfeecd5b5533e28"
+  },
+  {
+    "sourceUrl": "https://framerusercontent.com/images/ALQstMfPrtqwn4YcWXNvneT92fg.svg?width=800&height=800",
+    "folder": "about",
+    "localPath": "assets-source\\original\\about\\ALQstMfPrtqwn4YcWXNvneT92fg.svg",
+    "status": "downloaded",
+    "size": 946,
+    "contentType": "image/svg+xml",
+    "sha256": "7501fe9edef20c4036a3e1ca58bfecb6deafab1228fe1b8a7a52ab18cc09c883"
+  },
+  {
+    "sourceUrl": "https://framerusercontent.com/images/Xc4LE3LkV6WFbkGO1O4vvBb1v0.png?width=960&height=960",
+    "folder": "about",
+    "localPath": "assets-source\\original\\about\\Xc4LE3LkV6WFbkGO1O4vvBb1v0.png",
+    "status": "downloaded",
+    "size": 6348,
+    "contentType": "image/png",
+    "sha256": "fcdbd1ce2d1a955f0cd63479b0bdc9d35b2321409fcc389e26b982f97891f7ed"
+  },
+  {
+    "sourceUrl": "https://framerusercontent.com/images/BDVysRFEd3LQfO5Kta9TDvjYlM.svg?width=42&height=42",
+    "folder": "about",
+    "localPath": "assets-source\\original\\about\\BDVysRFEd3LQfO5Kta9TDvjYlM.svg",
+    "status": "downloaded",
+    "size": 871,
+    "contentType": "image/svg+xml",
+    "sha256": "42f61ef497b91b34b8c667c4aedb235dd1528e96a7e1540782ac83c1554aab4c"
+  },
+  {
+    "sourceUrl": "https://framerusercontent.com/images/5xFWoMTW4cSYWo5t83cv8Yp6Ao.svg?width=1080&height=1080",
+    "folder": "about",
+    "localPath": "assets-source\\original\\about\\5xFWoMTW4cSYWo5t83cv8Yp6Ao.svg",
+    "status": "downloaded",
+    "size": 445,
+    "contentType": "image/svg+xml",
+    "sha256": "fc43dcf5c03a12f4edce93e7031a4184c979c6c07d0e45d8424eae4a04be0d9a"
+  },
+  {
+    "sourceUrl": "https://framerusercontent.com/images/hiVKDTvJcZfQcvsdGemPrqIROGc.png?width=1244&height=1265",
+    "folder": "about",
+    "localPath": "assets-source\\original\\about\\hiVKDTvJcZfQcvsdGemPrqIROGc.png",
+    "status": "downloaded",
+    "size": 318501,
+    "contentType": "image/png",
+    "sha256": "9c2ed36e020d618fab9c4ee410b584f019b0afe757250c38c92681cf99cd27e0"
+  },
+  {
+    "sourceUrl": "https://framerusercontent.com/images/rcdZYeqHhc1RzZqUSukZ7FjrPU.jpg?width=1600&height=1200",
+    "folder": "projects",
+    "localPath": "assets-source\\original\\projects\\grido-rcdZYeqHhc1RzZqUSukZ7FjrPU.jpg",
+    "status": "downloaded",
+    "size": 139236,
+    "contentType": "image/jpeg",
+    "sha256": "12a14a83410161a358a30460592d07286ad0829b89a088362e338c9f42708f54"
+  },
+  {
+    "sourceUrl": "https://framerusercontent.com/images/yurOrV9HSGdEsnvLt9Ld1BkmOUE.jpg?width=1600&height=1200",
+    "folder": "projects",
+    "localPath": "assets-source\\original\\projects\\trainly-yurOrV9HSGdEsnvLt9Ld1BkmOUE.jpg",
+    "status": "downloaded",
+    "size": 118299,
+    "contentType": "image/jpeg",
+    "sha256": "6d78b37273929eedfc55f4db7a562cfb34d628fba34dbcc0786e6a941e459023"
+  },
+  {
+    "sourceUrl": "https://framerusercontent.com/images/gNE42N9R0qGc9OHBFrF4nlkU7Uc.jpg?width=1400&height=950",
+    "folder": "projects",
+    "localPath": "assets-source\\original\\projects\\landify-gNE42N9R0qGc9OHBFrF4nlkU7Uc.jpg",
+    "status": "downloaded",
+    "size": 112788,
+    "contentType": "image/jpeg",
+    "sha256": "2e456fa9acc1fb737f542a818765063266efeb13941921da3890f4cd68597c17"
+  },
+  {
+    "sourceUrl": "https://framerusercontent.com/images/32gcdV5ff2LXMOwN60H0XoW7o.png?width=1800&height=1350",
+    "folder": "projects",
+    "localPath": "assets-source\\original\\projects\\thinkbot-32gcdV5ff2LXMOwN60H0XoW7o.png",
+    "status": "downloaded",
+    "size": 142886,
+    "contentType": "image/png",
+    "sha256": "680b7441bf096c8915c182a5815cfdae87c171bcd2664454ba91f3ee3e8ca2f9"
+  },
+  {
+    "sourceUrl": "https://framerusercontent.com/images/x8QjjWJgQ7mE4UcfgBK3SJdSc.jpg?width=1600&height=1200",
+    "folder": "projects",
+    "localPath": "assets-source\\original\\projects\\groomix-x8QjjWJgQ7mE4UcfgBK3SJdSc.jpg",
+    "status": "downloaded",
+    "size": 189870,
+    "contentType": "image/jpeg",
+    "sha256": "b0cc94025373ca36e09b529f819fcba611381eb401307c1d86173566ba7ab828"
+  },
+  {
+    "sourceUrl": "https://framerusercontent.com/images/MmaC78GDt31ZEKuovGIcUhBq4.jpg?width=1600&height=1200",
+    "folder": "projects",
+    "localPath": "assets-source\\original\\projects\\studyflow-MmaC78GDt31ZEKuovGIcUhBq4.jpg",
+    "status": "downloaded",
+    "size": 168481,
+    "contentType": "image/jpeg",
+    "sha256": "e8790d1b9b78011ba664de16886677669b9cc07c2e390eea57e0802207047220"
+  },
+  {
+    "sourceUrl": "https://framerusercontent.com/images/iZEy2ZAxWxtczASPvxcMhf4r96o.png?width=1600&height=1200",
+    "folder": "projects",
+    "localPath": "assets-source\\original\\projects\\ai-nest-iZEy2ZAxWxtczASPvxcMhf4r96o.png",
+    "status": "downloaded",
+    "size": 227032,
+    "contentType": "image/png",
+    "sha256": "77dbce98e81e966c61802fcde1d590633e03665354c46516ece71f2a216f282e"
+  },
+  {
+    "sourceUrl": "https://framerusercontent.com/images/VQ0Ch42t3nD4MPPkCwFnoIK75k.png?width=1600&height=1200",
+    "folder": "projects",
+    "localPath": "assets-source\\original\\projects\\gradia-VQ0Ch42t3nD4MPPkCwFnoIK75k.png",
+    "status": "downloaded",
+    "size": 447637,
+    "contentType": "image/png",
+    "sha256": "fd692cbd824d9b4010be5e816a4d6f4c052bd043ec0330770ba27975bc267e84"
+  },
+  {
+    "sourceUrl": "https://framerusercontent.com/images/yJo9sAXzSw0aFuZefpvQozrGk.png?width=1600&height=1200",
+    "folder": "projects",
+    "localPath": "assets-source\\original\\projects\\designor-yJo9sAXzSw0aFuZefpvQozrGk.png",
+    "status": "downloaded",
+    "size": 35788,
+    "contentType": "image/png",
+    "sha256": "b326b2379ce29d7911c42a1bac5968243cf3aacbf4afc5d47607059b3b3d56dd"
+  },
+  {
+    "sourceUrl": "https://framerusercontent.com/images/b1r5b9SBnUmYvLsg1LneyM0AmQ.png?width=1800&height=1360",
+    "folder": "projects",
+    "localPath": "assets-source\\original\\projects\\pixor-b1r5b9SBnUmYvLsg1LneyM0AmQ.png",
+    "status": "downloaded",
+    "size": 151106,
+    "contentType": "image/png",
+    "sha256": "2adddd62c4205ca0d256d67e2887b90d5562836809b35fd7fc497179955c81b8"
+  },
+  {
+    "sourceUrl": "https://framerusercontent.com/images/qJmk90RjPjctUnBV6K1IRSiA.jpg?width=1600&height=1200",
+    "folder": "projects",
+    "localPath": "assets-source\\original\\projects\\residra-qJmk90RjPjctUnBV6K1IRSiA.jpg",
+    "status": "downloaded",
+    "size": 154595,
+    "contentType": "image/jpeg",
+    "sha256": "556786a5f382feb71f9267f683be3643855f3531a3fdc6cd1494fd9fea8fe1bf"
+  },
+  {
+    "sourceUrl": "https://framerusercontent.com/images/Ai0d6S92eWmzlLAXWZplOGNfvI.jpg?width=1600&height=1200",
+    "folder": "projects",
+    "localPath": "assets-source\\original\\projects\\kavro-Ai0d6S92eWmzlLAXWZplOGNfvI.jpg",
+    "status": "downloaded",
+    "size": 117265,
+    "contentType": "image/jpeg",
+    "sha256": "61f2fdbc30613149f18fc58228d118d8d706b91f1d22630d1d82dce45d2fa4f6"
+  },
+  {
+    "sourceUrl": "https://framerusercontent.com/images/RjzRlDxhmi32y6DQJ9DBXT8yh4.jpg?width=3200&height=2400",
+    "folder": "projects",
+    "localPath": "assets-source\\original\\projects\\taskify-RjzRlDxhmi32y6DQJ9DBXT8yh4.jpg",
+    "status": "downloaded",
+    "size": 352346,
+    "contentType": "image/jpeg",
+    "sha256": "6e66fdfab80519b91300f7f5650456caab740311aba848a70449a9bbb6211d45"
+  },
+  {
+    "sourceUrl": "https://framerusercontent.com/images/VVF44Vg2n8V7Lk6z7eH43gdY6w.jpg?width=3200&height=2400",
+    "folder": "projects",
+    "localPath": "assets-source\\original\\projects\\flexify-VVF44Vg2n8V7Lk6z7eH43gdY6w.jpg",
+    "status": "downloaded",
+    "size": 516322,
+    "contentType": "image/jpeg",
+    "sha256": "a9be8631b697e871db2e855f51f5966ca9b0d163481c354c995117bb3882afc0"
+  },
+  {
+    "sourceUrl": "https://framerusercontent.com/images/BNzwvj9aLbCPPeays4RiNQ8JNP0.jpg?width=3200&height=2400",
+    "folder": "projects",
+    "localPath": "assets-source\\original\\projects\\nexus-ai-BNzwvj9aLbCPPeays4RiNQ8JNP0.jpg",
+    "status": "downloaded",
+    "size": 454492,
+    "contentType": "image/jpeg",
+    "sha256": "ea12792aeb575803d4d9f0e950f9b99fd3ef9ec76f72f611f21e4b3626a8a759"
+  },
+  {
+    "sourceUrl": "https://framerusercontent.com/images/CEdvGqTZaaLFiXiSdNL1DHJOI.jpg?width=3200&height=2400",
+    "folder": "projects",
+    "localPath": "assets-source\\original\\projects\\dailyhub-CEdvGqTZaaLFiXiSdNL1DHJOI.jpg",
+    "status": "downloaded",
+    "size": 671849,
+    "contentType": "image/jpeg",
+    "sha256": "a638940c9d40f354a6b089220663bac7ac706c64e7f470e0aae9bfa8155cbe3d"
+  },
+  {
+    "sourceUrl": "https://framerusercontent.com/images/xdEnlLaD5GE3PLewiCiXXjakLw.jpg?width=3200&height=2400",
+    "folder": "projects",
+    "localPath": "assets-source\\original\\projects\\agentify-xdEnlLaD5GE3PLewiCiXXjakLw.jpg",
+    "status": "downloaded",
+    "size": 527083,
+    "contentType": "image/jpeg",
+    "sha256": "26b17e329182fef06787b19654f263f161592560b553e6d50eedbb44bef1bc9a"
+  },
+  {
+    "sourceUrl": "https://framerusercontent.com/images/olWW1WlfcsR5y2LkNUHQa4FQrI.jpg?width=3200&height=2400",
+    "folder": "projects",
+    "localPath": "assets-source\\original\\projects\\protify-olWW1WlfcsR5y2LkNUHQa4FQrI.jpg",
+    "status": "downloaded",
+    "size": 491374,
+    "contentType": "image/jpeg",
+    "sha256": "9fce6e3cdf8cef9d5f4b6f8a58126a389f9a495673f47bbc7b1f16e513777fae"
+  },
+  {
+    "sourceUrl": "https://framerusercontent.com/images/bwGGYnVin4hQLeJPhdvJDM8yO6I.jpg?width=3200&height=2400",
+    "folder": "projects",
+    "localPath": "assets-source\\original\\projects\\startify-bwGGYnVin4hQLeJPhdvJDM8yO6I.jpg",
+    "status": "downloaded",
+    "size": 292327,
+    "contentType": "image/jpeg",
+    "sha256": "68b95acd9a352c071700c08aedf7ba04d9f2a870c3fc52ad8da17e54f806911b"
+  },
+  {
+    "sourceUrl": "https://framerusercontent.com/images/ZnXIdG5NETG7LwuWtPfqYlgEaFc.jpg?width=3200&height=2400",
+    "folder": "projects",
+    "localPath": "assets-source\\original\\projects\\flowboard-ZnXIdG5NETG7LwuWtPfqYlgEaFc.jpg",
+    "status": "downloaded",
+    "size": 830388,
+    "contentType": "image/jpeg",
+    "sha256": "8ba796dd0cf75a7b21d5f393d9ca4978eb9570aca3cc5e1f41d8447484c85a8a"
+  },
+  {
+    "sourceUrl": "https://framerusercontent.com/images/3VUGMge5jE5qk3iBey0NLqhZE.jpg?width=3200&height=2400",
+    "folder": "projects",
+    "localPath": "assets-source\\original\\projects\\platify-3VUGMge5jE5qk3iBey0NLqhZE.jpg",
+    "status": "downloaded",
+    "size": 316032,
+    "contentType": "image/jpeg",
+    "sha256": "250577de5c80d9626913e152c7a2f20eed8decd32c4d2abbc0b01fd333fcb802"
+  },
+  {
+    "sourceUrl": "https://framerusercontent.com/images/HvEjI5nnCrtIvttqSWsyCuVM.jpg?width=1037&height=691",
+    "folder": "articles",
+    "localPath": "assets-source\\original\\articles\\crafting-exceptional-user-experiences-HvEjI5nnCrtIvttqSWsyCuVM.jpg",
+    "status": "downloaded",
+    "size": 112360,
+    "contentType": "image/jpeg",
+    "sha256": "e80aaa6ec5b566d067dbef3f9d426095026217ec18f2132c5acf6bec1feae78d"
+  },
+  {
+    "sourceUrl": "https://framerusercontent.com/images/4cF7vTWqSD6k0W86ffeveQjsc2Q.png?width=960&height=640",
+    "folder": "articles",
+    "localPath": "assets-source\\original\\articles\\ui-design-elevating-experiences-4cF7vTWqSD6k0W86ffeveQjsc2Q.png",
+    "status": "downloaded",
+    "size": 241850,
+    "contentType": "image/png",
+    "sha256": "e79782592caa122988c405529ca9c66ef57d46ae6d85b2ffc536b18d24fe7e69"
+  },
+  {
+    "sourceUrl": "https://framerusercontent.com/images/vss98kimC7Rm3BkWtOJ4E7PF0.png?width=960&height=641",
+    "folder": "articles",
+    "localPath": "assets-source\\original\\articles\\the-ux-revolution-shaping-digital-experiences-vss98kimC7Rm3BkWtOJ4E7PF0.png",
+    "status": "downloaded",
+    "size": 194632,
+    "contentType": "image/png",
+    "sha256": "47f7c5b626380ccb48c0f01ba49aa10fdbfd3d72195343306951b4814413817d"
+  },
+  {
+    "sourceUrl": "https://framerusercontent.com/images/5GbIrngxJhowImxRpAWUx622xc.png?width=960&height=662",
+    "folder": "articles",
+    "localPath": "assets-source\\original\\articles\\mastering-ui-design-trends-a-deep-dive-5GbIrngxJhowImxRpAWUx622xc.png",
+    "status": "downloaded",
+    "size": 209949,
+    "contentType": "image/png",
+    "sha256": "9828c45690ed7b5a34e1d95a7f26e2e7cac3f75dbbc898b501e9ddf4c6f59194"
+  },
+  {
+    "sourceUrl": "https://framerusercontent.com/images/gEuLZWqISbowA6Z5TeEzISEsgs.jpg?width=1176&height=770",
+    "folder": "articles",
+    "localPath": "assets-source\\original\\articles\\the-power-of-responsive-web-design-gEuLZWqISbowA6Z5TeEzISEsgs.jpg",
+    "status": "downloaded",
+    "size": 110562,
+    "contentType": "image/jpeg",
+    "sha256": "a4cd25ebee5aa7a04fdf0c1a8530b6f4ca7e7112ef0033d239f38e0020af2fcf"
+  },
+  {
+    "sourceUrl": "https://framerusercontent.com/images/32Ao0YOpynUtm9KTYphzi9oT2eQ.jpg?width=1037&height=691",
+    "folder": "articles",
+    "localPath": "assets-source\\original\\articles\\mastering-the-craft-of-user-experience-design-32Ao0YOpynUtm9KTYphzi9oT2eQ.jpg",
+    "status": "downloaded",
+    "size": 108238,
+    "contentType": "image/jpeg",
+    "sha256": "34c27ccd6bd048b18cebc774ba9a4931ab40661635a9213984d9701c46e9ae97"
+  },
+  {
+    "sourceUrl": "https://framerusercontent.com/images/KjsfCaVMvkjlLs2CFlHb4HZqE.jpg?width=982&height=1471",
+    "folder": "articles",
+    "localPath": "assets-source\\original\\articles\\revolutionizing-ux-design-KjsfCaVMvkjlLs2CFlHb4HZqE.jpg",
+    "status": "downloaded",
+    "size": 295891,
+    "contentType": "image/jpeg",
+    "sha256": "fee34e6515fd96f304e2e173d5a2c99876959379665ef674e70a116cc7ea3052"
+  },
+  {
+    "sourceUrl": "https://framerusercontent.com/images/CteRnkedt2SHUnA2jjD4Ds7Y.jpg?width=726&height=908",
+    "folder": "articles",
+    "localPath": "assets-source\\original\\articles\\10-web-design-trends-to-watch-in-2023-CteRnkedt2SHUnA2jjD4Ds7Y.jpg",
+    "status": "downloaded",
+    "size": 107409,
+    "contentType": "image/jpeg",
+    "sha256": "f1a20be7e6d5babfdd9b29b3d7666caac3d5a0e8341da7816825d7263158c6d4"
+  },
+  {
+    "sourceUrl": "https://framerusercontent.com/images/QvhBmuXxN4j9e9lYPSdADXY9mE.jpg?width=1200&height=800",
+    "folder": "articles",
+    "localPath": "assets-source\\original\\articles\\the-art-of-responsive-web-design-QvhBmuXxN4j9e9lYPSdADXY9mE.jpg",
+    "status": "downloaded",
+    "size": 120339,
+    "contentType": "image/jpeg",
+    "sha256": "d3ff9d6461bc4f5e04d414bafbd871748bc505f0ebf3e86ec4940f3d5f071648"
+  },
+  {
+    "sourceUrl": "https://framerusercontent.com/images/IBw4Si6UN9kcQoOJzmLjrFRQ.jpg?width=1340&height=893",
+    "folder": "articles",
+    "localPath": "assets-source\\original\\articles\\boosting-website-performance-with-smart-design-practices-IBw4Si6UN9kcQoOJzmLjrFRQ.jpg",
+    "status": "downloaded",
+    "size": 144565,
+    "contentType": "image/jpeg",
+    "sha256": "6e6862da5339876dbafca73f093c8eae9026ef73410700566a69aef10c0d25aa"
+  },
+  {
+    "sourceUrl": "https://framerusercontent.com/images/GEAbPaLGvmC6oHqfJUtgkOIs4lA.jpg?width=1188&height=668",
+    "folder": "articles",
+    "localPath": "assets-source\\original\\articles\\crafting-exceptional-user-interfaces-GEAbPaLGvmC6oHqfJUtgkOIs4lA.jpg",
+    "status": "downloaded",
+    "size": 108978,
+    "contentType": "image/jpeg",
+    "sha256": "8972e8b6617b3d14e3422cfc0e92b1724c5bd562aedf4ea229c6861ef8c817c2"
+  },
+  {
+    "sourceUrl": "https://framerusercontent.com/images/6RUmSize6gWxKuNHFjc2Kg9Vkos.jpg?width=1258&height=836",
+    "folder": "articles",
+    "localPath": "assets-source\\original\\articles\\mastering-mobile-ui-design-best-practices-for-a-seamless-experience-6RUmSize6gWxKuNHFjc2Kg9Vkos.jpg",
+    "status": "downloaded",
+    "size": 171400,
+    "contentType": "image/jpeg",
+    "sha256": "f57696a7ba619e595ad66e5e8566e96298bcf71d5d0c52865f947ea222aae6fe"
+  }
+]
