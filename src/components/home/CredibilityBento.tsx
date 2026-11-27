@@ -78,7 +78,7 @@ export function CredibilityBento() {
             <div className={styles.ratingBottom}>
               <span className={styles.ratingScore}>{credibilitySection.ratingScore}</span>
               <div>
-                <div className={styles.stars} aria-label="4.9 out of 5 stars">
+                <div className={styles.stars} role="img" aria-label="4.9 out of 5 stars">
                   {Array.from({ length: 5 }).map((_, i) => (
                     <Star key={i} size={13} fill="#f59e0b" color="#f59e0b" aria-hidden="true" />
                   ))}

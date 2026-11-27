@@ -32,7 +32,7 @@ export function TestimonialsSection() {
             />
             <div className={styles.darkInner}>
               <div>
-                <div className={styles.stars} aria-label="5 out of 5 stars">
+                <div className={styles.stars} role="img" aria-label="5 out of 5 stars">
                   {Array.from({ length: 5 }).map((_, i) => (
                     <Star key={i} size={13} fill="#f59e0b" color="#f59e0b" aria-hidden="true" />
                   ))}

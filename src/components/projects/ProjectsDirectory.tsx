@@ -60,7 +60,7 @@ export function ProjectsDirectory() {
 
         <div className={styles.grid}>
           {displayed.map((project, idx) => (
-            <ProjectCard key={project.id} project={project} priority={idx < 4} />
+            <ProjectCard key={project.id} project={project} priority={idx < 4} headingAs="h2" />
           ))}
         </div>
 
