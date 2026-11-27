@@ -1,0 +1,66 @@
+export const siteConfig = {
+  brandName: "Sevora",
+  title: "Sevora — Designer portfolio",
+  description:
+    "Independent digital designer creating refined identities, websites, and product experiences shaped by strategy, clarity, and thoughtful execution.",
+  footerTagline:
+    "Creating refined digital experiences with clarity, intention, and thoughtful execution.",
+  logoMarkPath: "/assets/brand/sevora-mark.svg",
+  logoWordmarkShaderPath: "/assets/footer/sevora-wordmark-shader.png",
+  fluidDarkTexturePath: "/assets/textures/sevora-fluid-dark.gif",
+  demoMode: process.env.NEXT_PUBLIC_DEMO_MODE !== "false",
+  siteUrl: process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3000",
+  profile: {
+    name: "Sevora Vale",
+    role: "Founder & Designer",
+    sinceYear: "2016",
+    bookingPeriod: "Currently booking for August - September 2026",
+    availabilityStatus: "Available for selected projects",
+    availabilitySubtitle: "Currently accepting new projects",
+    email: "hello@sevora.com",
+    location: "Tallinn, Estonia / Remote",
+    responseTime: "Within 24 hours",
+    responseTimeLabel: "Responsive time",
+  },
+  navLinks: [
+    { label: "Home", href: "/" },
+    { label: "About", href: "/about" },
+    { label: "Projects", href: "/projects" },
+    { label: "Articles", href: "/articles" },
+    { label: "Contact", href: "/contact" },
+  ],
+  headerCta: {
+    label: "Let's talk",
+    href: "/contact",
+  },
+  socialLinks: [
+    { label: "X link", href: "https://x.com/Dmytri_Design" },
+    { label: "Linkedin", href: "https://www.linkedin.com/in/dmytri-design/" },
+    { label: "Dribbble", href: "https://dribbble.com/Stylokit" },
+  ],
+  attribution: {
+    copyright: "© Sevora Template | Created by Stylokit",
+    creatorName: "Stylokit",
+    creatorUrl: "https://stylokit.com/",
+    independentNote: "Independent Next.js Reconstruction",
+  },
+  contactOptions: {
+    projectTypes: [
+      { value: "brand_identity", label: "Brand identity" },
+      { value: "website_design", label: "Website design" },
+      { value: "framer_development", label: "Framer development" },
+      { value: "product_design", label: "Product design" },
+      { value: "landing_page", label: "Landing page" },
+      { value: "other", label: "Other" },
+    ],
+    budgetRanges: [
+      { value: "under_1k", label: "Under $1,000" },
+      { value: "1k_3k", label: "$1,000 - $3,000" },
+      { value: "3k_5k", label: "$3,000 - $5,000" },
+      { value: "5k_10k", label: "$5,000 - $10,000" },
+      { value: "10k_plus", label: "$10,000+" },
+      { value: "not_sure_yet", label: "Not sure yet" },
+    ],
+  },
+  pricingMode: (process.env.NEXT_PUBLIC_PRICING_FIXTURE as "published" | "screenshot") || "published",
+} as const;
