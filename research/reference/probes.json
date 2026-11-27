@@ -1,0 +1,62 @@
+{
+  "/robots.txt": {
+    "status": 200,
+    "finalUrl": "https://sevora.framer.website/robots.txt",
+    "title": "",
+    "snippet": "User-agent: *\nAllow: /\n\nSitemap: https://sevora.framer.website/sitemap.xml"
+  },
+  "/sitemap.xml": {
+    "status": 200,
+    "finalUrl": "https://sevora.framer.website/sitemap.xml",
+    "title": "",
+    "snippet": "This XML file does not appear to have any style information associated with it. The document tree is shown below.\n\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n<url>\n<loc>https://sevora.framer.website/</loc>\n</url>\n<url>\n<loc>https://sevora.framer.website/404</loc>\n</url>\n<url>\n<loc>https://sevora.framer.website/about</loc>\n</url>\n<url>\n<loc>https://sevora.framer.website/projects</"
+  },
+  "/404": {
+    "status": 404,
+    "finalUrl": "https://sevora.framer.website/404",
+    "title": "Sevora – Designer portfolio template",
+    "snippet": "Sevora\nHome\nAbout\nProjects\nArticles\nContact\nLet's talk\nSevora\nHome\nAbout\nProjects\nArticles\nContact\nLet's talk\n404 error\nPage not found\n\nWe're sorry, but the page you're looking for could not be found. It may have been moved, deleted, or never existed in the first place.\n\nBack to Home\nSevora\n\nCreating refined digital experiences with clarity, intention, and thoughtful execution.\n\nPages\nHome\nAbout\nP"
+  },
+  "/non-existent-route-xyz": {
+    "status": 404,
+    "finalUrl": "https://sevora.framer.website/non-existent-route-xyz",
+    "title": "Sevora – Designer portfolio template",
+    "snippet": "Sevora\nHome\nAbout\nProjects\nArticles\nContact\nLet's talk\nSevora\nHome\nAbout\nProjects\nArticles\nContact\nLet's talk\n404 error\nPage not found\n\nWe're sorry, but the page you're looking for could not be found. It may have been moved, deleted, or never existed in the first place.\n\nBack to Home\nSevora\n\nCreating refined digital experiences with clarity, intention, and thoughtful execution.\n\nPages\nHome\nAbout\nP"
+  },
+  "/style-guide": {
+    "status": 404,
+    "finalUrl": "https://sevora.framer.website/style-guide",
+    "title": "Sevora – Designer portfolio template",
+    "snippet": "Sevora\nHome\nAbout\nProjects\nArticles\nContact\nLet's talk\nSevora\nHome\nAbout\nProjects\nArticles\nContact\nLet's talk\n404 error\nPage not found\n\nWe're sorry, but the page you're looking for could not be found. It may have been moved, deleted, or never existed in the first place.\n\nBack to Home\nSevora\n\nCreating refined digital experiences with clarity, intention, and thoughtful execution.\n\nPages\nHome\nAbout\nP"
+  },
+  "/styleguide": {
+    "status": 404,
+    "finalUrl": "https://sevora.framer.website/styleguide",
+    "title": "Sevora – Designer portfolio template",
+    "snippet": "Sevora\nHome\nAbout\nProjects\nArticles\nContact\nLet's talk\nSevora\nHome\nAbout\nProjects\nArticles\nContact\nLet's talk\n404 error\nPage not found\n\nWe're sorry, but the page you're looking for could not be found. It may have been moved, deleted, or never existed in the first place.\n\nBack to Home\nSevora\n\nCreating refined digital experiences with clarity, intention, and thoughtful execution.\n\nPages\nHome\nAbout\nP"
+  },
+  "/guidelines": {
+    "status": 404,
+    "finalUrl": "https://sevora.framer.website/guidelines",
+    "title": "Sevora – Designer portfolio template",
+    "snippet": "Sevora\nHome\nAbout\nProjects\nArticles\nContact\nLet's talk\nSevora\nHome\nAbout\nProjects\nArticles\nContact\nLet's talk\n404 error\nPage not found\n\nWe're sorry, but the page you're looking for could not be found. It may have been moved, deleted, or never existed in the first place.\n\nBack to Home\nSevora\n\nCreating refined digital experiences with clarity, intention, and thoughtful execution.\n\nPages\nHome\nAbout\nP"
+  },
+  "/home-2": {
+    "status": 404,
+    "finalUrl": "https://sevora.framer.website/home-2",
+    "title": "Sevora – Designer portfolio template",
+    "snippet": "Sevora\nHome\nAbout\nProjects\nArticles\nContact\nLet's talk\nSevora\nHome\nAbout\nProjects\nArticles\nContact\nLet's talk\n404 error\nPage not found\n\nWe're sorry, but the page you're looking for could not be found. It may have been moved, deleted, or never existed in the first place.\n\nBack to Home\nSevora\n\nCreating refined digital experiences with clarity, intention, and thoughtful execution.\n\nPages\nHome\nAbout\nP"
+  },
+  "/hero-2": {
+    "status": 404,
+    "finalUrl": "https://sevora.framer.website/hero-2",
+    "title": "Sevora – Designer portfolio template",
+    "snippet": "Sevora\nHome\nAbout\nProjects\nArticles\nContact\nLet's talk\nSevora\nHome\nAbout\nProjects\nArticles\nContact\nLet's talk\n404 error\nPage not found\n\nWe're sorry, but the page you're looking for could not be found. It may have been moved, deleted, or never existed in the first place.\n\nBack to Home\nSevora\n\nCreating refined digital experiences with clarity, intention, and thoughtful execution.\n\nPages\nHome\nAbout\nP"
+  },
+  "/integrations": {
+    "status": 404,
+    "finalUrl": "https://sevora.framer.website/integrations",
+    "title": "Sevora – Designer portfolio template",
+    "snippet": "Sevora\nHome\nAbout\nProjects\nArticles\nContact\nLet's talk\nSevora\nHome\nAbout\nProjects\nArticles\nContact\nLet's talk\n404 error\nPage not found\n\nWe're sorry, but the page you're looking for could not be found. It may have been moved, deleted, or never existed in the first place.\n\nBack to Home\nSevora\n\nCreating refined digital experiences with clarity, intention, and thoughtful execution.\n\nPages\nHome\nAbout\nP"
+  }
+}
